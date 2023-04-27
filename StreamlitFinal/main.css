@@ -1,0 +1,8 @@
+div[data-testid="stExpander"] div[role="button"] p {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+div[data-testid="stMarkdownContainer"]  p {
+    font-size: 1.2rem;
+}

@@ -1,0 +1,4141 @@
+brand,cleaned_model,productionyear,count,rounded Count,%,Status,Error,L.B,U.B
+Acura,CL,,3,0,0.00%,Nearly Unique,5,0,5
+Acura,Integra,,4,0,0.00%,Nearly Unique,5,0,5
+Acura,Legend,,5,5,0.00%,Nearly Unique,5,0,10
+Acura,RLX,,2,0,0.00%,Nearly Unique,5,0,5
+Acura,RSX,,1,0,0.00%,Unique,5,0,5
+Acura,TL,,1,0,0.00%,Unique,5,0,5
+Acura,Vigor,,3,0,0.00%,Nearly Unique,5,0,5
+Alfa Romeo,33,,105,105,0.01%,Very Rare,25,80,130
+Alfa Romeo,75,,22,20,0.00%,Extremely Rare,5,15,25
+Alfa Romeo,90,,7,5,0.00%,Nearly Unique,5,0,10
+Alfa Romeo,100,,4,0,0.00%,Nearly Unique,5,0,5
+Alfa Romeo,145,,14,10,0.00%,Nearly Unique,5,5,15
+Alfa Romeo,146,,204,200,0.01%,Very Rare,25,175,225
+Alfa Romeo,155,,72,70,0.00%,Very Rare,5,65,75
+Alfa Romeo,156,,464,460,0.03%,Rare,25,435,485
+Alfa Romeo,164,,52,50,0.00%,Very Rare,5,45,55
+Alfa Romeo,166,,19,15,0.00%,Nearly Unique,5,10,20
+Alfa Romeo,2300,,1,0,0.00%,Unique,5,0,5
+Alfa Romeo,2500,,3,0,0.00%,Nearly Unique,5,0,5
+Alfa Romeo,1.7 Sprint,,4,0,0.00%,Nearly Unique,5,0,5
+Alfa Romeo,1.8 Sportwagon,,6,5,0.00%,Nearly Unique,5,0,10
+Alfa Romeo,119 Sport,,1,0,0.00%,Unique,5,0,5
+Alfa Romeo,1300 GTA Junior,,26,25,0.00%,Extremely Rare,5,20,30
+Alfa Romeo,1600 Spider Duetto,,52,50,0.00%,Very Rare,5,45,55
+Alfa Romeo,1750 Berlina,,162,160,0.01%,Very Rare,25,135,185
+Alfa Romeo,1800 Berlina,,3,0,0.00%,Nearly Unique,5,0,5
+Alfa Romeo,2.5 V6,,6,5,0.00%,Nearly Unique,5,0,10
+Alfa Romeo,2000 GTV,,177,175,0.01%,Very Rare,25,150,200
+Alfa Romeo,24 HP,,1,0,0.00%,Unique,5,0,5
+Alfa Romeo,33 Quadrifoglio,,2,0,0.00%,Nearly Unique,5,0,5
+Alfa Romeo,6C 2500,,1,0,0.00%,Unique,5,0,5
+Alfa Romeo,Alfasud,,172,170,0.01%,Very Rare,25,145,195
+Alfa Romeo,Alfetta,,187,185,0.01%,Very Rare,25,160,210
+Alfa Romeo,Berline,,87,85,0.01%,Very Rare,5,80,90
+Alfa Romeo,Giulia GT Junior,,2,0,0.00%,Nearly Unique,5,0,5
+Alfa Romeo,Giulia Sprint GT Junior,,2,0,0.00%,Nearly Unique,5,0,5
+Alfa Romeo,Giulia Super,,1,0,0.00%,Unique,5,0,5
+Alfa Romeo,Giulietta,,205,205,0.01%,Very Rare,25,180,230
+Alfa Romeo,Giulietta Nuova,,1,0,0.00%,Unique,5,0,5
+Alfa Romeo,Milano,,9,5,0.00%,Nearly Unique,5,0,10
+Alfa Romeo,Montreal,,6,5,0.00%,Nearly Unique,5,0,10
+Alfa Romeo,Spider,,122,120,0.01%,Very Rare,25,95,145
+Alfa Romeo,Sprint,,46,45,0.00%,Very Rare,5,40,50
+Alfa Romeo,Twin Spark,,1,0,0.00%,Unique,5,0,5
+Alfa Romeo,,,229,225,0.01%,Very Rare,25,200,250
+AMC,Ambassador,,92,90,0.01%,Very Rare,5,85,95
+AMC,AMX,,11,10,0.00%,Nearly Unique,5,5,15
+AMC,Classic,,87,85,0.01%,Very Rare,5,80,90
+AMC,Concord,,1,0,0.00%,Unique,5,0,5
+AMC,Hornet,,35,35,0.00%,Extremely Rare,5,30,40
+AMC,Javelin,,66,65,0.00%,Very Rare,5,60,70
+AMC,Matador,,24,20,0.00%,Extremely Rare,5,15,25
+AMC,Nash,,2,0,0.00%,Nearly Unique,5,0,5
+AMC,Rambler American,,49,45,0.00%,Very Rare,5,40,50
+Aprillia,Habana,,1,0,0.00%,Unique,5,0,5
+Aprillia,Leonardo,,4,0,0.00%,Nearly Unique,5,0,5
+Aprillia,Pegaso 650,,2,0,0.00%,Nearly Unique,5,0,5
+Aprillia,RS125,,15,15,0.00%,Nearly Unique,5,10,20
+Aprillia,RS250,,3,0,0.00%,Nearly Unique,5,0,5
+Aprillia,RSV 1000 Viper,,2,0,0.00%,Nearly Unique,5,0,5
+Aprillia,Scarabeo,,2,0,0.00%,Nearly Unique,5,0,5
+Aprillia,Shiver 750,,1,0,0.00%,Unique,5,0,5
+Aprillia,SR50,,8,5,0.00%,Nearly Unique,5,0,10
+Aston Martin,DB7,,1,0,0.00%,Unique,5,0,5
+Aston Martin,DBS,,1,0,0.00%,Unique,5,0,5
+Aston Martin,Lagonda,,2,0,0.00%,Nearly Unique,5,0,5
+Aston Martin,Vantage,,1,0,0.00%,Unique,5,0,5
+Audi,1.8,,35,35,0.00%,Extremely Rare,5,30,40
+Audi,4.2,,14,10,0.00%,Nearly Unique,5,5,15
+Audi,5.5,,1,0,0.00%,Unique,5,0,5
+Audi,60,,172,170,0.01%,Very Rare,25,145,195
+Audi,80,,3887,3880,0.25%,Uncommon,25,3855,3905
+Audi,85,,2,0,0.00%,Nearly Unique,5,0,5
+Audi,90,,614,610,0.04%,Very Scarce,25,585,635
+Audi,100,,2697,2690,0.17%,Scarce,25,2665,2715
+Audi,155,,5,5,0.00%,Nearly Unique,5,0,10
+Audi,200,,195,195,0.01%,Very Rare,25,170,220
+Audi,1002,,2,0,0.00%,Nearly Unique,5,0,5
+Audi,4000,,42,40,0.00%,Very Rare,5,35,45
+Audi,5000,,64,60,0.00%,Very Rare,5,55,65
+Audi,100A,,2,0,0.00%,Nearly Unique,5,0,5
+Audi,100CS,,6,5,0.00%,Nearly Unique,5,0,10
+Audi,100CS Quattro,,4,0,0.00%,Nearly Unique,5,0,5
+Audi,100E,,86,85,0.01%,Very Rare,5,80,90
+Audi,2.3E,,8,5,0.00%,Nearly Unique,5,0,10
+Audi,200E,,5,5,0.00%,Nearly Unique,5,0,10
+Audi,5000S,,40,40,0.00%,Very Rare,5,35,45
+Audi,80E,,254,250,0.02%,Rare,25,225,275
+Audi,80GL,,34,30,0.00%,Extremely Rare,5,25,35
+Audi,90E,,69,65,0.00%,Very Rare,5,60,70
+Audi,A1,,1,0,0.00%,Unique,5,0,5
+Audi,A3,,305,305,0.02%,Rare,25,280,330
+Audi,A4,,1005,1000,0.06%,Scarce,25,975,1025
+Audi,A5,,6,5,0.00%,Nearly Unique,5,0,10
+Audi,A5,,1,0,0.00%,Unique,5,0,5
+Audi,A6,,425,425,0.03%,Rare,25,400,450
+Audi,A8,,61,60,0.00%,Very Rare,5,55,65
+Audi,Q5,,2,0,0.00%,Nearly Unique,5,0,5
+Audi,Q7,,1,0,0.00%,Unique,5,0,5
+Audi,RS2 Avant,,1,0,0.00%,Unique,5,0,5
+Audi,S3,,4,0,0.00%,Nearly Unique,5,0,5
+Audi,S4,,7,5,0.00%,Nearly Unique,5,0,10
+Audi,S6,,3,0,0.00%,Nearly Unique,5,0,5
+Audi,S8,,26,25,0.00%,Extremely Rare,5,20,30
+Audi,TT,,195,195,0.01%,Very Rare,25,170,220
+Audi,Turbo,,7,5,0.00%,Nearly Unique,5,0,10
+Audi,,,234,230,0.01%,Very Rare,25,205,255
+Austin,7,,1,0,0.00%,Unique,5,0,5
+Austin,50,,2,0,0.00%,Nearly Unique,5,0,5
+Austin,60,,2,0,0.00%,Nearly Unique,5,0,5
+Austin,200,,3,0,0.00%,Nearly Unique,5,0,5
+Austin,213,,2,0,0.00%,Nearly Unique,5,0,5
+Austin,250,,2,0,0.00%,Nearly Unique,5,0,5
+Austin,825,,2,0,0.00%,Nearly Unique,5,0,5
+Austin,850,,5,5,0.00%,Nearly Unique,5,0,10
+Austin,1000,,13,10,0.00%,Nearly Unique,5,5,15
+Austin,1100,,96,95,0.01%,Very Rare,5,90,100
+Austin,1300,,68,65,0.00%,Very Rare,5,60,70
+Austin,1500,,16,15,0.00%,Nearly Unique,5,10,20
+Austin,1750,,35,35,0.00%,Extremely Rare,5,30,40
+Austin,1800,,36,35,0.00%,Extremely Rare,5,30,40
+Austin, G-type,,1,0,0.00%,Unique,5,0,5
+Austin,1/2 Ton,,6,5,0.00%,Nearly Unique,5,0,10
+Austin,1/2 Ton Pick Up,,2,0,0.00%,Nearly Unique,5,0,5
+Austin,1/2 Ton Van,,14,10,0.00%,Nearly Unique,5,5,15
+Austin,5C,,1,0,0.00%,Unique,5,0,5
+Austin,A100,,4,0,0.00%,Nearly Unique,5,0,5
+Austin,A1100,,213,210,0.01%,Very Rare,25,185,235
+Austin,A1300,,127,125,0.01%,Very Rare,25,100,150
+Austin,A40,,8,5,0.00%,Nearly Unique,5,0,10
+Austin,A50,,1,0,0.00%,Unique,5,0,5
+Austin,A55,,7,5,0.00%,Nearly Unique,5,0,10
+Austin,A55,,2,0,0.00%,Nearly Unique,5,0,5
+Austin,A60,,23,20,0.00%,Extremely Rare,5,15,25
+Austin,A65,,1,0,0.00%,Unique,5,0,5
+Austin,AJ5,,1,0,0.00%,Unique,5,0,5
+Austin,Cambridge,,641,640,0.04%,Very Scarce,25,615,665
+Austin,Camion,,2,0,0.00%,Nearly Unique,5,0,5
+Austin,England,,1,0,0.00%,Unique,5,0,5
+Austin,Falker,,1,0,0.00%,Unique,5,0,5
+Austin,Ford Escort maybe,,1,0,0.00%,Unique,5,0,5
+Austin,FX4,,3,0,0.00%,Nearly Unique,5,0,5
+Austin,Healey Sprite,,11,10,0.00%,Nearly Unique,5,5,15
+Austin,J4,,10,10,0.00%,Nearly Unique,5,5,15
+Austin,Jeep,,4,0,0.00%,Nearly Unique,5,0,5
+Austin,M10,,1,0,0.00%,Unique,5,0,5
+Austin,Maxi,,91,90,0.01%,Very Rare,5,85,95
+Austin,Metro,,9,5,0.00%,Nearly Unique,5,0,10
+Austin,Mini,,175,175,0.01%,Very Rare,25,150,200
+Austin,Mini Clubman,,80,80,0.01%,Very Rare,5,75,85
+Austin,Mini Clubman,,13,10,0.00%,Nearly Unique,5,5,15
+Austin,Mini Cooper,,38,35,0.00%,Extremely Rare,5,30,40
+Austin,Montego,,5,5,0.00%,Nearly Unique,5,0,10
+Austin,Prince,,9,5,0.00%,Nearly Unique,5,0,10
+Austin,Rover,,11,10,0.00%,Nearly Unique,5,5,15
+Austin,Sprite Mk II,,3,0,0.00%,Nearly Unique,5,0,5
+Austin,Telex Club,,1,0,0.00%,Unique,5,0,5
+Austin,Ton Van,,2,0,0.00%,Nearly Unique,5,0,5
+Austin,Western,,1,0,0.00%,Unique,5,0,5
+Austin,Westminster,,1,0,0.00%,Unique,5,0,5
+Austin,,,318,315,0.02%,Rare,25,290,340
+Bajaj,Classic,,19,15,0.00%,Nearly Unique,5,10,20
+Bajaj,Discover 125,,6,5,0.00%,Nearly Unique,5,0,10
+Bajaj,Legend,,1,0,0.00%,Unique,5,0,5
+Bajaj,Pulsar 150,,16,15,0.00%,Nearly Unique,5,10,20
+Bentley,Arnage,,1,0,0.00%,Unique,5,0,5
+Bentley,Bentley,,10,10,0.00%,Nearly Unique,5,5,15
+Bentley,Berline S3,,1,0,0.00%,Unique,5,0,5
+Bentley,Brooklands,,3,0,0.00%,Nearly Unique,5,0,5
+Bentley,Corniche,,1,0,0.00%,Unique,5,0,5
+Bentley,Eight,,1,0,0.00%,Unique,5,0,5
+Bentley,Mark VI,,2,0,0.00%,Nearly Unique,5,0,5
+Bentley,S,,2,0,0.00%,Nearly Unique,5,0,5
+Bentley,S2,,6,5,0.00%,Nearly Unique,5,0,10
+Bentley,T2,,2,0,0.00%,Nearly Unique,5,0,5
+Bentley,Turbo R,,5,5,0.00%,Nearly Unique,5,0,10
+Bertone,Freeclimber ,,8,5,0.00%,Nearly Unique,5,0,10
+Bertone,Wira,,3,0,0.00%,Nearly Unique,5,0,5
+BMW,2.8,,2,0,0.00%,Nearly Unique,5,0,5
+BMW,3,,92,90,0.01%,Very Rare,5,85,95
+BMW,3.5,,2,0,0.00%,Nearly Unique,5,0,5
+BMW,3.8,,1,0,0.00%,Unique,5,0,5
+BMW,125,,1,0,0.00%,Unique,5,0,5
+BMW,220,,1,0,0.00%,Unique,5,0,5
+BMW,250,,1,0,0.00%,Unique,5,0,5
+BMW,252,,2,0,0.00%,Nearly Unique,5,0,5
+BMW,302,,2,0,0.00%,Nearly Unique,5,0,5
+BMW,305,,10,10,0.00%,Nearly Unique,5,5,15
+BMW,315,,87,85,0.01%,Very Rare,5,80,90
+BMW,316,,3120,3120,0.20%,Scarce,25,3095,3145
+BMW,318,,1928,1920,0.12%,Scarce,25,1895,1945
+BMW,320,,14387,14380,0.89%,Common,100,14280,14480
+BMW,323,,731,730,0.05%,Very Scarce,25,705,755
+BMW,325,,959,955,0.06%,Very Scarce,25,930,980
+BMW,326,,1,0,0.00%,Unique,5,0,5
+BMW,328,,50,50,0.00%,Very Rare,5,45,55
+BMW,501,,1,0,0.00%,Unique,5,0,5
+BMW,518,,967,965,0.06%,Very Scarce,25,940,990
+BMW,520,,6278,6270,0.40%,Uncommon,100,6170,6370
+BMW,525,,9448,9440,0.60%,Uncommon,100,9340,9540
+BMW,528,,2622,2620,0.17%,Scarce,25,2595,2645
+BMW,700,,1,0,0.00%,Unique,5,0,5
+BMW,728,,3079,3070,0.20%,Scarce,25,3045,3095
+BMW,730,,2394,2390,0.15%,Scarce,25,2365,2415
+BMW,1100,,7,5,0.00%,Nearly Unique,5,0,10
+BMW,1200,,10,10,0.00%,Nearly Unique,5,5,15
+BMW,1300,,1,0,0.00%,Unique,5,0,5
+BMW,1500,,20,20,0.00%,Extremely Rare,5,15,25
+BMW,1502,,165,165,0.01%,Very Rare,25,140,190
+BMW,1600,,192,190,0.01%,Very Rare,25,165,215
+BMW,1602,,547,545,0.04%,Very Scarce,25,520,570
+BMW,1800,,223,220,0.01%,Very Rare,25,195,245
+BMW,1802,,247,245,0.02%,Rare,25,220,270
+BMW,2000,,440,440,0.03%,Rare,25,415,465
+BMW,2002,,3797,3790,0.24%,Uncommon,25,3765,3815
+BMW,2500,,139,135,0.01%,Very Rare,25,110,160
+BMW,2800,,105,105,0.01%,Very Rare,25,80,130
+BMW,3000,,1,0,0.00%,Unique,5,0,5
+BMW,2.5CS,,1,0,0.00%,Unique,5,0,5
+BMW,2000CS,,8,5,0.00%,Nearly Unique,5,0,10
+BMW,218i,,1,0,0.00%,Unique,5,0,5
+BMW,250i,,2,0,0.00%,Nearly Unique,5,0,5
+BMW,2800CS,,14,10,0.00%,Nearly Unique,5,5,15
+BMW,280i,,3,0,0.00%,Nearly Unique,5,0,5
+BMW,3.0CS,,29,25,0.00%,Extremely Rare,5,20,30
+BMW,3.0CSi,,22,20,0.00%,Extremely Rare,5,15,25
+BMW,315i,,2,0,0.00%,Nearly Unique,5,0,5
+BMW,316i,,2316,2310,0.15%,Scarce,25,2285,2335
+BMW,316iA,,1522,1520,0.10%,Scarce,25,1495,1545
+BMW,318i,,6951,6950,0.45%,Uncommon,100,6850,7050
+BMW,318iA,,4379,4370,0.28%,Uncommon,25,4345,4395
+BMW,318iC,,111,110,0.01%,Very Rare,25,85,135
+BMW,3200CS,,1,0,0.00%,Unique,5,0,5
+BMW,320i,,5918,5910,0.38%,Uncommon,100,5810,6010
+BMW,320iA,,2743,2740,0.17%,Scarce,25,2715,2765
+BMW,320iC,,4,0,0.00%,Nearly Unique,5,0,5
+BMW,323Ci,,849,845,0.05%,Very Scarce,25,820,870
+BMW,323CiA,,86,85,0.01%,Very Rare,5,80,90
+BMW,323i,,5770,5770,0.37%,Uncommon,100,5670,5870
+BMW,323iA,,967,965,0.06%,Very Scarce,25,940,990
+BMW,324TD,,6,5,0.00%,Nearly Unique,5,0,10
+BMW,325Ci,,18,15,0.00%,Nearly Unique,5,10,20
+BMW,325CiA,,5,5,0.00%,Nearly Unique,5,0,10
+BMW,325i,,3758,3750,0.24%,Uncommon,25,3725,3775
+BMW,325iA,,2051,2050,0.13%,Scarce,25,2025,2075
+BMW,325iC,,2,0,0.00%,Nearly Unique,5,0,5
+BMW,325iX,,623,620,0.04%,Very Scarce,25,595,645
+BMW,328i,,1353,1350,0.09%,Scarce,25,1325,1375
+BMW,328iA,,608,605,0.04%,Very Scarce,25,580,630
+BMW,328iC,,66,65,0.00%,Very Rare,5,60,70
+BMW,330i,,1,0,0.00%,Unique,5,0,5
+BMW,350i,,2,0,0.00%,Nearly Unique,5,0,5
+BMW,518i,,152,150,0.01%,Very Rare,25,125,175
+BMW,518iA,,7,5,0.00%,Nearly Unique,5,0,10
+BMW,520i,,3985,3980,0.26%,Uncommon,25,3955,4005
+BMW,520iA,,1520,1520,0.10%,Scarce,25,1495,1545
+BMW,523i,,646,645,0.04%,Very Scarce,25,620,670
+BMW,523i,,37,35,0.00%,Extremely Rare,5,30,40
+BMW,523iA,,2346,2340,0.15%,Scarce,25,2315,2365
+BMW,524TD,,11,10,0.00%,Nearly Unique,5,5,15
+BMW,525CSi,,1,0,0.00%,Unique,5,0,5
+BMW,525i,,4820,4820,0.31%,Uncommon,25,4795,4845
+BMW,525iA,,5296,5290,0.34%,Uncommon,100,5190,5390
+BMW,525iLA,,1,0,0.00%,Unique,5,0,5
+BMW,525iSA,,1,0,0.00%,Unique,5,0,5
+BMW,525iX,,70,70,0.00%,Very Rare,5,65,75
+BMW,528i,,8474,8470,0.54%,Uncommon,100,8370,8570
+BMW,528iA,,4863,4860,0.31%,Uncommon,25,4835,4885
+BMW,528iS,,2,0,0.00%,Nearly Unique,5,0,5
+BMW,528iX,,2,0,0.00%,Nearly Unique,5,0,5
+BMW,530i,,346,345,0.02%,Rare,25,320,370
+BMW,530i,,84,80,0.01%,Very Rare,5,75,85
+BMW,530iA,,374,370,0.02%,Rare,25,345,395
+BMW,535CA,,1,0,0.00%,Unique,5,0,5
+BMW,535i,,2276,2270,0.15%,Scarce,25,2245,2295
+BMW,535i,,305,305,0.02%,Rare,25,280,330
+BMW,535iA,,2814,2810,0.18%,Scarce,25,2785,2835
+BMW,535iA,,2,0,0.00%,Nearly Unique,5,0,5
+BMW,535iM,,11,10,0.00%,Nearly Unique,5,5,15
+BMW,535iS,,2,0,0.00%,Nearly Unique,5,0,5
+BMW,540i,,52,50,0.00%,Very Rare,5,45,55
+BMW,540i,,12,10,0.00%,Nearly Unique,5,5,15
+BMW,540iA,,214,210,0.01%,Very Rare,25,185,235
+BMW,550iA,,1,0,0.00%,Unique,5,0,5
+BMW,625i,,1,0,0.00%,Unique,5,0,5
+BMW,628CSi,,17,15,0.00%,Nearly Unique,5,10,20
+BMW,628i,,6,5,0.00%,Nearly Unique,5,0,10
+BMW,630CS,,115,115,0.01%,Very Rare,25,90,140
+BMW,630CSi,,3,0,0.00%,Nearly Unique,5,0,5
+BMW,630i,,64,60,0.00%,Very Rare,5,55,65
+BMW,632CSi,,1,0,0.00%,Unique,5,0,5
+BMW,633CSi,,139,135,0.01%,Very Rare,25,110,160
+BMW,633CSi,,12,10,0.00%,Nearly Unique,5,5,15
+BMW,633i,,44,40,0.00%,Very Rare,5,35,45
+BMW,635CSi,,134,130,0.01%,Very Rare,25,105,155
+BMW,635CSi,,2,0,0.00%,Nearly Unique,5,0,5
+BMW,635i,,64,60,0.00%,Very Rare,5,55,65
+BMW,636CSi,,1,0,0.00%,Unique,5,0,5
+BMW,650iA,,3,0,0.00%,Nearly Unique,5,0,5
+BMW,720i,,7,5,0.00%,Nearly Unique,5,0,10
+BMW,725i,,5,5,0.00%,Nearly Unique,5,0,10
+BMW,727i,,2,0,0.00%,Nearly Unique,5,0,5
+BMW,728Ci,,1,0,0.00%,Unique,5,0,5
+BMW,728i,,1536,1530,0.10%,Scarce,25,1505,1555
+BMW,728iA,,634,630,0.04%,Very Scarce,25,605,655
+BMW,730i,,450,450,0.03%,Rare,25,425,475
+BMW,730iA,,917,915,0.06%,Very Scarce,25,890,940
+BMW,732i,,434,430,0.03%,Rare,25,405,455
+BMW,732i,,299,295,0.02%,Rare,25,270,320
+BMW,732iA,,996,995,0.06%,Scarce,25,970,1020
+BMW,733i,,384,380,0.02%,Rare,25,355,405
+BMW,733iA,,1532,1530,0.10%,Scarce,25,1505,1555
+BMW,735i,,1982,1980,0.13%,Scarce,25,1955,2005
+BMW,735i,,462,460,0.03%,Rare,25,435,485
+BMW,735iA,,2517,2510,0.16%,Scarce,25,2485,2535
+BMW,735iS,,2,0,0.00%,Nearly Unique,5,0,5
+BMW,740i,,166,165,0.01%,Very Rare,25,140,190
+BMW,740i,,21,20,0.00%,Extremely Rare,5,15,25
+BMW,740iA,,391,390,0.02%,Rare,25,365,415
+BMW,745i,,157,155,0.01%,Very Rare,25,130,180
+BMW,745i,,60,60,0.00%,Very Rare,5,55,65
+BMW,745iA,,172,170,0.01%,Very Rare,25,145,195
+BMW,750CiA,,2,0,0.00%,Nearly Unique,5,0,5
+BMW,750i,,96,95,0.01%,Very Rare,5,90,100
+BMW,750iA,,135,135,0.01%,Very Rare,25,110,160
+BMW,750iL,,27,25,0.00%,Extremely Rare,5,20,30
+BMW,760i,,6,5,0.00%,Nearly Unique,5,0,10
+BMW,840Ci,,2,0,0.00%,Nearly Unique,5,0,5
+BMW,850Ci,,5,5,0.00%,Nearly Unique,5,0,10
+BMW,850CiA,,11,10,0.00%,Nearly Unique,5,5,15
+BMW,850CiA,,4,0,0.00%,Nearly Unique,5,0,5
+BMW,850i,,15,15,0.00%,Nearly Unique,5,10,20
+BMW,850iA,,4,0,0.00%,Nearly Unique,5,0,5
+BMW,Alpina,,17,15,0.00%,Nearly Unique,5,10,20
+BMW,Bertone,,2,0,0.00%,Nearly Unique,5,0,5
+BMW,C1,,5,5,0.00%,Nearly Unique,5,0,10
+BMW,F650,,10,10,0.00%,Nearly Unique,5,5,15
+BMW,G650,,1,0,0.00%,Unique,5,0,5
+BMW,Grand Junction,,1,0,0.00%,Unique,5,0,5
+BMW,K100,,3,0,0.00%,Nearly Unique,5,0,5
+BMW,K1100,,2,0,0.00%,Nearly Unique,5,0,5
+BMW,K1200,,5,5,0.00%,Nearly Unique,5,0,10
+BMW,M3,,139,135,0.01%,Very Rare,25,110,160
+BMW,M5,,121,120,0.01%,Very Rare,25,95,145
+BMW,M6,,3,0,0.00%,Nearly Unique,5,0,5
+BMW,R100,,3,0,0.00%,Nearly Unique,5,0,5
+BMW,R1100,,2,0,0.00%,Nearly Unique,5,0,5
+BMW,R1150,,1,0,0.00%,Unique,5,0,5
+BMW,R80,,7,5,0.00%,Nearly Unique,5,0,10
+BMW,R850,,1,0,0.00%,Unique,5,0,5
+BMW,X1,,1,0,0.00%,Unique,5,0,5
+BMW,X3,,1,0,0.00%,Unique,5,0,5
+BMW,X5,,273,270,0.02%,Rare,25,245,295
+BMW,Z1,,8,5,0.00%,Nearly Unique,5,0,10
+BMW,Z3,,208,205,0.01%,Very Rare,25,180,230
+BMW,,,138,135,0.01%,Very Rare,25,110,160
+Bristol,AC,,1,0,0.00%,Unique,5,0,5
+Buick,Apollo,,107,105,0.01%,Very Rare,25,80,130
+Buick,Buick 121,,1,0,0.00%,Unique,5,0,5
+Buick,Centurion,,32,30,0.00%,Extremely Rare,5,25,35
+Buick,Century,,1849,1840,0.12%,Scarce,25,1815,1865
+Buick,Custom,,1,0,0.00%,Unique,5,0,5
+Buick,Diran,,1,0,0.00%,Unique,5,0,5
+Buick,Electra,,574,570,0.04%,Very Scarce,25,545,595
+Buick,Electra 225,,40,40,0.00%,Very Rare,5,35,45
+Buick,Electra 225,,15,15,0.00%,Nearly Unique,5,10,20
+Buick,Electra Limited,,43,40,0.00%,Very Rare,5,35,45
+Buick,Electra Park Avenue,,3076,3070,0.20%,Scarce,25,3045,3095
+Buick,Electra Park Avenue Limited,,2,0,0.00%,Nearly Unique,5,0,5
+Buick,Electra Park Avenue Ultra,,7,5,0.00%,Nearly Unique,5,0,10
+Buick,Electra Ultra,,2,0,0.00%,Nearly Unique,5,0,5
+Buick,Grand Prix,,1,0,0.00%,Unique,5,0,5
+Buick,Grand Sport,,12,10,0.00%,Nearly Unique,5,5,15
+Buick,Le Sabre,,2035,2030,0.13%,Scarce,25,2005,2055
+Buick,Le Sabre Custom,,49,45,0.00%,Very Rare,5,40,50
+Buick,Le Sabre Limited,,84,80,0.01%,Very Rare,5,75,85
+Buick,Limited,,66,65,0.00%,Very Rare,5,60,70
+Buick,Master,,5,5,0.00%,Nearly Unique,5,0,10
+Buick,Park Avenue,,52,50,0.00%,Very Rare,5,45,55
+Buick,Park Avenue Ultra,,4,0,0.00%,Nearly Unique,5,0,5
+Buick,Regal,,2927,2920,0.19%,Scarce,25,2895,2945
+Buick,Regal Custom,,60,60,0.00%,Very Rare,5,55,65
+Buick,Regal Limited,,264,260,0.02%,Rare,25,235,285
+Buick,Regatta,,1,0,0.00%,Unique,5,0,5
+Buick,Riviera,,344,340,0.02%,Rare,25,315,365
+Buick,Roadmaster,,105,105,0.01%,Very Rare,25,80,130
+Buick,Roadmaster Limited,,13,10,0.00%,Nearly Unique,5,5,15
+Buick,Series 50 Sport,,1,0,0.00%,Unique,5,0,5
+Buick,Sky Hawk,,211,210,0.01%,Very Rare,25,185,235
+Buick,Sky Lark,,1684,1680,0.11%,Scarce,25,1655,1705
+Buick,Sky Lark Apollo,,1,0,0.00%,Unique,5,0,5
+Buick,Sky Lark Custom,,12,10,0.00%,Nearly Unique,5,5,15
+Buick,Sky Lark Limited,,48,45,0.00%,Very Rare,5,40,50
+Buick,Somerset,,35,35,0.00%,Extremely Rare,5,30,40
+Buick,Special,,264,260,0.02%,Rare,25,235,285
+Buick,Super,,11,10,0.00%,Nearly Unique,5,5,15
+Buick,Transport,,1,0,0.00%,Unique,5,0,5
+Buick,Wildcat,,18,15,0.00%,Nearly Unique,5,10,20
+Buick,,,74,70,0.00%,Very Rare,5,65,75
+Cadillac,Allante,,8,5,0.00%,Nearly Unique,5,0,10
+Cadillac,Brougham,,208,205,0.01%,Very Rare,25,180,230
+Cadillac,Brougham d'Elegance,,3,0,0.00%,Nearly Unique,5,0,5
+Cadillac,Catera,,59,55,0.00%,Very Rare,5,50,60
+Cadillac,Celestiq,,3,0,0.00%,Nearly Unique,5,0,5
+Cadillac,Cimarron,,17,15,0.00%,Nearly Unique,5,10,20
+Cadillac,Cimarron Limited,,1,0,0.00%,Unique,5,0,5
+Cadillac,CTS,,1,0,0.00%,Unique,5,0,5
+Cadillac,DeVille,,1403,1400,0.09%,Scarce,25,1375,1425
+Cadillac,DeVille Concours,,54,50,0.00%,Very Rare,5,45,55
+Cadillac,DeVille Limited,,1,0,0.00%,Unique,5,0,5
+Cadillac,DTS,,12,10,0.00%,Nearly Unique,5,5,15
+Cadillac,Eldorado,,279,275,0.02%,Rare,25,250,300
+Cadillac,Escalade,,24,20,0.00%,Extremely Rare,5,15,25
+Cadillac,Fleetwood,,922,920,0.06%,Very Scarce,25,895,945
+Cadillac,Fleetwood Brougham,,72,70,0.00%,Very Rare,5,65,75
+Cadillac,Fleetwood Brougham d'Elegance,,2,0,0.00%,Nearly Unique,5,0,5
+Cadillac,Fleetwood Eldorado,,4,0,0.00%,Nearly Unique,5,0,5
+Cadillac,Hearse,,1,0,0.00%,Unique,5,0,5
+Cadillac,Malibu,,1,0,0.00%,Unique,5,0,5
+Cadillac,Miller-Meteor,,1,0,0.00%,Unique,5,0,5
+Cadillac,SDC,,1,0,0.00%,Unique,5,0,5
+Cadillac,Seville,,914,910,0.06%,Very Scarce,25,885,935
+Cadillac,Special,,2,0,0.00%,Nearly Unique,5,0,5
+Cadillac,,,229,225,0.01%,Very Rare,25,200,250
+Chevrolet,3100,,10,10,0.00%,Nearly Unique,5,5,15
+Chevrolet,3600,,15,15,0.00%,Nearly Unique,5,10,20
+Chevrolet,3800,,41,40,0.00%,Very Rare,5,35,45
+Chevrolet,4500,,2,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,6400,,4,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,6500,,16,15,0.00%,Nearly Unique,5,10,20
+Chevrolet,6700,,4,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,12000,,6,5,0.00%,Nearly Unique,5,0,10
+Chevrolet,Alero,,2,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,Apache,,2,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,Astro,,204,200,0.01%,Very Rare,25,175,225
+Chevrolet,Astro,,2,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,Beauville,,15,15,0.00%,Nearly Unique,5,10,20
+Chevrolet,Bel Air,,67,65,0.00%,Very Rare,5,60,70
+Chevrolet,Beretta,,93,90,0.01%,Very Rare,5,85,95
+Chevrolet,Beretta,,60,60,0.00%,Very Rare,5,55,65
+Chevrolet,Biscayne,,2,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,Blazer,,4542,4540,0.29%,Uncommon,25,4515,4565
+Chevrolet,B-Series,,21,20,0.00%,Extremely Rare,5,15,25
+Chevrolet,C10,,149,145,0.01%,Very Rare,25,120,170
+Chevrolet,C12,,1,0,0.00%,Unique,5,0,5
+Chevrolet,C15,,10,10,0.00%,Nearly Unique,5,5,15
+Chevrolet,C1500,,18,15,0.00%,Nearly Unique,5,10,20
+Chevrolet,C20,,290,290,0.02%,Rare,25,265,315
+Chevrolet,C25,,28,25,0.00%,Extremely Rare,5,20,30
+Chevrolet,C2500,,5,5,0.00%,Nearly Unique,5,0,10
+Chevrolet,C30,,990,990,0.06%,Very Scarce,25,965,1015
+Chevrolet,C35,,33,30,0.00%,Extremely Rare,5,25,35
+Chevrolet,C3500,,43,40,0.00%,Very Rare,5,35,45
+Chevrolet,C3600,,65,65,0.00%,Very Rare,5,60,70
+Chevrolet,C50,,21,20,0.00%,Extremely Rare,5,15,25
+Chevrolet,C60,,73,70,0.00%,Very Rare,5,65,75
+Chevrolet,C6000,,4,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,C65,,10,10,0.00%,Nearly Unique,5,5,15
+Chevrolet,C6500,,24,20,0.00%,Extremely Rare,5,15,25
+Chevrolet,C70,,14,10,0.00%,Nearly Unique,5,5,15
+Chevrolet,C80,,2,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,C90,,2,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,Camaro,,735,735,0.05%,Very Scarce,25,710,760
+Chevrolet,Camaro Z28,,45,45,0.00%,Very Rare,5,40,50
+Chevrolet,Caprice,,3395,3390,0.22%,Scarce,25,3365,3415
+Chevrolet,Captiva,,1,0,0.00%,Unique,5,0,5
+Chevrolet,Cavalier,,1654,1650,0.11%,Scarce,25,1625,1675
+Chevrolet,Celebrity,,394,390,0.02%,Rare,25,365,415
+Chevrolet,Chevair,,2,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,Chevelle,,334,330,0.02%,Rare,25,305,355
+Chevrolet,Chevelle,,13,10,0.00%,Nearly Unique,5,5,15
+Chevrolet,Chevette,,341,340,0.02%,Rare,25,315,365
+Chevrolet,Cheyenne,,4,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,Citation,,110,110,0.01%,Very Rare,25,85,135
+Chevrolet,Classic,,25,25,0.00%,Extremely Rare,5,20,30
+Chevrolet,Commodore,,5,5,0.00%,Nearly Unique,5,0,10
+Chevrolet,Concorde,,4,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,Confederate,,1,0,0.00%,Unique,5,0,5
+Chevrolet,Contours,,1,0,0.00%,Unique,5,0,5
+Chevrolet,Corsica,,1224,1220,0.08%,Scarce,25,1195,1245
+Chevrolet,Corvette,,308,305,0.02%,Rare,25,280,330
+Chevrolet,Corvette Stingray,,3,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,Cruze,,1,0,0.00%,Unique,5,0,5
+Chevrolet,Custom,,3,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,Deluxe,,13,10,0.00%,Nearly Unique,5,5,15
+Chevrolet,D-Series,,4,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,El Camino,,2,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,Epica,,4,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,Express,,15,15,0.00%,Nearly Unique,5,10,20
+Chevrolet,Fleetmaster,,5,5,0.00%,Nearly Unique,5,0,10
+Chevrolet,GB-Series,,2,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,G-Series,,74,70,0.00%,Very Rare,5,65,75
+Chevrolet,Impala,,1043,1040,0.06%,Scarce,25,1015,1065
+Chevrolet,Jimmy,,10,10,0.00%,Nearly Unique,5,5,15
+Chevrolet,K10,,9,5,0.00%,Nearly Unique,5,0,10
+Chevrolet,K30,,2,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,Laurier,,2,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,L-Series,,10,10,0.00%,Nearly Unique,5,5,15
+Chevrolet,Lumina,,1526,1520,0.10%,Scarce,25,1495,1545
+Chevrolet,LUV,,37,35,0.00%,Extremely Rare,5,30,40
+Chevrolet,Malibu,,1209,1200,0.08%,Scarce,25,1175,1225
+Chevrolet,Mark III,,2,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,Monte Carlo,,254,250,0.02%,Rare,25,225,275
+Chevrolet,Monza,,88,85,0.01%,Very Rare,5,80,90
+Chevrolet,Nova,,313,310,0.02%,Rare,25,285,335
+Chevrolet,N-Series,,3,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,Optra,,2,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,P-Series,,4,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,S-10,,221,220,0.01%,Very Rare,25,195,245
+Chevrolet,Sanford,,3,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,Savana,,5,5,0.00%,Nearly Unique,5,0,10
+Chevrolet,Silverado,,189,185,0.01%,Very Rare,25,160,210
+Chevrolet,Silverado,,2,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,Sonoma,,1,0,0.00%,Unique,5,0,5
+Chevrolet,Spark,,1,0,0.00%,Unique,5,0,5
+Chevrolet,Spectrum,,74,70,0.00%,Very Rare,5,65,75
+Chevrolet,Sprint,,81,80,0.01%,Very Rare,5,75,85
+Chevrolet,Step,,1,0,0.00%,Unique,5,0,5
+Chevrolet,Styleline,,3,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,Styleline,,1,0,0.00%,Unique,5,0,5
+Chevrolet,Suburban,,170,170,0.01%,Very Rare,25,145,195
+Chevrolet,Superior,,1,0,0.00%,Unique,5,0,5
+Chevrolet,Swift,,2,0,0.00%,Nearly Unique,5,0,5
+Chevrolet,Tahoe,,269,265,0.02%,Rare,25,240,290
+Chevrolet,Tracker,,219,215,0.01%,Very Rare,25,190,240
+Chevrolet,Trailblazer,,16,15,0.00%,Nearly Unique,5,10,20
+Chevrolet,T-Series,,5,5,0.00%,Nearly Unique,5,0,10
+Chevrolet,Vega,,95,95,0.01%,Very Rare,5,90,100
+Chevrolet,Venture,,494,490,0.03%,Rare,25,465,515
+Chevrolet,,,337,335,0.02%,Rare,25,310,360
+Chrysler,25,,1,0,0.00%,Unique,5,0,5
+Chrysler,180,,364,360,0.02%,Rare,25,335,385
+Chrysler,200,,1,0,0.00%,Unique,5,0,5
+Chrysler,300,,94,90,0.01%,Very Rare,5,85,95
+Chrysler,160 GL,,9,5,0.00%,Nearly Unique,5,0,10
+Chrysler,54 Av,,3,0,0.00%,Nearly Unique,5,0,5
+Chrysler,Acclaim,,10,10,0.00%,Nearly Unique,5,5,15
+Chrysler,Aries America SDU,,1,0,0.00%,Unique,5,0,5
+Chrysler,Avenger,,28,25,0.00%,Extremely Rare,5,20,30
+Chrysler,Caravan,,9,5,0.00%,Nearly Unique,5,0,10
+Chrysler,Cherokee,,7,5,0.00%,Nearly Unique,5,0,10
+Chrysler,Cirrus,,7,5,0.00%,Nearly Unique,5,0,10
+Chrysler,Cirrus,,1,0,0.00%,Unique,5,0,5
+Chrysler,Class E,,4,0,0.00%,Nearly Unique,5,0,5
+Chrysler,Concorde,,24,20,0.00%,Extremely Rare,5,15,25
+Chrysler,Cordoba,,29,25,0.00%,Extremely Rare,5,20,30
+Chrysler,Daytona,,2,0,0.00%,Nearly Unique,5,0,5
+Chrysler,Dynasty,,21,20,0.00%,Extremely Rare,5,15,25
+Chrysler,Eagle,,5,5,0.00%,Nearly Unique,5,0,10
+Chrysler,ES,,4,0,0.00%,Nearly Unique,5,0,5
+Chrysler,Fifth Avenue,,35,35,0.00%,Extremely Rare,5,30,40
+Chrysler,Grand Rocker,,1,0,0.00%,Unique,5,0,5
+Chrysler,Grand Voyager,,57,55,0.00%,Very Rare,5,50,60
+Chrysler,GTS,,1,0,0.00%,Unique,5,0,5
+Chrysler,Horizon,,1,0,0.00%,Unique,5,0,5
+Chrysler,Imperial,,68,65,0.00%,Very Rare,5,60,70
+Chrysler,Intrepid,,71,70,0.00%,Very Rare,5,65,75
+Chrysler,LeBaron,,456,455,0.03%,Rare,25,430,480
+Chrysler,LHS,,28,25,0.00%,Extremely Rare,5,20,30
+Chrysler,LXi,,7,5,0.00%,Nearly Unique,5,0,10
+Chrysler,Minivan,,2,0,0.00%,Nearly Unique,5,0,5
+Chrysler,Neon,,105,105,0.01%,Very Rare,25,80,130
+Chrysler,New Yorker,,209,205,0.01%,Very Rare,25,180,230
+Chrysler,Newport,,25,25,0.00%,Extremely Rare,5,20,30
+Chrysler,Renegade,,5,5,0.00%,Nearly Unique,5,0,10
+Chrysler,Sapporo,,11,10,0.00%,Nearly Unique,5,5,15
+Chrysler,Saratoga,,61,60,0.00%,Very Rare,5,55,65
+Chrysler,Sebring,,22,20,0.00%,Extremely Rare,5,15,25
+Chrysler,Shadow,,3,0,0.00%,Nearly Unique,5,0,5
+Chrysler,Stratus,,63,60,0.00%,Very Rare,5,55,65
+Chrysler,Talbot,,1,0,0.00%,Unique,5,0,5
+Chrysler,Touring,,1,0,0.00%,Unique,5,0,5
+Chrysler,Town & Country,,125,125,0.01%,Very Rare,25,100,150
+Chrysler,Town & Country,,6,5,0.00%,Nearly Unique,5,0,10
+Chrysler,Valiant,,11,10,0.00%,Nearly Unique,5,5,15
+Chrysler,Van,,6,5,0.00%,Nearly Unique,5,0,10
+Chrysler,Vision,,6,5,0.00%,Nearly Unique,5,0,10
+Chrysler,Voyager,,228,225,0.01%,Very Rare,25,200,250
+Chrysler,Windsor,,5,5,0.00%,Nearly Unique,5,0,10
+Chrysler,,,60,60,0.00%,Very Rare,5,55,65
+Citroen,1.1,,1,0,0.00%,Unique,5,0,5
+Citroen,1.4,,4,0,0.00%,Nearly Unique,5,0,5
+Citroen,1.8,,4,0,0.00%,Nearly Unique,5,0,5
+Citroen,6.5,,2,0,0.00%,Nearly Unique,5,0,5
+Citroen,11,,4,0,0.00%,Nearly Unique,5,0,5
+Citroen,1220,,92,90,0.01%,Very Rare,5,85,95
+Citroen,2400,,23,20,0.00%,Extremely Rare,5,15,25
+Citroen,3200,,3,0,0.00%,Nearly Unique,5,0,5
+Citroen,11B,,6,5,0.00%,Nearly Unique,5,0,10
+Citroen,23 T50,,2,0,0.00%,Nearly Unique,5,0,5
+Citroen,2400 Cticx,,1,0,0.00%,Unique,5,0,5
+Citroen,2CV,,148,145,0.01%,Very Rare,25,120,170
+Citroen,3CV,,2,0,0.00%,Nearly Unique,5,0,5
+Citroen,A,,6,5,0.00%,Nearly Unique,5,0,10
+Citroen,Acadiane,,13,10,0.00%,Nearly Unique,5,5,15
+Citroen,AGU,,1,0,0.00%,Unique,5,0,5
+Citroen,AK,,3,0,0.00%,Nearly Unique,5,0,5
+Citroen,AKU,,1,0,0.00%,Unique,5,0,5
+Citroen,AM6,,8,5,0.00%,Nearly Unique,5,0,10
+Citroen,AX,,8,5,0.00%,Nearly Unique,5,0,10
+Citroen,AZ,,7,5,0.00%,Nearly Unique,5,0,10
+Citroen,Azsiekb,,1,0,0.00%,Unique,5,0,5
+Citroen,Berlingo,,442,440,0.03%,Rare,25,415,465
+Citroen,Break,,15,15,0.00%,Nearly Unique,5,10,20
+Citroen,BX,,81,80,0.01%,Very Rare,5,75,85
+Citroen,BX16,,1,0,0.00%,Unique,5,0,5
+Citroen,C15,,244,240,0.02%,Very Rare,25,215,265
+Citroen,C25,,15,15,0.00%,Nearly Unique,5,10,20
+Citroen,C35,,4,0,0.00%,Nearly Unique,5,0,5
+Citroen,CS,,2,0,0.00%,Nearly Unique,5,0,5
+Citroen,CVG,,2,0,0.00%,Nearly Unique,5,0,5
+Citroen,CX,,94,90,0.01%,Very Rare,5,85,95
+Citroen,D,,29,25,0.00%,Extremely Rare,5,20,30
+Citroen,Dallas 2400,,1,0,0.00%,Unique,5,0,5
+Citroen,DS,,195,195,0.01%,Very Rare,25,170,220
+Citroen,DW,,1,0,0.00%,Unique,5,0,5
+Citroen,Dyane,,29,25,0.00%,Extremely Rare,5,20,30
+Citroen,Evasion,,4,0,0.00%,Nearly Unique,5,0,5
+Citroen,EX,,2,0,0.00%,Nearly Unique,5,0,5
+Citroen,G,,4,0,0.00%,Nearly Unique,5,0,5
+Citroen,GLS,,1,0,0.00%,Unique,5,0,5
+Citroen,GS,,179,175,0.01%,Very Rare,25,150,200
+Citroen,GSA,,30,30,0.00%,Extremely Rare,5,25,35
+Citroen,GX,,22,20,0.00%,Extremely Rare,5,15,25
+Citroen,HD,,1,0,0.00%,Unique,5,0,5
+Citroen,HY,,3,0,0.00%,Nearly Unique,5,0,5
+Citroen,HZ,,3,0,0.00%,Nearly Unique,5,0,5
+Citroen,ID 19,,30,30,0.00%,Extremely Rare,5,25,35
+Citroen,Jumper,,120,120,0.01%,Very Rare,25,95,145
+Citroen,Jumpy,,83,80,0.01%,Very Rare,5,75,85
+Citroen,Ksara,,1,0,0.00%,Unique,5,0,5
+Citroen,L5,,1,0,0.00%,Unique,5,0,5
+Citroen,Mamba,,1,0,0.00%,Unique,5,0,5
+Citroen,Mehari,,8,5,0.00%,Nearly Unique,5,0,10
+Citroen,On 2400,,1,0,0.00%,Unique,5,0,5
+Citroen,Palace,,104,100,0.01%,Very Rare,25,75,125
+Citroen,Polly,,5,5,0.00%,Nearly Unique,5,0,10
+Citroen,Prestige,,32,30,0.00%,Extremely Rare,5,25,35
+Citroen,Reflex,,6,5,0.00%,Nearly Unique,5,0,10
+Citroen,S800,,1,0,0.00%,Unique,5,0,5
+Citroen,Saxo,,733,730,0.05%,Very Scarce,25,705,755
+Citroen,Siam Ar 400,,2,0,0.00%,Nearly Unique,5,0,5
+Citroen,Special,,16,15,0.00%,Nearly Unique,5,10,20
+Citroen,TR 25,,1,0,0.00%,Unique,5,0,5
+Citroen,Type H,,2,0,0.00%,Nearly Unique,5,0,5
+Citroen,VD PX,,2,0,0.00%,Nearly Unique,5,0,5
+Citroen,Visa,,46,45,0.00%,Very Rare,5,40,50
+Citroen,Volcano,,5,5,0.00%,Nearly Unique,5,0,10
+Citroen,Volcano,,3,0,0.00%,Nearly Unique,5,0,5
+Citroen,X,,1,0,0.00%,Unique,5,0,5
+Citroen,Xantia,,305,305,0.02%,Rare,25,280,330
+Citroen,XM,,25,25,0.00%,Extremely Rare,5,20,30
+Citroen,Xsara,,808,805,0.05%,Very Scarce,25,780,830
+Citroen,ZX,,55,55,0.00%,Very Rare,5,50,60
+Citroen,,,88,85,0.01%,Very Rare,5,80,90
+Dacia,131,,1,0,0.00%,Unique,5,0,5
+Dacia,243,,1,0,0.00%,Unique,5,0,5
+Dacia,261,,2,0,0.00%,Nearly Unique,5,0,5
+Dacia,1300,,88,85,0.01%,Very Rare,5,80,90
+Dacia,1304,,8,5,0.00%,Nearly Unique,5,0,10
+Dacia,1310,,61,60,0.00%,Very Rare,5,55,65
+Dacia,1410,,30,30,0.00%,Extremely Rare,5,25,35
+Dacia,12 TL,,3,0,0.00%,Nearly Unique,5,0,5
+Dacia,ARO,,1,0,0.00%,Unique,5,0,5
+Dacia,Combi,,1,0,0.00%,Unique,5,0,5
+Dacia,D 27,,3,0,0.00%,Nearly Unique,5,0,5
+Dacia,Lodgy,,1,0,0.00%,Unique,5,0,5
+Dacia,TLX,,4,0,0.00%,Nearly Unique,5,0,5
+Dacia,,,10,10,0.00%,Nearly Unique,5,5,15
+Daewoo,36,,3,0,0.00%,Nearly Unique,5,0,5
+Daewoo,220,,1,0,0.00%,Unique,5,0,5
+Daewoo,290,,1,0,0.00%,Unique,5,0,5
+Daewoo,1.8 A/T,,5,5,0.00%,Nearly Unique,5,0,10
+Daewoo,320-43 ,,1,0,0.00%,Unique,5,0,5
+Daewoo,8x4 ,,2,0,0.00%,Nearly Unique,5,0,5
+Daewoo,BS 321,,1,0,0.00%,Unique,5,0,5
+Daewoo,Chairman,,7,5,0.00%,Nearly Unique,5,0,10
+Daewoo,Cielo,,1801,1800,0.12%,Scarce,25,1775,1825
+Daewoo,Cobra,,1,0,0.00%,Unique,5,0,5
+Daewoo,Concrete,,1,0,0.00%,Unique,5,0,5
+Daewoo,Damas,,395,395,0.03%,Rare,25,370,420
+Daewoo,DH,,1,0,0.00%,Unique,5,0,5
+Daewoo,Espero,,2278,2270,0.15%,Scarce,25,2245,2295
+Daewoo,ETI,,4,0,0.00%,Nearly Unique,5,0,5
+Daewoo,FSO,,20,20,0.00%,Extremely Rare,5,15,25
+Daewoo,Istana,,10,10,0.00%,Nearly Unique,5,5,15
+Daewoo,Korando ,,1,0,0.00%,Unique,5,0,5
+Daewoo,Labo,,58,55,0.00%,Very Rare,5,50,60
+Daewoo,Lanos,,691,690,0.04%,Very Scarce,25,665,715
+Daewoo,Leganza,,621,620,0.04%,Very Scarce,25,595,645
+Daewoo,Leo,,3,0,0.00%,Nearly Unique,5,0,5
+Daewoo,Lublin,,39,35,0.00%,Extremely Rare,5,30,40
+Daewoo,Matiz,,147,145,0.01%,Very Rare,25,120,170
+Daewoo,Musso,,4,0,0.00%,Nearly Unique,5,0,5
+Daewoo,Nexia,,1,0,0.00%,Unique,5,0,5
+Daewoo,Nubira,,1123,1120,0.07%,Scarce,25,1095,1145
+Daewoo,Passenger,,4,0,0.00%,Nearly Unique,5,0,5
+Daewoo,Prince,,559,555,0.04%,Very Scarce,25,530,580
+Daewoo,Racer,,3602,3600,0.23%,Uncommon,25,3575,3625
+Daewoo,Royal Prince,,3,0,0.00%,Nearly Unique,5,0,5
+Daewoo,Saehan S-Cargo,,6,5,0.00%,Nearly Unique,5,0,10
+Daewoo,Silva,,1,0,0.00%,Unique,5,0,5
+Daewoo,Super Salon,,111,110,0.01%,Very Rare,25,85,135
+Daewoo,Tico,,750,750,0.05%,Very Scarce,25,725,775
+Daewoo,Topera,,8,5,0.00%,Nearly Unique,5,0,10
+Daewoo,Ultra 43,,1,0,0.00%,Unique,5,0,5
+Daewoo,,,68,65,0.00%,Very Rare,5,60,70
+DAF,45,,4,0,0.00%,Nearly Unique,5,0,5
+DAF,65,,1,0,0.00%,Unique,5,0,5
+DAF,66,,1,0,0.00%,Unique,5,0,5
+DAF,75,,1,0,0.00%,Unique,5,0,5
+DAF,81,,1,0,0.00%,Unique,5,0,5
+DAF,1500,,2,0,0.00%,Nearly Unique,5,0,5
+DAF,2300,,1,0,0.00%,Unique,5,0,5
+DAF,2700,,1,0,0.00%,Unique,5,0,5
+DAF,2800,,3,0,0.00%,Nearly Unique,5,0,5
+DAF,3300,,2,0,0.00%,Nearly Unique,5,0,5
+DAF,FTT,,1,0,0.00%,Unique,5,0,5
+Daihatsu,1.3,,2,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,3,,1,0,0.00%,Unique,5,0,5
+Daihatsu,8,,35,35,0.00%,Extremely Rare,5,30,40
+Daihatsu,9,,3,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,23,,21,20,0.00%,Extremely Rare,5,15,25
+Daihatsu,30,,8,5,0.00%,Nearly Unique,5,0,10
+Daihatsu,36,,1,0,0.00%,Unique,5,0,5
+Daihatsu,55,,14,10,0.00%,Nearly Unique,5,5,15
+Daihatsu,57,,1,0,0.00%,Unique,5,0,5
+Daihatsu,68,,8,5,0.00%,Nearly Unique,5,0,10
+Daihatsu,84,,2,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,85,,2,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,108,,31,30,0.00%,Extremely Rare,5,25,35
+Daihatsu,109,,2,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,230,,5,5,0.00%,Nearly Unique,5,0,10
+Daihatsu,231,,4,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,560,,1,0,0.00%,Unique,5,0,5
+Daihatsu,730,,14,10,0.00%,Nearly Unique,5,5,15
+Daihatsu,732,,4,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,850,,52,50,0.00%,Very Rare,5,45,55
+Daihatsu,885,,1,0,0.00%,Unique,5,0,5
+Daihatsu,980,,1,0,0.00%,Unique,5,0,5
+Daihatsu,1000,,21,20,0.00%,Extremely Rare,5,15,25
+Daihatsu,1400,,6,5,0.00%,Nearly Unique,5,0,10
+Daihatsu,1500,,5,5,0.00%,Nearly Unique,5,0,10
+Daihatsu,1600,,23,20,0.00%,Extremely Rare,5,15,25
+Daihatsu,7119,,1,0,0.00%,Unique,5,0,5
+Daihatsu,Applause,,35,35,0.00%,Extremely Rare,5,30,40
+Daihatsu,Bertone ,,2,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,Bertone Freeclimber ,,1,0,0.00%,Unique,5,0,5
+Daihatsu,BU,,1,0,0.00%,Unique,5,0,5
+Daihatsu,C,,2,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,Chamade ,,7,5,0.00%,Nearly Unique,5,0,10
+Daihatsu,Charade,,223,220,0.01%,Very Rare,25,195,245
+Daihatsu,Charade Van ,,3,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,Charmant ,,251,250,0.02%,Rare,25,225,275
+Daihatsu,Cuore,,8,5,0.00%,Nearly Unique,5,0,10
+Daihatsu,D 23,,7,5,0.00%,Nearly Unique,5,0,10
+Daihatsu,D 300,,2,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,Delta,,922,920,0.06%,Very Scarce,25,895,945
+Daihatsu,Dilia,,1,0,0.00%,Unique,5,0,5
+Daihatsu,DU,,2,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,DV,,30,30,0.00%,Extremely Rare,5,25,35
+Daihatsu,Extol,,1,0,0.00%,Unique,5,0,5
+Daihatsu,F,,7,5,0.00%,Nearly Unique,5,0,10
+Daihatsu,F30,,1,0,0.00%,Unique,5,0,5
+Daihatsu,Feroza,,176,175,0.01%,Very Rare,25,150,200
+Daihatsu,Gran Move GLX ,,1,0,0.00%,Unique,5,0,5
+Daihatsu,H,,2,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,Hi-Jet,,159,155,0.01%,Very Rare,25,130,180
+Daihatsu,HY,,8,5,0.00%,Nearly Unique,5,0,10
+Daihatsu,JDA,,2,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,Leroza,,1,0,0.00%,Unique,5,0,5
+Daihatsu,LF,,20,20,0.00%,Extremely Rare,5,15,25
+Daihatsu,MHK,,1,0,0.00%,Unique,5,0,5
+Daihatsu,Midget,,1,0,0.00%,Unique,5,0,5
+Daihatsu,Mini,,2,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,Piaggio ,,86,85,0.01%,Very Rare,5,80,90
+Daihatsu,Pick,,1,0,0.00%,Unique,5,0,5
+Daihatsu,PV,,3,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,Range,,1,0,0.00%,Unique,5,0,5
+Daihatsu,Rocky,,43,40,0.00%,Very Rare,5,35,45
+Daihatsu,RV,,1,0,0.00%,Unique,5,0,5
+Daihatsu,S,,57,55,0.00%,Very Rare,5,50,60
+Daihatsu,Sirion,,75,75,0.00%,Very Rare,5,70,80
+Daihatsu,SLU,,1,0,0.00%,Unique,5,0,5
+Daihatsu,SS,,4,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,Storia ,,4,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,Strada ,,2,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,Terios,,320,320,0.02%,Rare,25,295,345
+Daihatsu,Trimobile,,4,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,U30,,3,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,V10,,10,10,0.00%,Nearly Unique,5,5,15
+Daihatsu,V100,,1,0,0.00%,Unique,5,0,5
+Daihatsu,V108,,89,85,0.01%,Very Rare,5,80,90
+Daihatsu,V109,,17,15,0.00%,Nearly Unique,5,10,20
+Daihatsu,V116,,14,10,0.00%,Nearly Unique,5,5,15
+Daihatsu,V118,,260,260,0.02%,Rare,25,235,285
+Daihatsu,V119,,35,35,0.00%,Extremely Rare,5,30,40
+Daihatsu,V12,,1,0,0.00%,Unique,5,0,5
+Daihatsu,V159,,2,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,V23,,8,5,0.00%,Nearly Unique,5,0,10
+Daihatsu,V30,,523,520,0.03%,Very Scarce,25,495,545
+Daihatsu,V30D,,4,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,V31,,5,5,0.00%,Nearly Unique,5,0,10
+Daihatsu,V32,,70,70,0.00%,Very Rare,5,65,75
+Daihatsu,V33,,7,5,0.00%,Nearly Unique,5,0,10
+Daihatsu,V34,,9,5,0.00%,Nearly Unique,5,0,10
+Daihatsu,V35,,1,0,0.00%,Unique,5,0,5
+Daihatsu,V52,,2,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,V58,,74,70,0.00%,Very Rare,5,65,75
+Daihatsu,V68,,36,35,0.00%,Extremely Rare,5,30,40
+Daihatsu,V85,,5,5,0.00%,Nearly Unique,5,0,10
+Daihatsu,V98,,4,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,V99,,5,5,0.00%,Nearly Unique,5,0,10
+Daihatsu,VD30 ,,2,0,0.00%,Nearly Unique,5,0,5
+Daihatsu,Wildcat GL,,1,0,0.00%,Unique,5,0,5
+Daihatsu,,,40,40,0.00%,Very Rare,5,35,45
+Daimler,4.2,,11,10,0.00%,Nearly Unique,5,5,15
+Daimler,306,,1,0,0.00%,Unique,5,0,5
+Daimler,Six 12,,1,0,0.00%,Unique,5,0,5
+Daimler,Sovereign,,4,0,0.00%,Nearly Unique,5,0,5
+Daimler,Sx 5.3 ,,1,0,0.00%,Unique,5,0,5
+Daimler,Vanden Plas,,2,0,0.00%,Nearly Unique,5,0,5
+Daimler,Vanden Plas ,,1,0,0.00%,Unique,5,0,5
+Datsun,1,,1,0,0.00%,Unique,5,0,5
+Datsun,1.5,,12,10,0.00%,Nearly Unique,5,5,15
+Datsun,1.6,,8,5,0.00%,Nearly Unique,5,0,10
+Datsun,1.8,,23,20,0.00%,Extremely Rare,5,15,25
+Datsun,1.88,,1,0,0.00%,Unique,5,0,5
+Datsun,9,,1,0,0.00%,Unique,5,0,5
+Datsun,10,,2,0,0.00%,Nearly Unique,5,0,5
+Datsun,16,,1,0,0.00%,Unique,5,0,5
+Datsun,20,,56,55,0.00%,Very Rare,5,50,60
+Datsun,21,,5,5,0.00%,Nearly Unique,5,0,10
+Datsun,23,,22,20,0.00%,Extremely Rare,5,15,25
+Datsun,24,,2,0,0.00%,Nearly Unique,5,0,5
+Datsun,30,,191,190,0.01%,Very Rare,25,165,215
+Datsun,40,,3,0,0.00%,Nearly Unique,5,0,5
+Datsun,100,,392,390,0.02%,Rare,25,365,415
+Datsun,103,,2,0,0.00%,Nearly Unique,5,0,5
+Datsun,104,,1,0,0.00%,Unique,5,0,5
+Datsun,106,,1,0,0.00%,Unique,5,0,5
+Datsun,120,,4687,4680,0.30%,Uncommon,25,4655,4705
+Datsun,130,,86,85,0.01%,Very Rare,5,80,90
+Datsun,140,,1218,1210,0.08%,Scarce,25,1185,1235
+Datsun,150,,292,290,0.02%,Rare,25,265,315
+Datsun,160,,2696,2690,0.17%,Scarce,25,2665,2715
+Datsun,165,,1,0,0.00%,Unique,5,0,5
+Datsun,180,,3200,3200,0.20%,Scarce,25,3175,3225
+Datsun,188,,2,0,0.00%,Nearly Unique,5,0,5
+Datsun,200,,1003,1000,0.06%,Scarce,25,975,1025
+Datsun,208,,1,0,0.00%,Unique,5,0,5
+Datsun,210,,23,20,0.00%,Extremely Rare,5,15,25
+Datsun,220,,12,10,0.00%,Nearly Unique,5,5,15
+Datsun,240,,550,550,0.04%,Very Scarce,25,525,575
+Datsun,260,,162,160,0.01%,Very Rare,25,135,185
+Datsun,280,,585,585,0.04%,Very Scarce,25,560,610
+Datsun,300,,38,35,0.00%,Extremely Rare,5,30,40
+Datsun,310,,6,5,0.00%,Nearly Unique,5,0,10
+Datsun,521,,32,30,0.00%,Extremely Rare,5,25,35
+Datsun,620,,219,215,0.01%,Very Rare,25,190,240
+Datsun,623,,2,0,0.00%,Nearly Unique,5,0,5
+Datsun,650,,1,0,0.00%,Unique,5,0,5
+Datsun,720,,674,670,0.04%,Very Scarce,25,645,695
+Datsun,910,,1,0,0.00%,Unique,5,0,5
+Datsun,1000,,106,105,0.01%,Very Rare,25,80,130
+Datsun,1200,,1200,1200,0.08%,Scarce,25,1175,1225
+Datsun,1201,,10,10,0.00%,Nearly Unique,5,5,15
+Datsun,1204,,5,5,0.00%,Nearly Unique,5,0,10
+Datsun,1300,,63,60,0.00%,Very Rare,5,55,65
+Datsun,1320,,1,0,0.00%,Unique,5,0,5
+Datsun,1400,,125,125,0.01%,Very Rare,25,100,150
+Datsun,1500,,376,375,0.02%,Rare,25,350,400
+Datsun,1600,,548,545,0.04%,Very Scarce,25,520,570
+Datsun,1800,,1781,1780,0.12%,Scarce,25,1755,1805
+Datsun,1900,,4,0,0.00%,Nearly Unique,5,0,5
+Datsun,2000,,71,70,0.00%,Very Rare,5,65,75
+Datsun,2400,,18,15,0.00%,Nearly Unique,5,10,20
+Datsun,2802,,22,20,0.00%,Extremely Rare,5,15,25
+Datsun,A,,3,0,0.00%,Nearly Unique,5,0,5
+Datsun,A/C,,1,0,0.00%,Unique,5,0,5
+Datsun,AirVan,,3,0,0.00%,Nearly Unique,5,0,5
+Datsun,Altima,,15,15,0.00%,Nearly Unique,5,10,20
+Datsun,B,,10,10,0.00%,Nearly Unique,5,5,15
+Datsun,BOLSAR ,,27,25,0.00%,Extremely Rare,5,20,30
+Datsun,Braira ,,18,15,0.00%,Nearly Unique,5,10,20
+Datsun,C10,,4,0,0.00%,Nearly Unique,5,0,5
+Datsun,C20,,76,75,0.00%,Very Rare,5,70,80
+Datsun,C21,,646,645,0.04%,Very Scarce,25,620,670
+Datsun,C22,,12,10,0.00%,Nearly Unique,5,5,15
+Datsun,C23,,2,0,0.00%,Nearly Unique,5,0,5
+Datsun,C24,,9,5,0.00%,Nearly Unique,5,0,10
+Datsun,C25,,7,5,0.00%,Nearly Unique,5,0,10
+Datsun,Caball,,6,5,0.00%,Nearly Unique,5,0,10
+Datsun,Cedric ,,14,10,0.00%,Nearly Unique,5,5,15
+Datsun,Charmant,,11,10,0.00%,Nearly Unique,5,5,15
+Datsun,Cherry,,1185,1180,0.08%,Scarce,25,1155,1205
+Datsun,CNL,,3,0,0.00%,Nearly Unique,5,0,5
+Datsun,DGL,,1,0,0.00%,Unique,5,0,5
+Datsun,DNH,,1,0,0.00%,Unique,5,0,5
+Datsun,Duplex,,1,0,0.00%,Unique,5,0,5
+Datsun,E,,15,15,0.00%,Nearly Unique,5,10,20
+Datsun,ette,,12,10,0.00%,Nearly Unique,5,5,15
+Datsun,F,,40,40,0.00%,Very Rare,5,35,45
+Datsun,G,,6,5,0.00%,Nearly Unique,5,0,10
+Datsun,Gloria,,19,15,0.00%,Nearly Unique,5,10,20
+Datsun,GML,,1,0,0.00%,Unique,5,0,5
+Datsun,GN,,24,20,0.00%,Extremely Rare,5,15,25
+Datsun,GNL,,543,540,0.03%,Very Scarce,25,515,565
+Datsun,GNN,,2,0,0.00%,Nearly Unique,5,0,5
+Datsun,High Roof Van,,1,0,0.00%,Unique,5,0,5
+Datsun,HL,,1,0,0.00%,Unique,5,0,5
+Datsun,HLB,,1,0,0.00%,Unique,5,0,5
+Datsun,HLC,,22,20,0.00%,Extremely Rare,5,15,25
+Datsun,Homer,,192,190,0.01%,Very Rare,25,165,215
+Datsun,Hover,,3,0,0.00%,Nearly Unique,5,0,5
+Datsun,Irvan,,1,0,0.00%,Unique,5,0,5
+Datsun,Junior,,8,5,0.00%,Nearly Unique,5,0,10
+Datsun,KHL,,1,0,0.00%,Unique,5,0,5
+Datsun,King,,7,5,0.00%,Nearly Unique,5,0,10
+Datsun,KM,,2,0,0.00%,Nearly Unique,5,0,5
+Datsun,KP,,13,10,0.00%,Nearly Unique,5,5,15
+Datsun,L,,215,215,0.01%,Very Rare,25,190,240
+Datsun,LB,,70,70,0.00%,Very Rare,5,65,75
+Datsun,LC,,28,25,0.00%,Extremely Rare,5,20,30
+Datsun,LE,,1,0,0.00%,Unique,5,0,5
+Datsun,LG,,44,40,0.00%,Very Rare,5,35,45
+Datsun,LGF,,1,0,0.00%,Unique,5,0,5
+Datsun,Liberty,,8,5,0.00%,Nearly Unique,5,0,10
+Datsun,Loper,,3,0,0.00%,Nearly Unique,5,0,5
+Datsun,LP,,1,0,0.00%,Unique,5,0,5
+Datsun,LS,,5,5,0.00%,Nearly Unique,5,0,10
+Datsun,LW,,1,0,0.00%,Unique,5,0,5
+Datsun,M.B.,,2,0,0.00%,Nearly Unique,5,0,5
+Datsun,March,,180,180,0.01%,Very Rare,25,155,205
+Datsun,Maxima,,52,50,0.00%,Very Rare,5,45,55
+Datsun,Micra,,187,185,0.01%,Very Rare,25,160,210
+Datsun,Mini,,2,0,0.00%,Nearly Unique,5,0,5
+Datsun,N10,,2,0,0.00%,Nearly Unique,5,0,5
+Datsun,NL,,171,170,0.01%,Very Rare,25,145,195
+Datsun,NLB,,1,0,0.00%,Unique,5,0,5
+Datsun,NLG,,1,0,0.00%,Unique,5,0,5
+Datsun,NPN,,1,0,0.00%,Unique,5,0,5
+Datsun,NY,,1,0,0.00%,Unique,5,0,5
+Datsun,P,,312,310,0.02%,Rare,25,285,335
+Datsun,PG,,83,80,0.01%,Very Rare,5,75,85
+Datsun,PGF 22,,2,0,0.00%,Nearly Unique,5,0,5
+Datsun,Prairie,,81,80,0.01%,Very Rare,5,75,85
+Datsun,President,,1,0,0.00%,Unique,5,0,5
+Datsun,Primera,,7,5,0.00%,Nearly Unique,5,0,10
+Datsun,PU,,5,5,0.00%,Nearly Unique,5,0,10
+Datsun,PV,,6,5,0.00%,Nearly Unique,5,0,10
+Datsun,PWL,,1,0,0.00%,Unique,5,0,5
+Datsun,PY,,3,0,0.00%,Nearly Unique,5,0,5
+Datsun,R,,4,0,0.00%,Nearly Unique,5,0,5
+Datsun,Sentra ,,3,0,0.00%,Nearly Unique,5,0,5
+Datsun,Silvia,,83,80,0.01%,Very Rare,5,75,85
+Datsun,Skyl,,1,0,0.00%,Unique,5,0,5
+Datsun,Skylac ,,3,0,0.00%,Nearly Unique,5,0,5
+Datsun,SSS,,1,0,0.00%,Unique,5,0,5
+Datsun,TD,,1,0,0.00%,Unique,5,0,5
+Datsun,U,,1,0,0.00%,Unique,5,0,5
+Datsun,UP,,25,25,0.00%,Extremely Rare,5,20,30
+Datsun,Urvan,,117,115,0.01%,Very Rare,25,90,140
+Datsun,Vanette,,28,25,0.00%,Extremely Rare,5,20,30
+Datsun,VH40,,3,0,0.00%,Nearly Unique,5,0,5
+Datsun,Window,,1,0,0.00%,Unique,5,0,5
+Datsun,WP,,1,0,0.00%,Unique,5,0,5
+Datsun,Y,,1,0,0.00%,Unique,5,0,5
+Datsun,ZX,,5,5,0.00%,Nearly Unique,5,0,10
+Datsun,,,862,860,0.05%,Very Scarce,25,835,885
+De Tomaso,Longchamp ,,2,0,0.00%,Nearly Unique,5,0,5
+De Tomaso,Pantera,,6,5,0.00%,Nearly Unique,5,0,10
+Desoto,600,,3,0,0.00%,Nearly Unique,5,0,5
+Desoto,900,,1,0,0.00%,Unique,5,0,5
+Desoto,954,,1,0,0.00%,Unique,5,0,5
+Desoto,Adventurer,,1,0,0.00%,Unique,5,0,5
+Desoto,Auto,,3,0,0.00%,Nearly Unique,5,0,5
+Desoto,Caston,,2,0,0.00%,Nearly Unique,5,0,5
+Desoto,Custom,,1,0,0.00%,Unique,5,0,5
+Desoto,D 100,,3,0,0.00%,Nearly Unique,5,0,5
+Desoto,D 300,,4,0,0.00%,Nearly Unique,5,0,5
+Desoto,D 400,,1,0,0.00%,Unique,5,0,5
+Desoto,D 500,,11,10,0.00%,Nearly Unique,5,5,15
+Desoto,D 600,,3,0,0.00%,Nearly Unique,5,0,5
+Desoto,D300 ,,3,0,0.00%,Nearly Unique,5,0,5
+Desoto,Diplomat,,67,65,0.00%,Very Rare,5,60,70
+Desoto,Fire Line,,3,0,0.00%,Nearly Unique,5,0,5
+Desoto,Fireflite,,1,0,0.00%,Unique,5,0,5
+Desoto,Victor,,1,0,0.00%,Unique,5,0,5
+Desoto,Winch,,12,10,0.00%,Nearly Unique,5,5,15
+Desoto,X,,2,0,0.00%,Nearly Unique,5,0,5
+Dodge,30,,7,5,0.00%,Nearly Unique,5,0,10
+Dodge,A100,,22,20,0.00%,Extremely Rare,5,15,25
+Dodge,Aries,,40,40,0.00%,Very Rare,5,35,45
+Dodge,Aspen,,221,220,0.01%,Very Rare,25,195,245
+Dodge,Avenger,,4,0,0.00%,Nearly Unique,5,0,5
+Dodge,B100,,138,135,0.01%,Very Rare,25,110,160
+Dodge,B200,,190,190,0.01%,Very Rare,25,165,215
+Dodge,B250,,564,560,0.04%,Very Scarce,25,535,585
+Dodge,B300,,30,30,0.00%,Extremely Rare,5,25,35
+Dodge,B350,,25,25,0.00%,Extremely Rare,5,20,30
+Dodge,Brothers Touring ,,2,0,0.00%,Nearly Unique,5,0,5
+Dodge,Caravan,,387,385,0.02%,Rare,25,360,410
+Dodge,Challenger,,188,185,0.01%,Very Rare,25,160,210
+Dodge,Charger,,137,135,0.01%,Very Rare,25,110,160
+Dodge,Colt,,48,45,0.00%,Very Rare,5,40,50
+Dodge,Colt Golt ,,2,0,0.00%,Nearly Unique,5,0,5
+Dodge,Coronet,,460,460,0.03%,Rare,25,435,485
+Dodge,Crusader,,1,0,0.00%,Unique,5,0,5
+Dodge,D100,,42,40,0.00%,Very Rare,5,35,45
+Dodge,D150,,17,15,0.00%,Nearly Unique,5,10,20
+Dodge,D200,,1321,1320,0.08%,Scarce,25,1295,1345
+Dodge,D300,,4,0,0.00%,Nearly Unique,5,0,5
+Dodge,D350,,118,115,0.01%,Very Rare,25,90,140
+Dodge,D400,,79,75,0.01%,Very Rare,5,70,80
+Dodge,D500,,243,240,0.02%,Very Rare,25,215,265
+Dodge,D600,,478,475,0.03%,Rare,25,450,500
+Dodge,D700,,48,45,0.00%,Very Rare,5,40,50
+Dodge,D800,,128,125,0.01%,Very Rare,25,100,150
+Dodge,D900,,3,0,0.00%,Nearly Unique,5,0,5
+Dodge,Dakota,,164,160,0.01%,Very Rare,25,135,185
+Dodge,Dart,,1473,1470,0.10%,Scarce,25,1445,1495
+Dodge,Daytona,,15,15,0.00%,Nearly Unique,5,10,20
+Dodge,Demon,,1,0,0.00%,Unique,5,0,5
+Dodge,Durango,,271,270,0.02%,Rare,25,245,295
+Dodge,Dynasty,,47,45,0.00%,Very Rare,5,40,50
+Dodge,Journey,,5,5,0.00%,Nearly Unique,5,0,10
+Dodge,K,,1,0,0.00%,Unique,5,0,5
+Dodge,Kingsway ,,3,0,0.00%,Nearly Unique,5,0,5
+Dodge,Magnum,,8,5,0.00%,Nearly Unique,5,0,10
+Dodge,Mirada,,22,20,0.00%,Extremely Rare,5,15,25
+Dodge,Monaco,,66,65,0.00%,Very Rare,5,60,70
+Dodge,Neon,,84,80,0.01%,Very Rare,5,75,85
+Dodge,Omni,,21,20,0.00%,Extremely Rare,5,15,25
+Dodge,Phoenix,,1,0,0.00%,Unique,5,0,5
+Dodge,Polara,,22,20,0.00%,Extremely Rare,5,15,25
+Dodge,Ram 100,,11,10,0.00%,Nearly Unique,5,5,15
+Dodge,Ram 1000,,1,0,0.00%,Unique,5,0,5
+Dodge,Ram 1500,,4,0,0.00%,Nearly Unique,5,0,5
+Dodge,Ram 200,,1,0,0.00%,Unique,5,0,5
+Dodge,Ram 250,,28,25,0.00%,Extremely Rare,5,20,30
+Dodge,Ram 2500,,5,5,0.00%,Nearly Unique,5,0,10
+Dodge,Ram 350 ,,79,75,0.01%,Very Rare,5,70,80
+Dodge,Ram 3500,,104,100,0.01%,Very Rare,25,75,125
+Dodge,Ram 500,,11,10,0.00%,Nearly Unique,5,5,15
+Dodge,Ram 5500,,5,5,0.00%,Nearly Unique,5,0,10
+Dodge,Ramcharger ,,28,25,0.00%,Extremely Rare,5,20,30
+Dodge,Royal,,5,5,0.00%,Nearly Unique,5,0,10
+Dodge,S600,,18,15,0.00%,Nearly Unique,5,10,20
+Dodge,Shadow,,55,55,0.00%,Very Rare,5,50,60
+Dodge,Sigma,,33,30,0.00%,Extremely Rare,5,25,35
+Dodge,Spirit,,60,60,0.00%,Very Rare,5,55,65
+Dodge,Sprint,,3,0,0.00%,Nearly Unique,5,0,5
+Dodge,St. Regis ,,7,5,0.00%,Nearly Unique,5,0,10
+Dodge,Stealth,,30,30,0.00%,Extremely Rare,5,25,35
+Dodge,Super Bee,,1,0,0.00%,Unique,5,0,5
+Dodge,Swinger,,2,0,0.00%,Nearly Unique,5,0,5
+Dodge,Viper,,4,0,0.00%,Nearly Unique,5,0,5
+Dodge,,,73,70,0.00%,Very Rare,5,65,75
+Ducati,250,,2,0,0.00%,Nearly Unique,5,0,5
+Ducati,600,,2,0,0.00%,Nearly Unique,5,0,5
+Ducati,748,,1,0,0.00%,Unique,5,0,5
+Ducati,749,,1,0,0.00%,Unique,5,0,5
+Ducati,Monster,,2,0,0.00%,Nearly Unique,5,0,5
+Edsel,Ranger,,1,0,0.00%,Unique,5,0,5
+Excalibur,500,,5,5,0.00%,Nearly Unique,5,0,10
+Excalibur,Phaeton III,,1,0,0.00%,Unique,5,0,5
+Excalibur,SS Phaeton,,3,0,0.00%,Nearly Unique,5,0,5
+Ferrari,348,,6,5,0.00%,Nearly Unique,5,0,10
+Ferrari,355,,3,0,0.00%,Nearly Unique,5,0,5
+Ferrari,400,,2,0,0.00%,Nearly Unique,5,0,5
+Ferrari,355 Spider,,2,0,0.00%,Nearly Unique,5,0,5
+Ferrari,360 Modena,,6,5,0.00%,Nearly Unique,5,0,10
+Ferrari,512 Berlinetta Boxter,,2,0,0.00%,Nearly Unique,5,0,5
+Ferrari,550 Maranello,,1,0,0.00%,Unique,5,0,5
+Ferrari,Dino 206 GT,,5,5,0.00%,Nearly Unique,5,0,10
+Ferrari,F355,,16,15,0.00%,Nearly Unique,5,10,20
+Ferrari,Mondial,,3,0,0.00%,Nearly Unique,5,0,5
+Ferrari,Testarossa,,3,0,0.00%,Nearly Unique,5,0,5
+Ferrari,,,31,30,0.00%,Extremely Rare,5,25,35
+Fiat,16,,1,0,0.00%,Unique,5,0,5
+Fiat,26,,1,0,0.00%,Unique,5,0,5
+Fiat,55,,11,10,0.00%,Nearly Unique,5,5,15
+Fiat,60,,11,10,0.00%,Nearly Unique,5,5,15
+Fiat,70,,9,5,0.00%,Nearly Unique,5,0,10
+Fiat,75,,4,0,0.00%,Nearly Unique,5,0,5
+Fiat,85,,11,10,0.00%,Nearly Unique,5,5,15
+Fiat,100,,14,10,0.00%,Nearly Unique,5,5,15
+Fiat,105,,12,10,0.00%,Nearly Unique,5,5,15
+Fiat,110,,7,5,0.00%,Nearly Unique,5,0,10
+Fiat,122,,2,0,0.00%,Nearly Unique,5,0,5
+Fiat,123,,4,0,0.00%,Nearly Unique,5,0,5
+Fiat,124,,1558,1550,0.10%,Scarce,25,1525,1575
+Fiat,125,,4250,4250,0.27%,Uncommon,25,4225,4275
+Fiat,126,,26,25,0.00%,Extremely Rare,5,20,30
+Fiat,127,,1851,1850,0.12%,Scarce,25,1825,1875
+Fiat,128,,1397,1390,0.09%,Scarce,25,1365,1415
+Fiat,130,,55,55,0.00%,Very Rare,5,50,60
+Fiat,131,,1912,1910,0.12%,Scarce,25,1885,1935
+Fiat,132,,8161,8160,0.52%,Uncommon,100,8060,8260
+Fiat,136,,2,0,0.00%,Nearly Unique,5,0,5
+Fiat,138,,24,20,0.00%,Extremely Rare,5,15,25
+Fiat,140,,4,0,0.00%,Nearly Unique,5,0,5
+Fiat,145,,1,0,0.00%,Unique,5,0,5
+Fiat,152,,2,0,0.00%,Nearly Unique,5,0,5
+Fiat,160,,11,10,0.00%,Nearly Unique,5,5,15
+Fiat,175,,1,0,0.00%,Unique,5,0,5
+Fiat,180,,3,0,0.00%,Nearly Unique,5,0,5
+Fiat,220,,2,0,0.00%,Nearly Unique,5,0,5
+Fiat,300,,12,10,0.00%,Nearly Unique,5,5,15
+Fiat,343,,1,0,0.00%,Unique,5,0,5
+Fiat,455,,4,0,0.00%,Nearly Unique,5,0,5
+Fiat,500,,23,20,0.00%,Extremely Rare,5,15,25
+Fiat,545,,7,5,0.00%,Nearly Unique,5,0,10
+Fiat,600,,93,90,0.01%,Very Rare,5,85,95
+Fiat,616,,3,0,0.00%,Nearly Unique,5,0,5
+Fiat,640,,2,0,0.00%,Nearly Unique,5,0,5
+Fiat,645,,3,0,0.00%,Nearly Unique,5,0,5
+Fiat,693,,4,0,0.00%,Nearly Unique,5,0,5
+Fiat,697,,2,0,0.00%,Nearly Unique,5,0,5
+Fiat,750,,1,0,0.00%,Unique,5,0,5
+Fiat,780,,1,0,0.00%,Unique,5,0,5
+Fiat,850,,281,280,0.02%,Rare,25,255,305
+Fiat,900,,1,0,0.00%,Unique,5,0,5
+Fiat,1000,,2,0,0.00%,Nearly Unique,5,0,5
+Fiat,1050,,6,5,0.00%,Nearly Unique,5,0,10
+Fiat,1100,,512,510,0.03%,Very Scarce,25,485,535
+Fiat,1107,,2,0,0.00%,Nearly Unique,5,0,5
+Fiat,1155,,1,0,0.00%,Unique,5,0,5
+Fiat,1200,,71,70,0.00%,Very Rare,5,65,75
+Fiat,1300,,141,140,0.01%,Very Rare,25,115,165
+Fiat,1430,,1,0,0.00%,Unique,5,0,5
+Fiat,1500,,1780,1780,0.12%,Scarce,25,1755,1805
+Fiat,1580,,2,0,0.00%,Nearly Unique,5,0,5
+Fiat,1600,,154,150,0.01%,Very Rare,25,125,175
+Fiat,1800,,219,215,0.01%,Very Rare,25,190,240
+Fiat,2000,,587,585,0.04%,Very Scarce,25,560,610
+Fiat,2100,,15,15,0.00%,Nearly Unique,5,10,20
+Fiat,2300,,70,70,0.00%,Very Rare,5,65,75
+Fiat,2595,,1,0,0.00%,Unique,5,0,5
+Fiat,6000,,1,0,0.00%,Unique,5,0,5
+Fiat,16000,,1,0,0.00%,Unique,5,0,5
+Fiat,238 E,,17,15,0.00%,Nearly Unique,5,10,20
+Fiat,500L,,9,5,0.00%,Nearly Unique,5,0,10
+Fiat,A,,59,55,0.00%,Very Rare,5,50,60
+Fiat,Abart,,6,5,0.00%,Nearly Unique,5,0,10
+Fiat,Allis,,183,180,0.01%,Very Rare,25,155,205
+Fiat,Argenta,,1316,1310,0.08%,Scarce,25,1285,1335
+Fiat,Autobianqui,,40,40,0.00%,Very Rare,5,35,45
+Fiat,Barchetta,,19,15,0.00%,Nearly Unique,5,10,20
+Fiat,Brava,,748,745,0.05%,Very Scarce,25,720,770
+Fiat,Bravo,,417,415,0.03%,Rare,25,390,440
+Fiat,Cambinata,,2,0,0.00%,Nearly Unique,5,0,5
+Fiat,Cifa,,1,0,0.00%,Unique,5,0,5
+Fiat,Croma,,100,100,0.01%,Very Rare,25,75,125
+Fiat,Dino Spider,,1,0,0.00%,Unique,5,0,5
+Fiat,Doblo,,2,0,0.00%,Nearly Unique,5,0,5
+Fiat,Ducato,,309,305,0.02%,Rare,25,280,330
+Fiat,Duna,,1,0,0.00%,Unique,5,0,5
+Fiat,Fa 23,,1,0,0.00%,Unique,5,0,5
+Fiat,Farina,,60,60,0.00%,Very Rare,5,55,65
+Fiat,FE,,1,0,0.00%,Unique,5,0,5
+Fiat,FH,,6,5,0.00%,Nearly Unique,5,0,10
+Fiat,Fiat Uno,,1,0,0.00%,Unique,5,0,5
+Fiat,Fiorina,,113,110,0.01%,Very Rare,25,85,135
+Fiat,Fiorino,,2517,2510,0.16%,Scarce,25,2485,2535
+Fiat,Fire Truck,,1,0,0.00%,Unique,5,0,5
+Fiat,FL,,2,0,0.00%,Nearly Unique,5,0,5
+Fiat,FR,,27,25,0.00%,Extremely Rare,5,20,30
+Fiat,Furgone,,1,0,0.00%,Unique,5,0,5
+Fiat,GL,,5,5,0.00%,Nearly Unique,5,0,10
+Fiat,GLS,,4,0,0.00%,Nearly Unique,5,0,5
+Fiat,Hitachi,,140,140,0.01%,Very Rare,25,115,165
+Fiat,Hp 127,,1,0,0.00%,Unique,5,0,5
+Fiat,Iveco,,27,25,0.00%,Extremely Rare,5,20,30
+Fiat,Marea,,247,245,0.02%,Rare,25,220,270
+Fiat,Merafiery,,70,70,0.00%,Very Rare,5,65,75
+Fiat,Multipla,,17,15,0.00%,Nearly Unique,5,10,20
+Fiat,New Holland,,2,0,0.00%,Nearly Unique,5,0,5
+Fiat,Panda,,176,175,0.01%,Very Rare,25,150,200
+Fiat,Pininfarina,,1,0,0.00%,Unique,5,0,5
+Fiat,Poloner,,23,20,0.00%,Extremely Rare,5,15,25
+Fiat,Punto,,965,965,0.06%,Very Scarce,25,940,990
+Fiat,Racing,,361,360,0.02%,Rare,25,335,385
+Fiat,Rally,,5,5,0.00%,Nearly Unique,5,0,10
+Fiat,Regata,,238,235,0.02%,Very Rare,25,210,260
+Fiat,Ritmo,,1426,1420,0.09%,Scarce,25,1395,1445
+Fiat,Scudo,,85,85,0.01%,Very Rare,5,80,90
+Fiat,Seicento,,1,0,0.00%,Unique,5,0,5
+Fiat,Siema,,1,0,0.00%,Unique,5,0,5
+Fiat,Siena,,1,0,0.00%,Unique,5,0,5
+Fiat,Special,,109,105,0.01%,Very Rare,25,80,130
+Fiat,Spider,,9,5,0.00%,Nearly Unique,5,0,10
+Fiat,Strada,,1,0,0.00%,Unique,5,0,5
+Fiat,Super,,211,210,0.01%,Very Rare,25,185,235
+Fiat,T,,5,5,0.00%,Nearly Unique,5,0,10
+Fiat,Talento,,9,5,0.00%,Nearly Unique,5,0,10
+Fiat,Tempra,,194,190,0.01%,Very Rare,25,165,215
+Fiat,Tio Rino,,2,0,0.00%,Nearly Unique,5,0,5
+Fiat,Tipo,,219,215,0.01%,Very Rare,25,190,240
+Fiat,Tofas,,1,0,0.00%,Unique,5,0,5
+Fiat,Topolino,,1,0,0.00%,Unique,5,0,5
+Fiat,Torino,,4,0,0.00%,Nearly Unique,5,0,5
+Fiat,Towns,,1,0,0.00%,Unique,5,0,5
+Fiat,UlysSE,,3,0,0.00%,Nearly Unique,5,0,5
+Fiat,UNO,,715,715,0.05%,Very Scarce,25,690,740
+Fiat,VAN,,18,15,0.00%,Nearly Unique,5,10,20
+Fiat,Wagon,,2,0,0.00%,Nearly Unique,5,0,5
+Fiat,X 119,,6,5,0.00%,Nearly Unique,5,0,10
+Fiat,,,298,295,0.02%,Rare,25,270,320
+Ford,300,,2,0,0.00%,Nearly Unique,5,0,5
+Ford,450,,1,0,0.00%,Unique,5,0,5
+Ford,500,,127,125,0.01%,Very Rare,25,100,150
+Ford,17 M ,,93,90,0.01%,Very Rare,5,85,95
+Ford,20M,,1,0,0.00%,Unique,5,0,5
+Ford,Aerostar,,102,100,0.01%,Very Rare,25,75,125
+Ford,Ambulance,,6,5,0.00%,Nearly Unique,5,0,10
+Ford,Anglia,,27,25,0.00%,Extremely Rare,5,20,30
+Ford,Aspire,,2,0,0.00%,Nearly Unique,5,0,5
+Ford,Branco ,,52,50,0.00%,Very Rare,5,45,55
+Ford,Bronco,,60,60,0.00%,Very Rare,5,55,65
+Ford,Capri,,6,5,0.00%,Nearly Unique,5,0,10
+Ford,Cargo,,2,0,0.00%,Nearly Unique,5,0,5
+Ford,Club Wagon,,10,10,0.00%,Nearly Unique,5,5,15
+Ford,Continental,,14,10,0.00%,Nearly Unique,5,5,15
+Ford,Contour,,193,190,0.01%,Very Rare,25,165,215
+Ford,Corsair,,51,50,0.00%,Very Rare,5,45,55
+Ford,Cortina,,56,55,0.00%,Very Rare,5,50,60
+Ford,Cougar,,10,10,0.00%,Nearly Unique,5,5,15
+Ford,Country Squire,,6,5,0.00%,Nearly Unique,5,0,10
+Ford,Courier,,829,825,0.05%,Very Scarce,25,800,850
+Ford,Crown Victoria,,139,135,0.01%,Very Rare,25,110,160
+Ford,Econoline,,85,85,0.01%,Very Rare,5,80,90
+Ford,Econovan,,26,25,0.00%,Extremely Rare,5,20,30
+Ford,Escape,,10,10,0.00%,Nearly Unique,5,5,15
+Ford,Escort,,373,370,0.02%,Rare,25,345,395
+Ford,Excursion,,5,5,0.00%,Nearly Unique,5,0,10
+Ford,Executive,,1,0,0.00%,Unique,5,0,5
+Ford,Expedition,,208,205,0.01%,Very Rare,25,180,230
+Ford,Explorer,,1092,1090,0.07%,Scarce,25,1065,1115
+Ford,Express,,3,0,0.00%,Nearly Unique,5,0,5
+Ford,F 100 ,,66,65,0.00%,Very Rare,5,60,70
+Ford,F 150 ,,60,60,0.00%,Very Rare,5,55,65
+Ford,F 250 ,,188,185,0.01%,Very Rare,25,160,210
+Ford,F 350 ,,42,40,0.00%,Very Rare,5,35,45
+Ford,F 600 ,,38,35,0.00%,Extremely Rare,5,30,40
+Ford,F-150,,25,25,0.00%,Extremely Rare,5,20,30
+Ford,F-250,,20,20,0.00%,Extremely Rare,5,15,25
+Ford,F-300,,1,0,0.00%,Unique,5,0,5
+Ford,F-350,,16,15,0.00%,Nearly Unique,5,10,20
+Ford,F-500,,14,10,0.00%,Nearly Unique,5,5,15
+Ford,F-700,,14,10,0.00%,Nearly Unique,5,5,15
+Ford,F-750,,1,0,0.00%,Unique,5,0,5
+Ford,F-800,,16,15,0.00%,Nearly Unique,5,10,20
+Ford,F-850,,8,5,0.00%,Nearly Unique,5,0,10
+Ford,F-900,,2,0,0.00%,Nearly Unique,5,0,5
+Ford,F-950,,9,5,0.00%,Nearly Unique,5,0,10
+Ford,Fairlane,,67,65,0.00%,Very Rare,5,60,70
+Ford,Fairmont,,11,10,0.00%,Nearly Unique,5,5,15
+Ford,Falcon,,199,195,0.01%,Very Rare,25,170,220
+Ford,Ferego,,1,0,0.00%,Unique,5,0,5
+Ford,Festiva,,2,0,0.00%,Nearly Unique,5,0,5
+Ford,Fiesta,,432,430,0.03%,Rare,25,405,455
+Ford,Focus,,139,135,0.01%,Very Rare,25,110,160
+Ford,Galaxie,,106,105,0.01%,Very Rare,25,80,130
+Ford,Galaxie 500,,48,45,0.00%,Very Rare,5,40,50
+Ford,Granada,,2,0,0.00%,Nearly Unique,5,0,5
+Ford,Kaster,,5,5,0.00%,Nearly Unique,5,0,10
+Ford,Limited,,5,5,0.00%,Nearly Unique,5,0,10
+Ford,Mark,,4,0,0.00%,Nearly Unique,5,0,5
+Ford,Model A,,2,0,0.00%,Nearly Unique,5,0,5
+Ford,Mondeo,,20,20,0.00%,Extremely Rare,5,15,25
+Ford,MT5,,1,0,0.00%,Unique,5,0,5
+Ford,Mustang,,618,615,0.04%,Very Scarce,25,590,640
+Ford,Mustang Cobra,,1,0,0.00%,Unique,5,0,5
+Ford,Orion,,6,5,0.00%,Nearly Unique,5,0,10
+Ford,P3 KO,,2,0,0.00%,Nearly Unique,5,0,5
+Ford,Probe,,34,30,0.00%,Extremely Rare,5,25,35
+Ford,Ranger,,143,140,0.01%,Very Rare,25,115,165
+Ford,Scorpio,,120,120,0.01%,Very Rare,25,95,145
+Ford,Shelby Cobra,,3,0,0.00%,Nearly Unique,5,0,5
+Ford,Sierra,,91,90,0.01%,Very Rare,5,85,95
+Ford,Super 17.M,,1,0,0.00%,Unique,5,0,5
+Ford,Super Deluxe,,2,0,0.00%,Nearly Unique,5,0,5
+Ford,T,,8,5,0.00%,Nearly Unique,5,0,10
+Ford,T1000,,4,0,0.00%,Nearly Unique,5,0,5
+Ford,Taurus,,807,805,0.05%,Very Scarce,25,780,830
+Ford,Tempo,,72,70,0.00%,Very Rare,5,65,75
+Ford,Thunderbird,,184,180,0.01%,Very Rare,25,155,205
+Ford,TLD,,1,0,0.00%,Unique,5,0,5
+Ford,Tornado,,3,0,0.00%,Nearly Unique,5,0,5
+Ford,Tracker,,13,10,0.00%,Nearly Unique,5,5,15
+Ford,Transit,,408,405,0.03%,Rare,25,380,430
+Ford,TT1,,5,5,0.00%,Nearly Unique,5,0,10
+Ford,TT1000,,6,5,0.00%,Nearly Unique,5,0,10
+Ford,Windstar,,100,100,0.01%,Very Rare,25,75,125
+Ford,Zephyr,,37,35,0.00%,Extremely Rare,5,30,40
+Ford,,,153,150,0.01%,Very Rare,25,125,175
+Geely,Scooter,,19,15,0.00%,Nearly Unique,5,10,20
+GMC,100,,10,10,0.00%,Nearly Unique,5,5,15
+GMC,1500,,153,150,0.01%,Very Rare,25,125,175
+GMC,2500,,258,255,0.02%,Rare,25,230,280
+GMC,3500,,407,405,0.03%,Rare,25,380,430
+GMC,4000,,24,20,0.00%,Extremely Rare,5,15,25
+GMC,4500,,2,0,0.00%,Nearly Unique,5,0,5
+GMC,5000,,30,30,0.00%,Extremely Rare,5,25,35
+GMC,6000,,100,100,0.01%,Very Rare,25,75,125
+GMC,6500,,10,10,0.00%,Nearly Unique,5,5,15
+GMC,7000,,34,30,0.00%,Extremely Rare,5,25,35
+GMC,8000,,3,0,0.00%,Nearly Unique,5,0,5
+GMC,Acadia,,2,0,0.00%,Nearly Unique,5,0,5
+GMC,Astro,,4,0,0.00%,Nearly Unique,5,0,5
+GMC,Blazer,,55,55,0.00%,Very Rare,5,50,60
+GMC,C 20,,13,10,0.00%,Nearly Unique,5,5,15
+GMC,C 25,,29,25,0.00%,Extremely Rare,5,20,30
+GMC,C 30,,28,25,0.00%,Extremely Rare,5,20,30
+GMC,C 35,,133,130,0.01%,Very Rare,25,105,155
+GMC,C 3500,,41,40,0.00%,Very Rare,5,35,45
+GMC,C 50,,2,0,0.00%,Nearly Unique,5,0,5
+GMC,Comanche,,1,0,0.00%,Unique,5,0,5
+GMC,CS,,12,10,0.00%,Nearly Unique,5,5,15
+GMC,Custom,,10,10,0.00%,Nearly Unique,5,5,15
+GMC,D,,5,5,0.00%,Nearly Unique,5,0,10
+GMC,Envoy,,24,20,0.00%,Extremely Rare,5,15,25
+GMC,GM,,2,0,0.00%,Nearly Unique,5,0,5
+GMC,GMC,,34,30,0.00%,Extremely Rare,5,25,35
+GMC,Jimmy,,1908,1900,0.12%,Scarce,25,1875,1925
+GMC,Rally,,25,25,0.00%,Extremely Rare,5,20,30
+GMC,S 10,,3,0,0.00%,Nearly Unique,5,0,5
+GMC,S 14,,5,5,0.00%,Nearly Unique,5,0,10
+GMC,S 15,,9,5,0.00%,Nearly Unique,5,0,10
+GMC,S 35,,2,0,0.00%,Nearly Unique,5,0,5
+GMC,S 500,,1,0,0.00%,Unique,5,0,5
+GMC,Safari,,107,105,0.01%,Very Rare,25,80,130
+GMC,Savana,,14,10,0.00%,Nearly Unique,5,5,15
+GMC,Sierra,,143,140,0.01%,Very Rare,25,115,165
+GMC,Sonoma,,48,45,0.00%,Very Rare,5,40,50
+GMC,Suburban,,129,125,0.01%,Very Rare,25,100,150
+GMC,Typhoon,,1,0,0.00%,Unique,5,0,5
+GMC,Vandura,,148,145,0.01%,Very Rare,25,120,170
+GMC,Yukon,,245,245,0.02%,Rare,25,220,270
+GMC,Yukon Denali,,1,0,0.00%,Unique,5,0,5
+GMC,,,23,20,0.00%,Extremely Rare,5,15,25
+Harley Davidson,800,,1,0,0.00%,Unique,5,0,5
+Harley Davidson,883,,2,0,0.00%,Nearly Unique,5,0,5
+Harley Davidson,1000,,6,5,0.00%,Nearly Unique,5,0,10
+Harley Davidson,1100,,1,0,0.00%,Unique,5,0,5
+Harley Davidson,1200,,78,75,0.00%,Very Rare,5,70,80
+Harley Davidson,1340,,80,80,0.01%,Very Rare,5,75,85
+Harley Davidson,1400,,6,5,0.00%,Nearly Unique,5,0,10
+Harley Davidson,1450,,20,20,0.00%,Extremely Rare,5,15,25
+Harley Davidson,1584,,2,0,0.00%,Nearly Unique,5,0,5
+Harley Davidson,1600,,1,0,0.00%,Unique,5,0,5
+Harley Davidson,Custom Bike,,1,0,0.00%,Unique,5,0,5
+Harley Davidson,Electra Glide ,,5,5,0.00%,Nearly Unique,5,0,10
+Harley Davidson,Fat Boy ,,15,15,0.00%,Nearly Unique,5,10,20
+Harley Davidson,FLHRC,,17,15,0.00%,Nearly Unique,5,10,20
+Harley Davidson,FLST,,11,10,0.00%,Nearly Unique,5,5,15
+Harley Davidson,FLST ,,21,20,0.00%,Extremely Rare,5,15,25
+Harley Davidson,FX,,12,10,0.00%,Nearly Unique,5,5,15
+Harley Davidson,FXD,,9,5,0.00%,Nearly Unique,5,0,10
+Harley Davidson,FYLB,,1,0,0.00%,Unique,5,0,5
+Harley Davidson,Heritage Softail,,2,0,0.00%,Nearly Unique,5,0,5
+Harley Davidson,K00,,1,0,0.00%,Unique,5,0,5
+Harley Davidson,Road King,,35,35,0.00%,Extremely Rare,5,30,40
+Harley Davidson,RS,,2,0,0.00%,Nearly Unique,5,0,5
+Harley Davidson,Screamin' Eagle ,,1,0,0.00%,Unique,5,0,5
+Harley Davidson,Shovelhead,,1,0,0.00%,Unique,5,0,5
+Harley Davidson,Softail,,9,5,0.00%,Nearly Unique,5,0,10
+Harley Davidson,Sportster ,,1,0,0.00%,Unique,5,0,5
+Harley Davidson,Springer ,,5,5,0.00%,Nearly Unique,5,0,10
+Harley Davidson,Ultra Classic,,3,0,0.00%,Nearly Unique,5,0,5
+Harley Davidson,XL,,16,15,0.00%,Nearly Unique,5,10,20
+Harley Davidson,XLH,,7,5,0.00%,Nearly Unique,5,0,10
+Harley Davidson,XLH 883,,5,5,0.00%,Nearly Unique,5,0,10
+Hillman,Hunter,,65,65,0.00%,Very Rare,5,60,70
+Hillman,Husky ,,2,0,0.00%,Nearly Unique,5,0,5
+Hillman,Minx,,44,40,0.00%,Very Rare,5,35,45
+Hillman,Super Fox,,12,10,0.00%,Nearly Unique,5,5,15
+Hillman,Super Minx ,,15,15,0.00%,Nearly Unique,5,10,20
+Hillman,,,1,0,0.00%,Unique,5,0,5
+Honda,1.5,,1,0,0.00%,Unique,5,0,5
+Honda,1.6,,1,0,0.00%,Unique,5,0,5
+Honda,50,,445,445,0.03%,Rare,25,420,470
+Honda,70,,46,45,0.00%,Very Rare,5,40,50
+Honda,80,,63,60,0.00%,Very Rare,5,55,65
+Honda,90,,65,65,0.00%,Very Rare,5,60,70
+Honda,110,,82,80,0.01%,Very Rare,5,75,85
+Honda,250,,1189,1180,0.08%,Scarce,25,1155,1205
+Honda,270,,1,0,0.00%,Unique,5,0,5
+Honda,312,,7,5,0.00%,Nearly Unique,5,0,10
+Honda,360,,41,40,0.00%,Very Rare,5,35,45
+Honda,400,,179,175,0.01%,Very Rare,25,150,200
+Honda,450,,13,10,0.00%,Nearly Unique,5,5,15
+Honda,500,,26,25,0.00%,Extremely Rare,5,20,30
+Honda,550,,35,35,0.00%,Extremely Rare,5,30,40
+Honda,600,,196,195,0.01%,Very Rare,25,170,220
+Honda,650,,73,70,0.00%,Very Rare,5,65,75
+Honda,680,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,700,,16,15,0.00%,Nearly Unique,5,10,20
+Honda,750,,238,235,0.02%,Very Rare,25,210,260
+Honda,800,,6,5,0.00%,Nearly Unique,5,0,10
+Honda,900,,21,20,0.00%,Extremely Rare,5,15,25
+Honda,1000,,28,25,0.00%,Extremely Rare,5,20,30
+Honda,1100,,62,60,0.00%,Very Rare,5,55,65
+Honda,1200,,22,20,0.00%,Extremely Rare,5,15,25
+Honda,1250,,307,305,0.02%,Rare,25,280,330
+Honda,1300,,3,0,0.00%,Nearly Unique,5,0,5
+Honda,1500,,108,105,0.01%,Very Rare,25,80,130
+Honda,1600,,19,15,0.00%,Nearly Unique,5,10,20
+Honda,1800,,3,0,0.00%,Nearly Unique,5,0,5
+Honda,3600,,3,0,0.00%,Nearly Unique,5,0,5
+Honda,A 70,,10,10,0.00%,Nearly Unique,5,5,15
+Honda,Accord,,56696,56690,3.64%,Common,250,56440,56940
+Honda,Acty ,,18,15,0.00%,Nearly Unique,5,10,20
+Honda,Acura ,,26,25,0.00%,Extremely Rare,5,20,30
+Honda,Address,,5,5,0.00%,Nearly Unique,5,0,10
+Honda,Aero Deck ,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,AF 24,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,Africa Twin,,64,60,0.00%,Very Rare,5,55,65
+Honda,Air Blade,,1,0,0.00%,Unique,5,0,5
+Honda,AX,,11,10,0.00%,Nearly Unique,5,5,15
+Honda,AX-1 ,,367,365,0.02%,Rare,25,340,390
+Honda,Baja,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,Bali,,3,0,0.00%,Nearly Unique,5,0,5
+Honda,Ballade,,50,50,0.00%,Very Rare,5,45,55
+Honda,BC,,1,0,0.00%,Unique,5,0,5
+Honda,Blade ,,14,10,0.00%,Nearly Unique,5,5,15
+Honda,Broad ,,15,15,0.00%,Nearly Unique,5,10,20
+Honda,C 100,,3,0,0.00%,Nearly Unique,5,0,5
+Honda,C 50,,40,40,0.00%,Very Rare,5,35,45
+Honda,C 70,,44,40,0.00%,Very Rare,5,35,45
+Honda,C 90,,26,25,0.00%,Extremely Rare,5,20,30
+Honda,Campy ,,4,0,0.00%,Nearly Unique,5,0,5
+Honda,Canopy,,167,165,0.01%,Very Rare,25,140,190
+Honda,Caren ,,4,0,0.00%,Nearly Unique,5,0,5
+Honda,CB,,105,105,0.01%,Very Rare,25,80,130
+Honda,CBF,,8,5,0.00%,Nearly Unique,5,0,10
+Honda,CBR,,143,140,0.01%,Very Rare,25,115,165
+Honda,CBX,,66,65,0.00%,Very Rare,5,60,70
+Honda,CD,,47,45,0.00%,Very Rare,5,40,50
+Honda,Celerio ,,1,0,0.00%,Unique,5,0,5
+Honda,CF,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,CG,,1,0,0.00%,Unique,5,0,5
+Honda,CGFDR,,1,0,0.00%,Unique,5,0,5
+Honda,CH,,8,5,0.00%,Nearly Unique,5,0,10
+Honda,Charo ,,3,0,0.00%,Nearly Unique,5,0,5
+Honda,Chatelet ,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,City,,167,165,0.01%,Very Rare,25,140,190
+Honda,Civic,,21529,21520,1.41%,Common,100,21420,21620
+Honda,CM,,22,20,0.00%,Extremely Rare,5,15,25
+Honda,CMX,,3,0,0.00%,Nearly Unique,5,0,5
+Honda,Concerto,,83,80,0.01%,Very Rare,5,75,85
+Honda,Corolla ,,13,10,0.00%,Nearly Unique,5,5,15
+Honda,Coronet ,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,CR,,4,0,0.00%,Nearly Unique,5,0,5
+Honda,CRM,,43,40,0.00%,Very Rare,5,35,45
+Honda,CR-V ,,8897,8890,0.57%,Uncommon,100,8790,8990
+Honda,CRX,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,Custom ,,4,0,0.00%,Nearly Unique,5,0,5
+Honda,CXE,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,CXT,,4,0,0.00%,Nearly Unique,5,0,5
+Honda,D10,,30,30,0.00%,Extremely Rare,5,25,35
+Honda,DAX,,41,40,0.00%,Very Rare,5,35,45
+Honda,Degree,,114,110,0.01%,Very Rare,25,85,135
+Honda,Dio ,,296,295,0.02%,Rare,25,270,320
+Honda,DJ,,113,110,0.01%,Very Rare,25,85,135
+Honda,DL,,1,0,0.00%,Unique,5,0,5
+Honda,DN-01,,1,0,0.00%,Unique,5,0,5
+Honda,Dominator,,1,0,0.00%,Unique,5,0,5
+Honda,Dream ,,128,125,0.01%,Very Rare,25,100,150
+Honda,EVE,,4,0,0.00%,Nearly Unique,5,0,5
+Honda,EX,,45,45,0.00%,Very Rare,5,40,50
+Honda,EXI,,8,5,0.00%,Nearly Unique,5,0,10
+Honda,Express,,40,40,0.00%,Very Rare,5,35,45
+Honda,FES,,25,25,0.00%,Extremely Rare,5,20,30
+Honda,FLUSH 50 ,,1,0,0.00%,Unique,5,0,5
+Honda,Foreman,,1,0,0.00%,Unique,5,0,5
+Honda,Foresight,,8446,8440,0.54%,Uncommon,100,8340,8540
+Honda,Forza,,1521,1520,0.10%,Scarce,25,1495,1545
+Honda,Freeway,,12912,12910,0.83%,Common,100,12810,13010
+Honda,Fusion,,28,25,0.00%,Extremely Rare,5,20,30
+Honda,GBC,,1,0,0.00%,Unique,5,0,5
+Honda,GBR,,1,0,0.00%,Unique,5,0,5
+Honda,Gear BA 50,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,Giorno,,67,65,0.00%,Very Rare,5,60,70
+Honda,GL,,43,40,0.00%,Very Rare,5,35,45
+Honda,GM,,1,0,0.00%,Unique,5,0,5
+Honda,Gold Wing ,,22,20,0.00%,Extremely Rare,5,15,25
+Honda,Gorilla 50,,77,75,0.00%,Very Rare,5,70,80
+Honda,Grom ,,1,0,0.00%,Unique,5,0,5
+Honda,GRV,,1,0,0.00%,Unique,5,0,5
+Honda,GRX,,5,5,0.00%,Nearly Unique,5,0,10
+Honda,Gyro,,3277,3270,0.21%,Scarce,25,3245,3295
+Honda,H 100,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,HR-V ,,50,50,0.00%,Very Rare,5,45,55
+Honda,Integra,,288,285,0.02%,Rare,25,260,310
+Honda,Interceptor ,,1,0,0.00%,Unique,5,0,5
+Honda,Jazz,,73,70,0.00%,Very Rare,5,65,75
+Honda,JC,,5,5,0.00%,Nearly Unique,5,0,10
+Honda,Joker,,105,105,0.01%,Very Rare,25,80,130
+Honda,JX 110,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,Jyro ,,27,25,0.00%,Extremely Rare,5,20,30
+Honda,L185S ,,1,0,0.00%,Unique,5,0,5
+Honda,LA 250,,6,5,0.00%,Nearly Unique,5,0,10
+Honda,Lead,,1947,1940,0.12%,Scarce,25,1915,1965
+Honda,Lead ,,1,0,0.00%,Unique,5,0,5
+Honda,Legend,,306,305,0.02%,Rare,25,280,330
+Honda,Legend ,,9,5,0.00%,Nearly Unique,5,0,10
+Honda,LX,,5,5,0.00%,Nearly Unique,5,0,10
+Honda,LXi ,,3,0,0.00%,Nearly Unique,5,0,5
+Honda,M,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,Magna,,55,55,0.00%,Very Rare,5,50,60
+Honda,Magna ,,1,0,0.00%,Unique,5,0,5
+Honda,MB,,3,0,0.00%,Nearly Unique,5,0,5
+Honda,MBX,,6,5,0.00%,Nearly Unique,5,0,10
+Honda,MC29,,1,0,0.00%,Unique,5,0,5
+Honda,MCX,,4,0,0.00%,Nearly Unique,5,0,5
+Honda,MD,,8,5,0.00%,Nearly Unique,5,0,10
+Honda,Monkey,,66,65,0.00%,Very Rare,5,60,70
+Honda,MT ,,1,0,0.00%,Unique,5,0,5
+Honda,MTX,,20,20,0.00%,Extremely Rare,5,15,25
+Honda,MUX,,1,0,0.00%,Unique,5,0,5
+Honda,N,,20,20,0.00%,Extremely Rare,5,15,25
+Honda,NB,,1,0,0.00%,Unique,5,0,5
+Honda,NEW,,27,25,0.00%,Extremely Rare,5,20,30
+Honda,NH,,6,5,0.00%,Nearly Unique,5,0,10
+Honda,NJ,,1,0,0.00%,Unique,5,0,5
+Honda,NS,,3,0,0.00%,Nearly Unique,5,0,5
+Honda,NSR,,100,100,0.01%,Very Rare,25,75,125
+Honda,NSX,,4,0,0.00%,Nearly Unique,5,0,5
+Honda,NT,,61,60,0.00%,Very Rare,5,55,65
+Honda,NV,,24,20,0.00%,Extremely Rare,5,15,25
+Honda,NX,,42,40,0.00%,Very Rare,5,35,45
+Honda,Odyssey,,457,455,0.03%,Rare,25,430,480
+Honda,Odyssey ,,1,0,0.00%,Unique,5,0,5
+Honda,PAL,,54,50,0.00%,Very Rare,5,45,55
+Honda,Pallade ,,33,30,0.00%,Extremely Rare,5,25,35
+Honda,Passol,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,Passport,,39,35,0.00%,Extremely Rare,5,30,40
+Honda,PAX,,13,10,0.00%,Nearly Unique,5,5,15
+Honda,Pick ,,33,30,0.00%,Extremely Rare,5,25,35
+Honda,Pony ,,1,0,0.00%,Unique,5,0,5
+Honda,Prelude,,5184,5180,0.33%,Uncommon,100,5080,5280
+Honda,Pro 50 ,,12,10,0.00%,Nearly Unique,5,5,15
+Honda,Quintet,,4847,4840,0.31%,Uncommon,25,4815,4865
+Honda,R125 ,,1,0,0.00%,Unique,5,0,5
+Honda,Raccoon ,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,Rebel,,209,205,0.01%,Very Rare,25,180,230
+Honda,Rubicon ,,1,0,0.00%,Unique,5,0,5
+Honda,S2000 ,,7,5,0.00%,Nearly Unique,5,0,10
+Honda,S90Z ,,1,0,0.00%,Unique,5,0,5
+Honda,Scoopy 50,,7,5,0.00%,Nearly Unique,5,0,10
+Honda,Scooter 50,,4,0,0.00%,Nearly Unique,5,0,5
+Honda,Shadow,,623,620,0.04%,Very Scarce,25,595,645
+Honda,Shuttle,,213,210,0.01%,Very Rare,25,185,235
+Honda,Shuttle,,3,0,0.00%,Nearly Unique,5,0,5
+Honda,Silver Wing,,2603,2600,0.17%,Scarce,25,2575,2625
+Honda,SJ,,1,0,0.00%,Unique,5,0,5
+Honda,Sky 50 SG ,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,Spacy,,890,890,0.06%,Very Scarce,25,865,915
+Honda,ST,,27,25,0.00%,Extremely Rare,5,20,30
+Honda,Steed,,2242,2240,0.14%,Scarce,25,2215,2265
+Honda,Step ,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,Stream,,4,0,0.00%,Nearly Unique,5,0,5
+Honda,Super Cub,,1,0,0.00%,Unique,5,0,5
+Honda,Super Dio 50,,7,5,0.00%,Nearly Unique,5,0,10
+Honda,Supertact ,,5,5,0.00%,Nearly Unique,5,0,10
+Honda,TA,,8,5,0.00%,Nearly Unique,5,0,10
+Honda,Tact,,439,435,0.03%,Rare,25,410,460
+Honda,TC,,33,30,0.00%,Extremely Rare,5,25,35
+Honda,TL,,1,0,0.00%,Unique,5,0,5
+Honda,TLR,,4,0,0.00%,Nearly Unique,5,0,5
+Honda,Topic ,,91,90,0.01%,Very Rare,5,85,95
+Honda,Transalp ,,278,275,0.02%,Rare,25,250,300
+Honda,Triumph ,,19,15,0.00%,Nearly Unique,5,10,20
+Honda,TRN,,1,0,0.00%,Unique,5,0,5
+Honda,TRX,,1,0,0.00%,Unique,5,0,5
+Honda,Up 50,,169,165,0.01%,Very Rare,25,140,190
+Honda,VD,,6,5,0.00%,Nearly Unique,5,0,10
+Honda,VEF,,1,0,0.00%,Unique,5,0,5
+Honda,VF,,30,30,0.00%,Extremely Rare,5,25,35
+Honda,VFF,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,VFR,,45,45,0.00%,Very Rare,5,40,50
+Honda,VH,,1,0,0.00%,Unique,5,0,5
+Honda,Vigor,,5,5,0.00%,Nearly Unique,5,0,10
+Honda,Vision ,,1,0,0.00%,Unique,5,0,5
+Honda,Vocal ,,3,0,0.00%,Nearly Unique,5,0,5
+Honda,VT,,92,90,0.01%,Very Rare,5,85,95
+Honda,VTI,,1,0,0.00%,Unique,5,0,5
+Honda,VTR,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,VTZ,,9,5,0.00%,Nearly Unique,5,0,10
+Honda,VXRl ,,1,0,0.00%,Unique,5,0,5
+Honda,W,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,X ,,100,100,0.01%,Very Rare,25,75,125
+Honda,XL,,1701,1700,0.11%,Scarce,25,1675,1725
+Honda,XLB,,1,0,0.00%,Unique,5,0,5
+Honda,XLI,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,XLR,,705,705,0.05%,Very Scarce,25,680,730
+Honda,XLS,,1,0,0.00%,Unique,5,0,5
+Honda,XLV,,7,5,0.00%,Nearly Unique,5,0,10
+Honda,XLVK,,1,0,0.00%,Unique,5,0,5
+Honda,XLX,,15,15,0.00%,Nearly Unique,5,10,20
+Honda,XR,,167,165,0.01%,Very Rare,25,140,190
+Honda,XRV,,39,35,0.00%,Extremely Rare,5,30,40
+Honda,XV,,2,0,0.00%,Nearly Unique,5,0,5
+Honda,YRV,,1,0,0.00%,Unique,5,0,5
+Honda,Z,,21,20,0.00%,Extremely Rare,5,15,25
+Honda,Z50J Monkey,,3,0,0.00%,Nearly Unique,5,0,5
+Honda,Zook 50 ,,5,5,0.00%,Nearly Unique,5,0,10
+Hummer,H1,,6,5,0.00%,Nearly Unique,5,0,10
+Hummer,H2,,1,0,0.00%,Unique,5,0,5
+Hyundai,1.5,,3,0,0.00%,Nearly Unique,5,0,5
+Hyundai,1.8,,6,5,0.00%,Nearly Unique,5,0,10
+Hyundai,3.6,,4,0,0.00%,Nearly Unique,5,0,5
+Hyundai,17,,2,0,0.00%,Nearly Unique,5,0,5
+Hyundai,100,,23,20,0.00%,Extremely Rare,5,15,25
+Hyundai,120,,6,5,0.00%,Nearly Unique,5,0,10
+Hyundai,125,,4,0,0.00%,Nearly Unique,5,0,5
+Hyundai,250,,32,30,0.00%,Extremely Rare,5,25,35
+Hyundai,270,,2,0,0.00%,Nearly Unique,5,0,5
+Hyundai,320,,1,0,0.00%,Unique,5,0,5
+Hyundai,350,,13,10,0.00%,Nearly Unique,5,5,15
+Hyundai,3500,,3,0,0.00%,Nearly Unique,5,0,5
+Hyundai,4100,,1,0,0.00%,Unique,5,0,5
+Hyundai,11250,,1,0,0.00%,Unique,5,0,5
+Hyundai,16250,,1,0,0.00%,Unique,5,0,5
+Hyundai,16350,,1,0,0.00%,Unique,5,0,5
+Hyundai,1.5 GLSi,,1,0,0.00%,Unique,5,0,5
+Hyundai,Accent,,3648,3640,0.23%,Uncommon,25,3615,3665
+Hyundai,Aero Town ,,12,10,0.00%,Nearly Unique,5,5,15
+Hyundai,Atos,,305,305,0.02%,Rare,25,280,330
+Hyundai,Cargo,,8,5,0.00%,Nearly Unique,5,0,10
+Hyundai,Chorus,,323,320,0.02%,Rare,25,295,345
+Hyundai,County,,118,115,0.01%,Very Rare,25,90,140
+Hyundai,Elantra,,2043,2040,0.13%,Scarce,25,2015,2065
+Hyundai,Excel,,788,785,0.05%,Very Scarce,25,760,810
+Hyundai,Full Atoz,,6,5,0.00%,Nearly Unique,5,0,10
+Hyundai,Galloper,,51,50,0.00%,Very Rare,5,45,55
+Hyundai,GLS,,2,0,0.00%,Nearly Unique,5,0,5
+Hyundai,Grace,,1468,1460,0.10%,Scarce,25,1435,1485
+Hyundai,Grandeur,,22,20,0.00%,Extremely Rare,5,15,25
+Hyundai,H-1,,567,565,0.04%,Very Scarce,25,540,590
+Hyundai,H1 ,,84,80,0.01%,Very Rare,5,75,85
+Hyundai,H-100,,4934,4930,0.31%,Uncommon,25,4905,4955
+Hyundai,HB,,15,15,0.00%,Nearly Unique,5,10,20
+Hyundai,HD,,343,340,0.02%,Rare,25,315,365
+Hyundai,HDL,,1,0,0.00%,Unique,5,0,5
+Hyundai,i10 ,,2,0,0.00%,Nearly Unique,5,0,5
+Hyundai,Landra,,2,0,0.00%,Nearly Unique,5,0,5
+Hyundai,M,,18,15,0.00%,Nearly Unique,5,10,20
+Hyundai,MB,,36,35,0.00%,Extremely Rare,5,30,40
+Hyundai,Micro,,7,5,0.00%,Nearly Unique,5,0,10
+Hyundai,Mighty,,15,15,0.00%,Nearly Unique,5,10,20
+Hyundai,MINI ,,779,775,0.05%,Very Scarce,25,750,800
+Hyundai,Passenger,,3,0,0.00%,Nearly Unique,5,0,5
+Hyundai,PH100 ,,1,0,0.00%,Unique,5,0,5
+Hyundai,Pony,,18,15,0.00%,Nearly Unique,5,10,20
+Hyundai,Porter,,487,485,0.03%,Rare,25,460,510
+Hyundai,Prima,,8,5,0.00%,Nearly Unique,5,0,10
+Hyundai,Prince,,1,0,0.00%,Unique,5,0,5
+Hyundai,Santa Fe ,,14,10,0.00%,Nearly Unique,5,5,15
+Hyundai,Satellite,,1,0,0.00%,Unique,5,0,5
+Hyundai,Scoupe,,40,40,0.00%,Very Rare,5,35,45
+Hyundai,S-Coupe ,,33,30,0.00%,Extremely Rare,5,25,35
+Hyundai,Solaris,,1,0,0.00%,Unique,5,0,5
+Hyundai,Sonata,,2645,2640,0.17%,Scarce,25,2615,2665
+Hyundai,Starex,,193,190,0.01%,Very Rare,25,165,215
+Hyundai,Stellar,,50,50,0.00%,Very Rare,5,45,55
+Hyundai,Steller ,,28,25,0.00%,Extremely Rare,5,20,30
+Hyundai,SVX ,,2,0,0.00%,Nearly Unique,5,0,5
+Hyundai,Tiburon,,25,25,0.00%,Extremely Rare,5,20,30
+Hyundai,Trajet,,13,10,0.00%,Nearly Unique,5,5,15
+Hyundai,Truck,,2,0,0.00%,Nearly Unique,5,0,5
+Hyundai,Tucson,,1,0,0.00%,Unique,5,0,5
+Hyundai,XG300 ,,1,0,0.00%,Unique,5,0,5
+Hyundai,,,438,435,0.03%,Rare,25,410,460
+Infiniti,130,,4,0,0.00%,Nearly Unique,5,0,5
+Infiniti,FX35 ,,2,0,0.00%,Nearly Unique,5,0,5
+Infiniti,FX50 ,,1,0,0.00%,Unique,5,0,5
+Infiniti,G20 ,,10,10,0.00%,Nearly Unique,5,5,15
+Infiniti,G35 ,,1,0,0.00%,Unique,5,0,5
+Infiniti,J30 ,,1,0,0.00%,Unique,5,0,5
+Infiniti,Q45 ,,29,25,0.00%,Extremely Rare,5,20,30
+Infiniti,QX4 ,,1857,1850,0.12%,Scarce,25,1825,1875
+Infiniti,QX70 ,,1,0,0.00%,Unique,5,0,5
+Iveco,Daily,,6,5,0.00%,Nearly Unique,5,0,10
+Iveco,Daily Turbo,,3,0,0.00%,Nearly Unique,5,0,5
+Iveco,Eurocargo 380 ,,58,55,0.00%,Very Rare,5,50,60
+Iveco,Eurocargo MP 380 ,,9,5,0.00%,Nearly Unique,5,0,10
+Iveco,Magirus-Deutz ML 180 ,,1,0,0.00%,Unique,5,0,5
+Iveco,Saurer 6DM ,,1,0,0.00%,Unique,5,0,5
+Iveco,Trakker,,4,0,0.00%,Nearly Unique,5,0,5
+Iveco,Zeta ZCF ,,3,0,0.00%,Nearly Unique,5,0,5
+Jaguar,Daimler,,294,290,0.02%,Rare,25,265,315
+Jaguar,Daimler Double Six ,,4,0,0.00%,Nearly Unique,5,0,5
+Jaguar,Daimler Double Six XJ40 ,,1,0,0.00%,Unique,5,0,5
+Jaguar,Daimler Six,,3,0,0.00%,Nearly Unique,5,0,5
+Jaguar,Daimler Sovereign,,7,5,0.00%,Nearly Unique,5,0,10
+Jaguar,Daimler Super,,3,0,0.00%,Nearly Unique,5,0,5
+Jaguar,Daimler Super Eight ,,3,0,0.00%,Nearly Unique,5,0,5
+Jaguar,E-Type,,50,50,0.00%,Very Rare,5,45,55
+Jaguar,Mark,,64,60,0.00%,Very Rare,5,55,65
+Jaguar,Palmer Jaguar ,,2,0,0.00%,Nearly Unique,5,0,5
+Jaguar,Sovereign,,267,265,0.02%,Rare,25,240,290
+Jaguar,Sovereign XJ4.0 ,,1,0,0.00%,Unique,5,0,5
+Jaguar,Sovereign XJ40,,2,0,0.00%,Nearly Unique,5,0,5
+Jaguar,Sovereign XJ6,,26,25,0.00%,Extremely Rare,5,20,30
+Jaguar,S-Type,,423,420,0.03%,Rare,25,395,445
+Jaguar,Vanden Plas,,8,5,0.00%,Nearly Unique,5,0,10
+Jaguar,XF,,2,0,0.00%,Nearly Unique,5,0,5
+Jaguar,XJ,,50,50,0.00%,Very Rare,5,45,55
+Jaguar,XJ Executive,,2,0,0.00%,Nearly Unique,5,0,5
+Jaguar,XJ Portfolio ,,1,0,0.00%,Unique,5,0,5
+Jaguar,XJ12,,31,30,0.00%,Extremely Rare,5,25,35
+Jaguar,XJ3.2,,2,0,0.00%,Nearly Unique,5,0,5
+Jaguar,XJ3.4,,3,0,0.00%,Nearly Unique,5,0,5
+Jaguar,XJ4 ,,2,0,0.00%,Nearly Unique,5,0,5
+Jaguar,XJ40,,12,10,0.00%,Nearly Unique,5,5,15
+Jaguar,XJ6,,599,595,0.04%,Very Scarce,25,570,620
+Jaguar,XJ6 Coupe ,,7,5,0.00%,Nearly Unique,5,0,10
+Jaguar,XJ6 Series I ,,4,0,0.00%,Nearly Unique,5,0,5
+Jaguar,XJ6 Series II ,,45,45,0.00%,Very Rare,5,40,50
+Jaguar,XJ6 Series III ,,55,55,0.00%,Very Rare,5,50,60
+Jaguar,XJ8,,36,35,0.00%,Extremely Rare,5,30,40
+Jaguar,XJL,,2,0,0.00%,Nearly Unique,5,0,5
+Jaguar,XJR,,30,30,0.00%,Extremely Rare,5,25,35
+Jaguar,XJS,,58,55,0.00%,Very Rare,5,50,60
+Jaguar,XJS Convertible ,,2,0,0.00%,Nearly Unique,5,0,5
+Jaguar,XK,,6,5,0.00%,Nearly Unique,5,0,10
+Jaguar,XK8,,31,30,0.00%,Extremely Rare,5,25,35
+Jaguar,XKR,,6,5,0.00%,Nearly Unique,5,0,10
+Jaguar,,,181,180,0.01%,Very Rare,25,155,205
+Jeep,ARO 10 ,,5,5,0.00%,Nearly Unique,5,0,10
+Jeep,Auto Union ,,1,0,0.00%,Unique,5,0,5
+Jeep,Beijing BJ2020 ,,4,0,0.00%,Nearly Unique,5,0,5
+Jeep,Bertone Freeclimber ,,3,0,0.00%,Nearly Unique,5,0,5
+Jeep,Cherokee,,5560,5560,0.36%,Uncommon,100,5460,5660
+Jeep,CJ5,,1,0,0.00%,Unique,5,0,5
+Jeep,CJ6,,2,0,0.00%,Nearly Unique,5,0,5
+Jeep,CJ7,,9,5,0.00%,Nearly Unique,5,0,10
+Jeep,Comanche,,29,25,0.00%,Extremely Rare,5,20,30
+Jeep,Dallas ,,1,0,0.00%,Unique,5,0,5
+Jeep,Diavolino ,,1,0,0.00%,Unique,5,0,5
+Jeep,Discovery ,,10,10,0.00%,Nearly Unique,5,5,15
+Jeep,Galloper,,99,95,0.01%,Very Rare,5,90,100
+Jeep,Geo Storm,,1,0,0.00%,Unique,5,0,5
+Jeep,Geo Tracker,,20,20,0.00%,Extremely Rare,5,15,25
+Jeep,Grand Cherokee,,7673,7670,0.49%,Uncommon,100,7570,7770
+Jeep,Jeep Pup ,,3,0,0.00%,Nearly Unique,5,0,5
+Jeep,Liberty,,8,5,0.00%,Nearly Unique,5,0,10
+Jeep,Loiseau ,,1,0,0.00%,Unique,5,0,5
+Jeep,Monteverdi Safari ,,2,0,0.00%,Nearly Unique,5,0,5
+Jeep,Mosquito ,,1,0,0.00%,Unique,5,0,5
+Jeep,Munga ,,2,0,0.00%,Nearly Unique,5,0,5
+Jeep,Pup Comanche,,3,0,0.00%,Nearly Unique,5,0,5
+Jeep,Renegade,,26,25,0.00%,Extremely Rare,5,20,30
+Jeep,Scout,,1,0,0.00%,Unique,5,0,5
+Jeep,Tirreno Power ,,2,0,0.00%,Nearly Unique,5,0,5
+Jeep,Trekker ,,8,5,0.00%,Nearly Unique,5,0,10
+Jeep,Wagoneer,,125,125,0.01%,Very Rare,25,100,150
+Jeep,Willys,,310,310,0.02%,Rare,25,285,335
+Jeep,Wrangler,,709,705,0.05%,Very Scarce,25,680,730
+Jeep,Wrangler,,95,95,0.01%,Very Rare,5,90,100
+Jeep,YA-3 ,,1,0,0.00%,Unique,5,0,5
+Jeep,,,76,75,0.00%,Very Rare,5,70,80
+Jensen,Healey,,5,5,0.00%,Nearly Unique,5,0,10
+Jensen,Interceptor,,6,5,0.00%,Nearly Unique,5,0,10
+Kawaski,Eliminator ,,39,35,0.00%,Extremely Rare,5,30,40
+Kawaski,Eliminator 250 SE ,,3,0,0.00%,Nearly Unique,5,0,5
+Kawaski,EN 500 Vulcan ,,4,0,0.00%,Nearly Unique,5,0,5
+Kawaski,Estrella 250 ,,14,10,0.00%,Nearly Unique,5,5,15
+Kawaski,FX 400 ,,1,0,0.00%,Unique,5,0,5
+Kawaski,GPX 750 ,,20,20,0.00%,Extremely Rare,5,15,25
+Kawaski,GPZ 750 ,,18,15,0.00%,Nearly Unique,5,10,20
+Kawaski,GPZ 900 ,,11,10,0.00%,Nearly Unique,5,5,15
+Kawaski,KDX 200 ,,3,0,0.00%,Nearly Unique,5,0,5
+Kawaski,KDX 220 ,,11,10,0.00%,Nearly Unique,5,5,15
+Kawaski,KLE 650 ,,3,0,0.00%,Nearly Unique,5,0,5
+Kawaski,KLF 300 ,,1,0,0.00%,Unique,5,0,5
+Kawaski,KLR 650 ,,11,10,0.00%,Nearly Unique,5,5,15
+Kawaski,KLX 140 ,,1,0,0.00%,Unique,5,0,5
+Kawaski,KLX 250 ,,138,135,0.01%,Very Rare,25,110,160
+Kawaski,KLX 250 ,,3,0,0.00%,Nearly Unique,5,0,5
+Kawaski,KX 125 ,,17,15,0.00%,Nearly Unique,5,10,20
+Kawaski,KX 500 ,,15,15,0.00%,Nearly Unique,5,10,20
+Kawaski,KX 80 ,,2,0,0.00%,Nearly Unique,5,0,5
+Kawaski,KX 90 ,,1,0,0.00%,Unique,5,0,5
+Kawaski,Ninja ,,4,0,0.00%,Nearly Unique,5,0,5
+Kawaski,Ninja 1000 ,,4,0,0.00%,Nearly Unique,5,0,5
+Kawaski,Ninja 250 ,,3,0,0.00%,Nearly Unique,5,0,5
+Kawaski,VN 1500 ,,7,5,0.00%,Nearly Unique,5,0,10
+Kawaski,Vulcan 900 ,,4,0,0.00%,Nearly Unique,5,0,5
+Kawaski,Vulcan S ,,20,20,0.00%,Extremely Rare,5,15,25
+Kawaski,Z750 ,,1,0,0.00%,Unique,5,0,5
+Kawaski,Zephyr ZR 750 ,,1,0,0.00%,Unique,5,0,5
+Kawaski,ZR-400 ,,21,20,0.00%,Extremely Rare,5,15,25
+Kawaski,ZRX 1100 ,,2,0,0.00%,Nearly Unique,5,0,5
+Kawaski,ZX-11 ,,25,25,0.00%,Extremely Rare,5,20,30
+Kawaski,ZX-6R ,,10,10,0.00%,Nearly Unique,5,5,15
+Kawaski,ZXR 750 ,,3,0,0.00%,Nearly Unique,5,0,5
+Kawaski,ZZR ,,21,20,0.00%,Extremely Rare,5,15,25
+Kawaski,,,1,0,0.00%,Unique,5,0,5
+Kia,Astra,,2,0,0.00%,Nearly Unique,5,0,5
+Kia,Avella,,750,750,0.05%,Very Scarce,25,725,775
+Kia,Besta,,178,175,0.01%,Very Rare,25,150,200
+Kia,Bongo,,1,0,0.00%,Unique,5,0,5
+Kia,Capital,,3,0,0.00%,Nearly Unique,5,0,5
+Kia,Carnival,,35,35,0.00%,Extremely Rare,5,30,40
+Kia,Ceres,,144,140,0.01%,Very Rare,25,115,165
+Kia,Clarus,,276,275,0.02%,Rare,25,250,300
+Kia,Clarus ,,878,875,0.06%,Very Scarce,25,850,900
+Kia,Combi,,71,70,0.00%,Very Rare,5,65,75
+Kia,Concord ,,32,30,0.00%,Extremely Rare,5,25,35
+Kia,Cosmos,,13,10,0.00%,Nearly Unique,5,5,15
+Kia,Elan,,1,0,0.00%,Unique,5,0,5
+Kia,Festiva,,1,0,0.00%,Unique,5,0,5
+Kia,Frontier,,24,20,0.00%,Extremely Rare,5,15,25
+Kia,Grand Carnival ,,27,25,0.00%,Extremely Rare,5,20,30
+Kia,Grand Sportage,,10,10,0.00%,Nearly Unique,5,5,15
+Kia,H-1 ,,2,0,0.00%,Nearly Unique,5,0,5
+Kia,Joice,,1,0,0.00%,Unique,5,0,5
+Kia,K1300 ,,3,0,0.00%,Nearly Unique,5,0,5
+Kia,K2400 ,,18,15,0.00%,Nearly Unique,5,10,20
+Kia,K2700 ,,53,50,0.00%,Very Rare,5,45,55
+Kia,K3000 ,,1,0,0.00%,Unique,5,0,5
+Kia,K3500 ,,4,0,0.00%,Nearly Unique,5,0,5
+Kia,K3600 ,,75,75,0.00%,Very Rare,5,70,80
+Kia,KLT ,,2,0,0.00%,Nearly Unique,5,0,5
+Kia,K-Series ,,605,605,0.04%,Very Scarce,25,580,630
+Kia,Master,,2,0,0.00%,Nearly Unique,5,0,5
+Kia,N3600 ,,1,0,0.00%,Unique,5,0,5
+Kia,Picanto,,2,0,0.00%,Nearly Unique,5,0,5
+Kia,Pop,,360,360,0.02%,Rare,25,335,385
+Kia,Potentia ,,1,0,0.00%,Unique,5,0,5
+Kia,Pregio,,468,465,0.03%,Rare,25,440,490
+Kia,Pride,,1151,1150,0.08%,Scarce,25,1125,1175
+Kia,Retona ,,1,0,0.00%,Unique,5,0,5
+Kia,Rio,,167,165,0.01%,Very Rare,25,140,190
+Kia,Sephia,,417,415,0.03%,Rare,25,390,440
+Kia,Sephia,,1,0,0.00%,Unique,5,0,5
+Kia,Shuma,,53,50,0.00%,Very Rare,5,45,55
+Kia,Sorento,,15,15,0.00%,Nearly Unique,5,10,20
+Kia,Soul,,1,0,0.00%,Unique,5,0,5
+Kia,Sportage,,311,310,0.02%,Rare,25,285,335
+Kia,Topic,,1,0,0.00%,Unique,5,0,5
+Kia,Towner,,73,70,0.00%,Very Rare,5,65,75
+Kia,Trade,,7,5,0.00%,Nearly Unique,5,0,10
+Kia,,,324,320,0.02%,Rare,25,295,345
+KTM,500 EXC,,2,0,0.00%,Nearly Unique,5,0,5
+KTM,620 SC,,1,0,0.00%,Unique,5,0,5
+Kymco,Agility 125,,5,5,0.00%,Nearly Unique,5,0,10
+Kymco,Like 150i ,,3,0,0.00%,Nearly Unique,5,0,5
+Kymco,Maxxer 90,,2,0,0.00%,Nearly Unique,5,0,5
+Kymco,Super 8 50 ,,6,5,0.00%,Nearly Unique,5,0,10
+Lada,110,,1,0,0.00%,Unique,5,0,5
+Lada,150,,2,0,0.00%,Nearly Unique,5,0,5
+Lada,210,,8,5,0.00%,Nearly Unique,5,0,10
+Lada,1300,,37,35,0.00%,Extremely Rare,5,30,40
+Lada,1500,,44,40,0.00%,Very Rare,5,35,45
+Lada,1600,,39,35,0.00%,Extremely Rare,5,30,40
+Lada,1800,,2,0,0.00%,Nearly Unique,5,0,5
+Lada,2000,,1,0,0.00%,Unique,5,0,5
+Lada,2101,,211,210,0.01%,Very Rare,25,185,235
+Lada,2102,,71,70,0.00%,Very Rare,5,65,75
+Lada,2103,,183,180,0.01%,Very Rare,25,155,205
+Lada,2104,,54,50,0.00%,Very Rare,5,45,55
+Lada,2105,,17,15,0.00%,Nearly Unique,5,10,20
+Lada,2106,,17,15,0.00%,Nearly Unique,5,10,20
+Lada,2107,,14,10,0.00%,Nearly Unique,5,5,15
+Lada,2108,,4,0,0.00%,Nearly Unique,5,0,5
+Lada,2110,,3,0,0.00%,Nearly Unique,5,0,5
+Lada,2120,,4,0,0.00%,Nearly Unique,5,0,5
+Lada,2121,,140,140,0.01%,Very Rare,25,115,165
+Lada,2123,,1,0,0.00%,Unique,5,0,5
+Lada,21013,,1,0,0.00%,Unique,5,0,5
+Lada,21043,,2,0,0.00%,Nearly Unique,5,0,5
+Lada,21213,,16,15,0.00%,Nearly Unique,5,10,20
+Lada,Classic,,8,5,0.00%,Nearly Unique,5,0,10
+Lada,Niva,,1061,1060,0.07%,Scarce,25,1035,1085
+Lada,Samara,,17,15,0.00%,Nearly Unique,5,10,20
+Lada,Sara,,2,0,0.00%,Nearly Unique,5,0,5
+Lada,VAZ ,,62,60,0.00%,Very Rare,5,55,65
+Lada,Volga ,,1,0,0.00%,Unique,5,0,5
+Lada,,,25,25,0.00%,Extremely Rare,5,20,30
+Lamborghini,Countach,,3,0,0.00%,Nearly Unique,5,0,5
+Lamborghini,Diablo,,3,0,0.00%,Nearly Unique,5,0,5
+Lamborghini,Espada,,2,0,0.00%,Nearly Unique,5,0,5
+Lamborghini,Miura,,1,0,0.00%,Unique,5,0,5
+Lamborghini,Urus ,,3,0,0.00%,Nearly Unique,5,0,5
+Lancia,1.8,,1,0,0.00%,Unique,5,0,5
+Lancia,1600,,32,30,0.00%,Extremely Rare,5,25,35
+Lancia,2000,,44,40,0.00%,Very Rare,5,35,45
+Lancia,2500,,2,0,0.00%,Nearly Unique,5,0,5
+Lancia,410 Superfire ,,2,0,0.00%,Nearly Unique,5,0,5
+Lancia,A112 ,,2,0,0.00%,Nearly Unique,5,0,5
+Lancia,Beta ,,106,105,0.01%,Very Rare,25,80,130
+Lancia,Dedra,,98,95,0.01%,Very Rare,5,90,100
+Lancia,Delta,,295,295,0.02%,Rare,25,270,320
+Lancia,Delta Integrale ,,4,0,0.00%,Nearly Unique,5,0,5
+Lancia,Delta Martini,,1,0,0.00%,Unique,5,0,5
+Lancia,Flavia,,1,0,0.00%,Unique,5,0,5
+Lancia,Fulvia,,152,150,0.01%,Very Rare,25,125,175
+Lancia,Gamma,,3,0,0.00%,Nearly Unique,5,0,5
+Lancia,HP,,2,0,0.00%,Nearly Unique,5,0,5
+Lancia,HPE,,7,5,0.00%,Nearly Unique,5,0,10
+Lancia,Kappa,,43,40,0.00%,Very Rare,5,35,45
+Lancia,Lybra,,43,40,0.00%,Very Rare,5,35,45
+Lancia,Monte Carlo,,2,0,0.00%,Nearly Unique,5,0,5
+Lancia,Musa,,1,0,0.00%,Unique,5,0,5
+Lancia,Prisma,,18,15,0.00%,Nearly Unique,5,10,20
+Lancia,Thema,,49,45,0.00%,Very Rare,5,40,50
+Lancia,Thesis,,1,0,0.00%,Unique,5,0,5
+Lancia,Trevi 2000,,3,0,0.00%,Nearly Unique,5,0,5
+Lancia,Y10 ,,73,70,0.00%,Very Rare,5,65,75
+Lancia,Ypsilon ,,32,30,0.00%,Extremely Rare,5,25,35
+Lancia,Ypsilon Junior ,,1,0,0.00%,Unique,5,0,5
+Lancia,Ypsilon Sport ,,2,0,0.00%,Nearly Unique,5,0,5
+Lancia,Zeta ,,2,0,0.00%,Nearly Unique,5,0,5
+Lancia,,,59,55,0.00%,Very Rare,5,50,60
+Land Rover,Camel Trophy,,5,5,0.00%,Nearly Unique,5,0,10
+Land Rover,Defender,,110,110,0.01%,Very Rare,25,85,135
+Land Rover,Defender ,,2,0,0.00%,Nearly Unique,5,0,5
+Land Rover,Defender 110,,17,15,0.00%,Nearly Unique,5,10,20
+Land Rover,Discovery,,1511,1510,0.10%,Scarce,25,1485,1535
+Land Rover,Freelander,,187,185,0.01%,Very Rare,25,160,210
+Land Rover,New Discovery,,6,5,0.00%,Nearly Unique,5,0,10
+Land Rover,Pick-Up ,,9,5,0.00%,Nearly Unique,5,0,10
+Land Rover,Range Rover,,126,125,0.01%,Very Rare,25,100,150
+Land Rover,Range Rover 3.9,,6,5,0.00%,Nearly Unique,5,0,10
+Land Rover,Range Rover 4.2,,1,0,0.00%,Unique,5,0,5
+Land Rover,Range Rover 4.6,,28,25,0.00%,Extremely Rare,5,20,30
+Land Rover,Range Rover HSE 4.6,,3,0,0.00%,Nearly Unique,5,0,5
+Land Rover,Range Rover Vogue LSE,,3,0,0.00%,Nearly Unique,5,0,5
+Land Rover,Series I ,,1,0,0.00%,Unique,5,0,5
+Land Rover,Series I 1.9 ,,19,15,0.00%,Nearly Unique,5,10,20
+Land Rover,Series I 109 ,,188,185,0.01%,Very Rare,25,160,210
+Land Rover,Series I 88 ,,342,340,0.02%,Rare,25,315,365
+Land Rover,Series I 88 ,,1,0,0.00%,Unique,5,0,5
+Land Rover,Series I Regular ,,66,65,0.00%,Very Rare,5,60,70
+Land Rover,Series IIA ,,3,0,0.00%,Nearly Unique,5,0,5
+Land Rover,Series III 104 ,,2,0,0.00%,Nearly Unique,5,0,5
+Land Rover,Series III 109 ,,7,5,0.00%,Nearly Unique,5,0,10
+Land Rover,Series III 109 ,,1,0,0.00%,Unique,5,0,5
+Land Rover,Series III 109 County ,,3,0,0.00%,Nearly Unique,5,0,5
+Land Rover,Series III 109 Pickup ,,1,0,0.00%,Unique,5,0,5
+Land Rover,Series III 109 Station Wagon ,,1,0,0.00%,Unique,5,0,5
+Land Rover,Series III 1300 ,,2,0,0.00%,Nearly Unique,5,0,5
+Land Rover,Series III 244 ,,1,0,0.00%,Unique,5,0,5
+Land Rover,Series III 290 ,,1,0,0.00%,Unique,5,0,5
+Land Rover,Series III 30 ,,2,0,0.00%,Nearly Unique,5,0,5
+Land Rover,Series III 500 ,,1,0,0.00%,Unique,5,0,5
+Land Rover,Series III 6403 ,,1,0,0.00%,Unique,5,0,5
+Land Rover,Series III 88 ,,1,0,0.00%,Unique,5,0,5
+Land Rover,Series III Long ,,1,0,0.00%,Unique,5,0,5
+Land Rover,Series III Station Wagon ,,6,5,0.00%,Nearly Unique,5,0,10
+Land Rover,Series IV ,,14,10,0.00%,Nearly Unique,5,5,15
+Land Rover,,,254,250,0.02%,Rare,25,225,275
+Lexus,ES 300,,40,40,0.00%,Very Rare,5,35,45
+Lexus,ES 300 ,,18,15,0.00%,Nearly Unique,5,10,20
+Lexus,GS 300,,29,25,0.00%,Extremely Rare,5,20,30
+Lexus,GS 300 ,,3,0,0.00%,Nearly Unique,5,0,5
+Lexus,GS 400,,1,0,0.00%,Unique,5,0,5
+Lexus,GX 470,,1,0,0.00%,Unique,5,0,5
+Lexus,IS 250,,1,0,0.00%,Unique,5,0,5
+Lexus,IS 300,,1,0,0.00%,Unique,5,0,5
+Lexus,LS ,,3,0,0.00%,Nearly Unique,5,0,5
+Lexus,LS 400,,34,30,0.00%,Extremely Rare,5,25,35
+Lexus,LS 430,,1,0,0.00%,Unique,5,0,5
+Lexus,LS 430 ,,7,5,0.00%,Nearly Unique,5,0,10
+Lexus,LX 450,,16,15,0.00%,Nearly Unique,5,10,20
+Lexus,LX 470,,49,45,0.00%,Very Rare,5,40,50
+Lexus,LX 470 ,,4,0,0.00%,Nearly Unique,5,0,5
+Lexus,RX 300,,408,405,0.03%,Rare,25,380,430
+Lexus,RX 300 ,,4,0,0.00%,Nearly Unique,5,0,5
+Lexus,RX 330,,3,0,0.00%,Nearly Unique,5,0,5
+Lexus,RX 330 ,,1,0,0.00%,Unique,5,0,5
+Lexus,SC 400 ,,36,35,0.00%,Extremely Rare,5,30,40
+Lexus,SC 430,,2,0,0.00%,Nearly Unique,5,0,5
+Lincoln,Cartier,,2,0,0.00%,Nearly Unique,5,0,5
+Lincoln,Continental,,93,90,0.01%,Very Rare,5,85,95
+Lincoln,LS,,18,15,0.00%,Nearly Unique,5,10,20
+Lincoln,Mark,,19,15,0.00%,Nearly Unique,5,10,20
+Lincoln,MKS ,,2,0,0.00%,Nearly Unique,5,0,5
+Lincoln,Model D-24 ,,1,0,0.00%,Unique,5,0,5
+Lincoln,Navigator,,17,15,0.00%,Nearly Unique,5,10,20
+Lincoln,Topaz,,12,10,0.00%,Nearly Unique,5,5,15
+Lincoln,Town Car,,483,480,0.03%,Rare,25,455,505
+Lincoln,,,2,0,0.00%,Nearly Unique,5,0,5
+Lotus,45,,1,0,0.00%,Unique,5,0,5
+Lotus,Elan,,4,0,0.00%,Nearly Unique,5,0,5
+Lotus,Esprit,,1,0,0.00%,Unique,5,0,5
+Lotus,Esprit SE,,1,0,0.00%,Unique,5,0,5
+Lotus,Europe,,2,0,0.00%,Nearly Unique,5,0,5
+Maserati,300,,2,0,0.00%,Nearly Unique,5,0,5
+Maserati,330,,1,0,0.00%,Unique,5,0,5
+Maserati,331,,1,0,0.00%,Unique,5,0,5
+Maserati,422,,2,0,0.00%,Nearly Unique,5,0,5
+Maserati,330S ,,1,0,0.00%,Unique,5,0,5
+Maserati,Biturbo,,4,0,0.00%,Nearly Unique,5,0,5
+Maserati,Ghibli,,5,5,0.00%,Nearly Unique,5,0,10
+Maserati,Khamsin,,1,0,0.00%,Unique,5,0,5
+Maserati,Kyalami ,,2,0,0.00%,Nearly Unique,5,0,5
+Maserati,Mera K,,4,0,0.00%,Nearly Unique,5,0,5
+Maserati,Quattroporte,,14,10,0.00%,Nearly Unique,5,5,15
+Maserati,Quattroporte Saloon ,,1,0,0.00%,Unique,5,0,5
+Maserati,Shamal ,,1,0,0.00%,Unique,5,0,5
+Maserati,Spyder,,1,0,0.00%,Unique,5,0,5
+Maserati,Turbo,,2,0,0.00%,Nearly Unique,5,0,5
+Maserati,,,7,5,0.00%,Nearly Unique,5,0,10
+Mazda,1.5,,3,0,0.00%,Nearly Unique,5,0,5
+Mazda,6,,8,5,0.00%,Nearly Unique,5,0,10
+Mazda,40,,6,5,0.00%,Nearly Unique,5,0,10
+Mazda,121,,155,155,0.01%,Very Rare,25,130,180
+Mazda,200,,8,5,0.00%,Nearly Unique,5,0,10
+Mazda,215,,1,0,0.00%,Unique,5,0,5
+Mazda,323,,2420,2420,0.15%,Scarce,25,2395,2445
+Mazda,325,,1,0,0.00%,Unique,5,0,5
+Mazda,326,,1,0,0.00%,Unique,5,0,5
+Mazda,360,,4,0,0.00%,Nearly Unique,5,0,5
+Mazda,616,,183,180,0.01%,Very Rare,25,155,205
+Mazda,626,,6019,6010,0.38%,Uncommon,100,5910,6110
+Mazda,626,,3,0,0.00%,Nearly Unique,5,0,5
+Mazda,626,,1,0,0.00%,Unique,5,0,5
+Mazda,656,,1,0,0.00%,Unique,5,0,5
+Mazda,800,,19,15,0.00%,Nearly Unique,5,10,20
+Mazda,808,,143,140,0.01%,Very Rare,25,115,165
+Mazda,818,,84,80,0.01%,Very Rare,5,75,85
+Mazda,929,,3718,3710,0.24%,Uncommon,25,3685,3735
+Mazda,929,,3,0,0.00%,Nearly Unique,5,0,5
+Mazda,1000,,13,10,0.00%,Nearly Unique,5,5,15
+Mazda,1000,,1,0,0.00%,Unique,5,0,5
+Mazda,1200,,57,55,0.00%,Very Rare,5,50,60
+Mazda,1200,,1,0,0.00%,Unique,5,0,5
+Mazda,1300,,309,305,0.02%,Rare,25,280,330
+Mazda,1400,,7,5,0.00%,Nearly Unique,5,0,10
+Mazda,1500,,394,390,0.02%,Rare,25,365,415
+Mazda,1600,,966,965,0.06%,Very Scarce,25,940,990
+Mazda,1600,,5,5,0.00%,Nearly Unique,5,0,10
+Mazda,1800,,232,230,0.01%,Very Rare,25,205,255
+Mazda,1800,,1,0,0.00%,Unique,5,0,5
+Mazda,2000,,523,520,0.03%,Very Scarce,25,495,545
+Mazda,2200,,110,110,0.01%,Very Rare,25,85,135
+Mazda,2300,,16,15,0.00%,Nearly Unique,5,10,20
+Mazda,2600,,125,125,0.01%,Very Rare,25,100,150
+Mazda,3230,,3,0,0.00%,Nearly Unique,5,0,5
+Mazda,3500,,6,5,0.00%,Nearly Unique,5,0,10
+Mazda,3600,,1,0,0.00%,Unique,5,0,5
+Mazda,323F ,,5,5,0.00%,Nearly Unique,5,0,10
+Mazda,323F Sport ,,2,0,0.00%,Nearly Unique,5,0,5
+Mazda,323F SR ,,3,0,0.00%,Nearly Unique,5,0,5
+Mazda,626 Royal Classic ,,3,0,0.00%,Nearly Unique,5,0,5
+Mazda,929L ,,2,0,0.00%,Nearly Unique,5,0,5
+Mazda,B1000,,2,0,0.00%,Nearly Unique,5,0,5
+Mazda,B1100,,1,0,0.00%,Unique,5,0,5
+Mazda,B1200,,15,15,0.00%,Nearly Unique,5,10,20
+Mazda,B1200 ,,2,0,0.00%,Nearly Unique,5,0,5
+Mazda,B1500,,8,5,0.00%,Nearly Unique,5,0,10
+Mazda,B1600,,54,50,0.00%,Very Rare,5,45,55
+Mazda,B1800,,35,35,0.00%,Extremely Rare,5,30,40
+Mazda,B2000,,408,405,0.03%,Rare,25,380,430
+Mazda,B2200,,185,185,0.01%,Very Rare,25,160,210
+Mazda,B2500,,45,45,0.00%,Very Rare,5,40,50
+Mazda,B3000,,22,20,0.00%,Extremely Rare,5,15,25
+Mazda,B4000,,13,10,0.00%,Nearly Unique,5,5,15
+Mazda,B600,,97,95,0.01%,Very Rare,5,90,100
+Mazda,Bongo,,10,10,0.00%,Nearly Unique,5,5,15
+Mazda,Breda,,2,0,0.00%,Nearly Unique,5,0,5
+Mazda,Capella,,2,0,0.00%,Nearly Unique,5,0,5
+Mazda,CX-7,,1,0,0.00%,Unique,5,0,5
+Mazda,CX-9,,3,0,0.00%,Nearly Unique,5,0,5
+Mazda,E1000,,3,0,0.00%,Nearly Unique,5,0,5
+Mazda,E2000,,512,510,0.03%,Very Scarce,25,485,535
+Mazda,E2200,,39,35,0.00%,Extremely Rare,5,30,40
+Mazda,Ecomove ,,42,40,0.00%,Very Rare,5,35,45
+Mazda,Econo,,31,30,0.00%,Extremely Rare,5,25,35
+Mazda,E-Series ,,3964,3960,0.26%,Uncommon,25,3935,3985
+Mazda,E-Series Caravan ,,3,0,0.00%,Nearly Unique,5,0,5
+Mazda,E-Series Caravane ,,1,0,0.00%,Unique,5,0,5
+Mazda,Eunos 100 ,,2,0,0.00%,Nearly Unique,5,0,5
+Mazda,Eunos 30X ,,4,0,0.00%,Nearly Unique,5,0,5
+Mazda,EVB,,70,70,0.00%,Very Rare,5,65,75
+Mazda,F1000,,9,5,0.00%,Nearly Unique,5,0,10
+Mazda,F1600,,3,0,0.00%,Nearly Unique,5,0,5
+Mazda,F2000,,17,15,0.00%,Nearly Unique,5,10,20
+Mazda,F211,,4,0,0.00%,Nearly Unique,5,0,5
+Mazda,Familia,,1,0,0.00%,Unique,5,0,5
+Mazda,L300,,1,0,0.00%,Unique,5,0,5
+Mazda,L600,,1,0,0.00%,Unique,5,0,5
+Mazda,LA2V,,1,0,0.00%,Unique,5,0,5
+Mazda,LA4MV,,1,0,0.00%,Unique,5,0,5
+Mazda,Lantis,,821,820,0.05%,Very Scarce,25,795,845
+Mazda,Lantis,,3,0,0.00%,Nearly Unique,5,0,5
+Mazda,Levante ,,18,15,0.00%,Nearly Unique,5,10,20
+Mazda,Marvie,,19,15,0.00%,Nearly Unique,5,10,20
+Mazda,Mazda3 ,,3,0,0.00%,Nearly Unique,5,0,5
+Mazda,MBV,,1,0,0.00%,Unique,5,0,5
+Mazda,Micro BW-30I,,1,0,0.00%,Unique,5,0,5
+Mazda,Millenia,,5,5,0.00%,Nearly Unique,5,0,10
+Mazda,Mini ,,36,35,0.00%,Extremely Rare,5,30,40
+Mazda,MP ,,2,0,0.00%,Nearly Unique,5,0,5
+Mazda,MPV,,284,280,0.02%,Rare,25,255,305
+Mazda,MX-3,,2,0,0.00%,Nearly Unique,5,0,5
+Mazda,MX-5 ,,19,15,0.00%,Nearly Unique,5,10,20
+Mazda,MX-5 ,,13,10,0.00%,Nearly Unique,5,5,15
+Mazda,MX-6,,19,15,0.00%,Nearly Unique,5,10,20
+Mazda,Navajo,,4,0,0.00%,Nearly Unique,5,0,5
+Mazda,Premacy,,5,5,0.00%,Nearly Unique,5,0,10
+Mazda,Protege,,26,25,0.00%,Extremely Rare,5,20,30
+Mazda,R100 ,,1,0,0.00%,Unique,5,0,5
+Mazda,R1600,,2,0,0.00%,Nearly Unique,5,0,5
+Mazda,R360 ,,2,0,0.00%,Nearly Unique,5,0,5
+Mazda,RX-7,,66,65,0.00%,Very Rare,5,60,70
+Mazda,RX-Z Turbo ,,1,0,0.00%,Unique,5,0,5
+Mazda,Scrum,,3,0,0.00%,Nearly Unique,5,0,5
+Mazda,Sentia ,,3,0,0.00%,Nearly Unique,5,0,5
+Mazda,SR-2,,1,0,0.00%,Unique,5,0,5
+Mazda,SRX-8 ,,1,0,0.00%,Unique,5,0,5
+Mazda,T2000,,74,70,0.00%,Very Rare,5,65,75
+Mazda,T2600,,6,5,0.00%,Nearly Unique,5,0,10
+Mazda,T3000,,6,5,0.00%,Nearly Unique,5,0,10
+Mazda,T3500,,18,15,0.00%,Nearly Unique,5,10,20
+Mazda,T4000,,7,5,0.00%,Nearly Unique,5,0,10
+Mazda,Titan,,29,25,0.00%,Extremely Rare,5,20,30
+Mazda,V-3 ,,1,0,0.00%,Unique,5,0,5
+Mazda,Xedos,,37,35,0.00%,Extremely Rare,5,30,40
+Mazda,,,290,290,0.02%,Rare,25,265,315
+Mercedes,140,,440,440,0.03%,Rare,25,415,465
+Mercedes,170,,12,10,0.00%,Nearly Unique,5,5,15
+Mercedes,180,,3009,3000,0.19%,Scarce,25,2975,3025
+Mercedes,190,,9232,9230,0.59%,Uncommon,100,9130,9330
+Mercedes,200,,54958,54950,3.51%,Common,250,54700,55200
+Mercedes,220,,6624,6620,0.42%,Uncommon,100,6520,6720
+Mercedes,230,,53986,53980,3.45%,Common,250,53730,54230
+Mercedes,240,,148,145,0.01%,Very Rare,25,120,170
+Mercedes,250,,5922,5920,0.38%,Uncommon,100,5820,6020
+Mercedes,260,,173,170,0.01%,Very Rare,25,145,195
+Mercedes,280,,7758,7750,0.50%,Uncommon,100,7650,7850
+Mercedes,300,,1179,1170,0.08%,Scarce,25,1145,1195
+Mercedes,320,,249,245,0.02%,Rare,25,220,270
+Mercedes,340,,7,5,0.00%,Nearly Unique,5,0,10
+Mercedes,350,,44,40,0.00%,Very Rare,5,35,45
+Mercedes,380,,22,20,0.00%,Extremely Rare,5,15,25
+Mercedes,400,,5,5,0.00%,Nearly Unique,5,0,10
+Mercedes,420,,44,40,0.00%,Very Rare,5,35,45
+Mercedes,450,,73,70,0.00%,Very Rare,5,65,75
+Mercedes,500,,74,70,0.00%,Very Rare,5,65,75
+Mercedes,560,,28,25,0.00%,Extremely Rare,5,20,30
+Mercedes,600,,19,15,0.00%,Nearly Unique,5,10,20
+Mercedes,100-D,,12,10,0.00%,Nearly Unique,5,5,15
+Mercedes,140-B,,2,0,0.00%,Nearly Unique,5,0,5
+Mercedes,140-D,,130,130,0.01%,Very Rare,25,105,155
+Mercedes,180-E,,8,5,0.00%,Nearly Unique,5,0,10
+Mercedes,180-SE,,4,0,0.00%,Nearly Unique,5,0,5
+Mercedes,190-B,,6,5,0.00%,Nearly Unique,5,0,10
+Mercedes,190-E,,7750,7750,0.50%,Uncommon,100,7650,7850
+Mercedes,190-S,,1,0,0.00%,Unique,5,0,5
+Mercedes,190-SEL,,1,0,0.00%,Unique,5,0,5
+Mercedes,190-SL,,63,60,0.00%,Very Rare,5,55,65
+Mercedes,200-CE,,4,0,0.00%,Nearly Unique,5,0,5
+Mercedes,200-D,,321,320,0.02%,Rare,25,295,345
+Mercedes,220-CE,,46,45,0.00%,Very Rare,5,40,50
+Mercedes,220-D,,64,60,0.00%,Very Rare,5,55,65
+Mercedes,220-S,,1242,1240,0.08%,Scarce,25,1215,1265
+Mercedes,220-SE,,232,230,0.01%,Very Rare,25,205,255
+Mercedes,220-SL,,1,0,0.00%,Unique,5,0,5
+Mercedes,230-C,,438,435,0.03%,Rare,25,410,460
+Mercedes,230-CE,,567,565,0.04%,Very Scarce,25,540,590
+Mercedes,230-CLK,,102,100,0.01%,Very Rare,25,75,125
+Mercedes,230-D,,11,10,0.00%,Nearly Unique,5,5,15
+Mercedes,230-E,,12841,12840,0.83%,Common,100,12740,12940
+Mercedes,230-G,,11,10,0.00%,Nearly Unique,5,5,15
+Mercedes,230-GE,,8,5,0.00%,Nearly Unique,5,0,10
+Mercedes,230-S,,138,135,0.01%,Very Rare,25,110,160
+Mercedes,230-SE,,9,5,0.00%,Nearly Unique,5,0,10
+Mercedes,230-SL,,78,75,0.00%,Very Rare,5,70,80
+Mercedes,240-D,,173,170,0.01%,Very Rare,25,145,195
+Mercedes,240-E,,42,40,0.00%,Very Rare,5,35,45
+Mercedes,250-CE,,74,70,0.00%,Very Rare,5,65,75
+Mercedes,250-E,,16,15,0.00%,Nearly Unique,5,10,20
+Mercedes,250-S,,605,605,0.04%,Very Scarce,25,580,630
+Mercedes,250-SE,,217,215,0.01%,Very Rare,25,190,240
+Mercedes,250-SEC,,6,5,0.00%,Nearly Unique,5,0,10
+Mercedes,250-SEL,,2,0,0.00%,Nearly Unique,5,0,5
+Mercedes,250-SL,,24,20,0.00%,Extremely Rare,5,15,25
+Mercedes,250-SLC,,1,0,0.00%,Unique,5,0,5
+Mercedes,260-E,,5178,5170,0.33%,Uncommon,100,5070,5270
+Mercedes,260-G,,1,0,0.00%,Unique,5,0,5
+Mercedes,260-SE,,508,505,0.03%,Very Scarce,25,480,530
+Mercedes,280-B,,23,20,0.00%,Extremely Rare,5,15,25
+Mercedes,280-C,,451,450,0.03%,Rare,25,425,475
+Mercedes,280-CE,,635,635,0.04%,Very Scarce,25,610,660
+Mercedes,280-D,,1,0,0.00%,Unique,5,0,5
+Mercedes,280-E,,12692,12690,0.83%,Common,100,12590,12790
+Mercedes,280-GE,,23,20,0.00%,Extremely Rare,5,15,25
+Mercedes,280-S,,8401,8400,0.54%,Uncommon,100,8300,8500
+Mercedes,280-SE,,10516,10510,0.70%,Common,100,10410,10610
+Mercedes,280-SEC,,7,5,0.00%,Nearly Unique,5,0,10
+Mercedes,280-SEL,,650,650,0.04%,Very Scarce,25,625,675
+Mercedes,280-SL,,117,115,0.01%,Very Rare,25,90,140
+Mercedes,280-SLC,,39,35,0.00%,Extremely Rare,5,30,40
+Mercedes,300-CE,,2518,2510,0.16%,Scarce,25,2485,2535
+Mercedes,300-D,,88,85,0.01%,Very Rare,5,80,90
+Mercedes,300-E,,14484,14480,0.89%,Common,100,14380,14580
+Mercedes,300-GE,,8,5,0.00%,Nearly Unique,5,0,10
+Mercedes,300-LE,,13,10,0.00%,Nearly Unique,5,5,15
+Mercedes,300-S,,8,5,0.00%,Nearly Unique,5,0,10
+Mercedes,300-SE,,6809,6800,0.43%,Uncommon,100,6700,6900
+Mercedes,300-SEC,,1,0,0.00%,Unique,5,0,5
+Mercedes,300-SEL,,966,965,0.06%,Very Scarce,25,940,990
+Mercedes,300-SL,,187,185,0.01%,Very Rare,25,160,210
+Mercedes,320-CE,,240,240,0.02%,Very Rare,25,215,265
+Mercedes,320-E,,1271,1270,0.08%,Scarce,25,1245,1295
+Mercedes,320-S,,211,210,0.01%,Very Rare,25,185,235
+Mercedes,320-SE,,3,0,0.00%,Nearly Unique,5,0,5
+Mercedes,320-SL,,108,105,0.01%,Very Rare,25,80,130
+Mercedes,320-SLk,,4,0,0.00%,Nearly Unique,5,0,5
+Mercedes,350-S,,6,5,0.00%,Nearly Unique,5,0,10
+Mercedes,350-SE,,412,410,0.03%,Rare,25,385,435
+Mercedes,350-SEC,,1,0,0.00%,Unique,5,0,5
+Mercedes,350-SEL,,76,75,0.00%,Very Rare,5,70,80
+Mercedes,350-SL,,84,80,0.01%,Very Rare,5,75,85
+Mercedes,350-SLC,,110,110,0.01%,Very Rare,25,85,135
+Mercedes,380-S,,3,0,0.00%,Nearly Unique,5,0,5
+Mercedes,380-SE,,605,605,0.04%,Very Scarce,25,580,630
+Mercedes,380-SEC,,28,25,0.00%,Extremely Rare,5,20,30
+Mercedes,380-SEL,,133,130,0.01%,Very Rare,25,105,155
+Mercedes,380-SL,,64,60,0.00%,Very Rare,5,55,65
+Mercedes,380-SLC,,8,5,0.00%,Nearly Unique,5,0,10
+Mercedes,400-E,,52,50,0.00%,Very Rare,5,45,55
+Mercedes,400-SE,,349,345,0.02%,Rare,25,320,370
+Mercedes,400-SEL,,86,85,0.01%,Very Rare,5,80,90
+Mercedes,420-E,,22,20,0.00%,Extremely Rare,5,15,25
+Mercedes,420-S,,15,15,0.00%,Nearly Unique,5,10,20
+Mercedes,420-SE,,505,505,0.03%,Very Scarce,25,480,530
+Mercedes,420-SEC,,30,30,0.00%,Extremely Rare,5,25,35
+Mercedes,420-SEL,,199,195,0.01%,Very Rare,25,170,220
+Mercedes,420-SL,,3,0,0.00%,Nearly Unique,5,0,5
+Mercedes,450-S,,5,5,0.00%,Nearly Unique,5,0,10
+Mercedes,450-SE,,400,400,0.03%,Rare,25,375,425
+Mercedes,450-SE-6.9,,2,0,0.00%,Nearly Unique,5,0,5
+Mercedes,450-SEC,,2,0,0.00%,Nearly Unique,5,0,5
+Mercedes,450-SEL,,497,495,0.03%,Very Scarce,25,470,520
+Mercedes,450-SEL-6.9,,23,20,0.00%,Extremely Rare,5,15,25
+Mercedes,450-SL,,456,455,0.03%,Rare,25,430,480
+Mercedes,450-SLC,,156,155,0.01%,Very Rare,25,130,180
+Mercedes,450-SLE,,4,0,0.00%,Nearly Unique,5,0,5
+Mercedes,500-E,,49,45,0.00%,Very Rare,5,40,50
+Mercedes,500-S,,50,50,0.00%,Very Rare,5,45,55
+Mercedes,500-SE,,2681,2680,0.17%,Scarce,25,2655,2705
+Mercedes,500-SEC,,339,335,0.02%,Rare,25,310,360
+Mercedes,500-SEL,,1672,1670,0.11%,Scarce,25,1645,1695
+Mercedes,500-SL,,240,240,0.02%,Very Rare,25,215,265
+Mercedes,500-SLC,,4,0,0.00%,Nearly Unique,5,0,5
+Mercedes,560-E,,3,0,0.00%,Nearly Unique,5,0,5
+Mercedes,560-SE,,127,125,0.01%,Very Rare,25,100,150
+Mercedes,560-SEC,,211,210,0.01%,Very Rare,25,185,235
+Mercedes,560-SEL,,669,665,0.04%,Very Scarce,25,640,690
+Mercedes,560-SL,,86,85,0.01%,Very Rare,5,80,90
+Mercedes,600-SE,,36,35,0.00%,Extremely Rare,5,30,40
+Mercedes,600-SEC,,16,15,0.00%,Nearly Unique,5,10,20
+Mercedes,600-SEL,,147,145,0.01%,Very Rare,25,120,170
+Mercedes,600-SL,,21,20,0.00%,Extremely Rare,5,15,25
+Mercedes,A,,165,165,0.01%,Very Rare,25,140,190
+Mercedes,A-160,,24,20,0.00%,Extremely Rare,5,15,25
+Mercedes,A-200,,19,15,0.00%,Nearly Unique,5,10,20
+Mercedes,A-250,,4,0,0.00%,Nearly Unique,5,0,5
+Mercedes,Actros,,393,390,0.02%,Rare,25,365,415
+Mercedes,AMG,,5,5,0.00%,Nearly Unique,5,0,10
+Mercedes,Atego,,3,0,0.00%,Nearly Unique,5,0,5
+Mercedes,B,,1,0,0.00%,Unique,5,0,5
+Mercedes,B-200,,2,0,0.00%,Nearly Unique,5,0,5
+Mercedes,C-180,,7983,7980,0.51%,Uncommon,100,7880,8080
+Mercedes,C-200,,7667,7660,0.49%,Uncommon,100,7560,7760
+Mercedes,C-220,,172,170,0.01%,Very Rare,25,145,195
+Mercedes,C-230,,6574,6570,0.42%,Uncommon,100,6470,6670
+Mercedes,C-240,,581,580,0.04%,Very Scarce,25,555,605
+Mercedes,C-250,,74,70,0.00%,Very Rare,5,65,75
+Mercedes,C-280,,6549,6540,0.42%,Uncommon,100,6440,6640
+Mercedes,C-300,,11,10,0.00%,Nearly Unique,5,5,15
+Mercedes,C-320,,12,10,0.00%,Nearly Unique,5,5,15
+Mercedes,C-350,,1,0,0.00%,Unique,5,0,5
+Mercedes,C-36,,102,100,0.01%,Very Rare,25,75,125
+Mercedes,C-43,,8,5,0.00%,Nearly Unique,5,0,10
+Mercedes,C-500,,1,0,0.00%,Unique,5,0,5
+Mercedes,CL-420,,11,10,0.00%,Nearly Unique,5,5,15
+Mercedes,CL-500,,80,80,0.01%,Very Rare,5,75,85
+Mercedes,CL-600,,5,5,0.00%,Nearly Unique,5,0,10
+Mercedes,CLA-250,,1,0,0.00%,Unique,5,0,5
+Mercedes,CLK-200,,425,425,0.03%,Rare,25,400,450
+Mercedes,CLK-230,,723,720,0.05%,Very Scarce,25,695,745
+Mercedes,CLK-320,,1746,1740,0.11%,Scarce,25,1715,1765
+Mercedes,CLK-430,,31,30,0.00%,Extremely Rare,5,25,35
+Mercedes,CLK-55,,1,0,0.00%,Unique,5,0,5
+Mercedes,CLS-500,,1,0,0.00%,Unique,5,0,5
+Mercedes,CLS-55,,1,0,0.00%,Unique,5,0,5
+Mercedes,E-200,,1227,1220,0.08%,Scarce,25,1195,1245
+Mercedes,E-220,,1625,1620,0.10%,Scarce,25,1595,1645
+Mercedes,E-230,,4831,4830,0.31%,Uncommon,25,4805,4855
+Mercedes,E-240,,1002,1000,0.06%,Scarce,25,975,1025
+Mercedes,E-250,,4,0,0.00%,Nearly Unique,5,0,5
+Mercedes,E-280,,3576,3570,0.23%,Uncommon,25,3545,3595
+Mercedes,E-300,,53,50,0.00%,Very Rare,5,45,55
+Mercedes,E-320,,8444,8440,0.54%,Uncommon,100,8340,8540
+Mercedes,E-350,,2,0,0.00%,Nearly Unique,5,0,5
+Mercedes,E-420,,94,90,0.01%,Very Rare,5,85,95
+Mercedes,E-430,,14,10,0.00%,Nearly Unique,5,5,15
+Mercedes,E-45,,32,30,0.00%,Extremely Rare,5,25,35
+Mercedes,E-50,,14,10,0.00%,Nearly Unique,5,5,15
+Mercedes,E-500,,5,5,0.00%,Nearly Unique,5,0,10
+Mercedes,E-55,,12,10,0.00%,Nearly Unique,5,5,15
+Mercedes,G-230,,1,0,0.00%,Unique,5,0,5
+Mercedes,G-320,,10,10,0.00%,Nearly Unique,5,5,15
+Mercedes,G-500,,13,10,0.00%,Nearly Unique,5,5,15
+Mercedes,Gazelle,,1,0,0.00%,Unique,5,0,5
+Mercedes,GB,,4,0,0.00%,Nearly Unique,5,0,5
+Mercedes,GE-280,,2,0,0.00%,Nearly Unique,5,0,5
+Mercedes,GE-300,,4,0,0.00%,Nearly Unique,5,0,5
+Mercedes,Hanomag,,1,0,0.00%,Unique,5,0,5
+Mercedes,L-600,,2,0,0.00%,Nearly Unique,5,0,5
+Mercedes,ML,,6165,6160,0.40%,Uncommon,100,6060,6260
+Mercedes,S-200,,1,0,0.00%,Unique,5,0,5
+Mercedes,S-280,,396,395,0.03%,Rare,25,370,420
+Mercedes,S-320,,3312,3310,0.21%,Scarce,25,3285,3335
+Mercedes,S-350,,5,5,0.00%,Nearly Unique,5,0,10
+Mercedes,S-420,,184,180,0.01%,Very Rare,25,155,205
+Mercedes,S-430,,140,140,0.01%,Very Rare,25,115,165
+Mercedes,S-450,,1,0,0.00%,Unique,5,0,5
+Mercedes,S-500,,1519,1510,0.10%,Scarce,25,1485,1535
+Mercedes,S-600,,70,70,0.00%,Very Rare,5,65,75
+Mercedes,SL-55,,1,0,0.00%,Unique,5,0,5
+Mercedes,SL-60,,1,0,0.00%,Unique,5,0,5
+Mercedes,SL-600,,1,0,0.00%,Unique,5,0,5
+Mercedes,SLK-200,,49,45,0.00%,Very Rare,5,40,50
+Mercedes,SLK-230,,574,570,0.04%,Very Scarce,25,545,595
+Mercedes,SLK-280,,1,0,0.00%,Unique,5,0,5
+Mercedes,Sprinter,,153,150,0.01%,Very Rare,25,125,175
+Mercedes,Unimogs,,9,5,0.00%,Nearly Unique,5,0,10
+Mercedes,,,512,510,0.03%,Very Scarce,25,485,535
+Mercury,100,,2,0,0.00%,Nearly Unique,5,0,5
+Mercury,Cougar,,26,25,0.00%,Extremely Rare,5,20,30
+Mercury,Grand Marquis,,81,80,0.01%,Very Rare,5,75,85
+Mercury,Grand Marquis,,42,40,0.00%,Very Rare,5,35,45
+Mercury,Marquis,,5,5,0.00%,Nearly Unique,5,0,10
+Mercury,Marquis ,,8,5,0.00%,Nearly Unique,5,0,10
+Mercury,Mercury,,358,355,0.02%,Rare,25,330,380
+Mercury,Monterey,,1,0,0.00%,Unique,5,0,5
+Mercury,Mountaineer,,28,25,0.00%,Extremely Rare,5,20,30
+Mercury,Mystique,,4,0,0.00%,Nearly Unique,5,0,5
+Mercury,Sable,,96,95,0.01%,Very Rare,5,90,100
+Mercury,Scorpio,,1,0,0.00%,Unique,5,0,5
+Mercury,Topaz,,23,20,0.00%,Extremely Rare,5,15,25
+Mercury,Tracer,,155,155,0.01%,Very Rare,25,130,180
+Mercury,Villager,,31,30,0.00%,Extremely Rare,5,25,35
+Mercury,,,2,0,0.00%,Nearly Unique,5,0,5
+MG,1.8,,1,0,0.00%,Unique,5,0,5
+MG,1100,,112,110,0.01%,Very Rare,25,85,135
+MG,1300,,25,25,0.00%,Extremely Rare,5,20,30
+MG,1500,,2,0,0.00%,Nearly Unique,5,0,5
+MG,1600,,6,5,0.00%,Nearly Unique,5,0,10
+MG,1800,,4,0,0.00%,Nearly Unique,5,0,5
+MG,B,,9,5,0.00%,Nearly Unique,5,0,10
+MG,Course,,3,0,0.00%,Nearly Unique,5,0,5
+MG,Eagle,,2,0,0.00%,Nearly Unique,5,0,5
+MG,Flint,,3,0,0.00%,Nearly Unique,5,0,5
+MG,IP,,1,0,0.00%,Unique,5,0,5
+MG,M,,1,0,0.00%,Unique,5,0,5
+MG,Magnet,,8,5,0.00%,Nearly Unique,5,0,10
+MG,MG,,20,20,0.00%,Extremely Rare,5,15,25
+MG,MGA,,18,15,0.00%,Nearly Unique,5,10,20
+MG,MGB,,137,135,0.01%,Very Rare,25,110,160
+MG,MGC,,3,0,0.00%,Nearly Unique,5,0,5
+MG,MGF,,5,5,0.00%,Nearly Unique,5,0,10
+MG,Midget,,5,5,0.00%,Nearly Unique,5,0,10
+MG,Roadster,,3,0,0.00%,Nearly Unique,5,0,5
+MG,TD,,1,0,0.00%,Unique,5,0,5
+MG,,,29,25,0.00%,Extremely Rare,5,20,30
+Mini,Cooper,,6,5,0.00%,Nearly Unique,5,0,10
+Mitsubishi,32,,9,5,0.00%,Nearly Unique,5,0,10
+Mitsubishi,35,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,80,,2,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,130,,2,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,200,,7,5,0.00%,Nearly Unique,5,0,10
+Mitsubishi,212,,13,10,0.00%,Nearly Unique,5,5,15
+Mitsubishi,230,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,300,,172,170,0.01%,Very Rare,25,145,195
+Mitsubishi,1032,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,1200,,19,15,0.00%,Nearly Unique,5,10,20
+Mitsubishi,1300,,39,35,0.00%,Extremely Rare,5,30,40
+Mitsubishi,1400,,22,20,0.00%,Extremely Rare,5,15,25
+Mitsubishi,1500,,6,5,0.00%,Nearly Unique,5,0,10
+Mitsubishi,1600,,34,30,0.00%,Extremely Rare,5,25,35
+Mitsubishi,1800,,6,5,0.00%,Nearly Unique,5,0,10
+Mitsubishi,2000,,70,70,0.00%,Very Rare,5,65,75
+Mitsubishi,2032,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,2300,,15,15,0.00%,Nearly Unique,5,10,20
+Mitsubishi,2400,,2,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,2600,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,3000,,46,45,0.00%,Very Rare,5,40,50
+Mitsubishi,BC,,7,5,0.00%,Nearly Unique,5,0,10
+Mitsubishi,BCL 11,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,BE 211,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,C,,12,10,0.00%,Nearly Unique,5,5,15
+Mitsubishi,Canter,,1629,1620,0.10%,Scarce,25,1595,1645
+Mitsubishi,Cardia,,28,25,0.00%,Extremely Rare,5,20,30
+Mitsubishi,Celeste,,5,5,0.00%,Nearly Unique,5,0,10
+Mitsubishi,Chariot,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,Coaster,,11,10,0.00%,Nearly Unique,5,5,15
+Mitsubishi,Colt,,1027,1020,0.06%,Scarce,25,995,1045
+Mitsubishi,Conquest,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,Cordia,,101,100,0.01%,Very Rare,25,75,125
+Mitsubishi,Cordia,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,Custom Fighter,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,Delica,,20,20,0.00%,Extremely Rare,5,15,25
+Mitsubishi,Deluxe,,2,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,Diamante,,5,5,0.00%,Nearly Unique,5,0,10
+Mitsubishi,DL,,13,10,0.00%,Nearly Unique,5,5,15
+Mitsubishi,Eagle Summit,,5,5,0.00%,Nearly Unique,5,0,10
+Mitsubishi,Eclipse,,27,25,0.00%,Extremely Rare,5,20,30
+Mitsubishi,Evolution,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,Expo,,3,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,Farmy,,4,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,FC,,58,55,0.00%,Very Rare,5,50,60
+Mitsubishi,FE,,13,10,0.00%,Nearly Unique,5,5,15
+Mitsubishi,FH,,2,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,FK,,3,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,Fuso,,181,180,0.01%,Very Rare,25,155,205
+Mitsubishi,Galant,,4813,4810,0.31%,Uncommon,25,4785,4835
+Mitsubishi,Galant,,17,15,0.00%,Nearly Unique,5,10,20
+Mitsubishi,Galloper,,324,320,0.02%,Rare,25,295,345
+Mitsubishi,Gear,,3,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,GL,,2,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,GLI,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,GLS,,16,15,0.00%,Nearly Unique,5,10,20
+Mitsubishi,GLSi,,2,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,GLX,,36,35,0.00%,Extremely Rare,5,30,40
+Mitsubishi,GLXi,,3,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,GLXT,,2,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,Gold,,22,20,0.00%,Extremely Rare,5,15,25
+Mitsubishi,Grandis,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,GS,,2,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,GSR,,3,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,Krada,,7,5,0.00%,Nearly Unique,5,0,10
+Mitsubishi,L,,5642,5640,0.36%,Uncommon,100,5540,5740
+Mitsubishi,Lancer,,2211,2210,0.14%,Scarce,25,2185,2235
+Mitsubishi,Magna,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,Microbus,,34,30,0.00%,Extremely Rare,5,25,35
+Mitsubishi,Mighty Max,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,Mini,,32,30,0.00%,Extremely Rare,5,25,35
+Mitsubishi,Mirage,,41,40,0.00%,Very Rare,5,35,45
+Mitsubishi,Montana,,7,5,0.00%,Nearly Unique,5,0,10
+Mitsubishi,Montego,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,Montero,,2,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,Montero ,,1582,1580,0.10%,Scarce,25,1555,1605
+Mitsubishi,MT 16,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,Nativa,,216,215,0.01%,Very Rare,25,190,240
+Mitsubishi,Outlander,,3,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,Pajero ,,4397,4390,0.28%,Uncommon,25,4365,4415
+Mitsubishi,Pickup,,111,110,0.01%,Very Rare,25,85,135
+Mitsubishi,POX,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,Precis,,5,5,0.00%,Nearly Unique,5,0,10
+Mitsubishi,PUP,,5,5,0.00%,Nearly Unique,5,0,10
+Mitsubishi,PWP,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,R12 SJ,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,Rosa,,252,250,0.02%,Rare,25,225,275
+Mitsubishi,Sapporo,,478,475,0.03%,Rare,25,450,500
+Mitsubishi,Senator,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,Sigma,,78,75,0.00%,Very Rare,5,70,80
+Mitsubishi,Space,,219,215,0.01%,Very Rare,25,190,240
+Mitsubishi,SPX,,3,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,SR,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,Staria,,2,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,Starion,,32,30,0.00%,Extremely Rare,5,25,35
+Mitsubishi,T217,,5,5,0.00%,Nearly Unique,5,0,10
+Mitsubishi,T217F,,1,0,0.00%,Unique,5,0,5
+Mitsubishi,Temsa,,2,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,Tredia,,245,245,0.02%,Rare,25,220,270
+Mitsubishi,Tredia,,5,5,0.00%,Nearly Unique,5,0,10
+Mitsubishi,Triton,,5,5,0.00%,Nearly Unique,5,0,10
+Mitsubishi,Triton,,2,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,Van,,145,145,0.01%,Very Rare,25,120,170
+Mitsubishi,Varica,,2,0,0.00%,Nearly Unique,5,0,5
+Mitsubishi,Wagon,,13,10,0.00%,Nearly Unique,5,5,15
+Mitsubishi,,,629,625,0.04%,Very Scarce,25,600,650
+Morgan,Morgen,,2,0,0.00%,Nearly Unique,5,0,5
+Morris,100,,6,5,0.00%,Nearly Unique,5,0,10
+Morris,180,,3,0,0.00%,Nearly Unique,5,0,5
+Morris,220,,1,0,0.00%,Unique,5,0,5
+Morris,250,,2,0,0.00%,Nearly Unique,5,0,5
+Morris,555,,1,0,0.00%,Unique,5,0,5
+Morris,660,,1,0,0.00%,Unique,5,0,5
+Morris,1100,,275,275,0.02%,Rare,25,250,300
+Morris,1275,,69,65,0.00%,Very Rare,5,60,70
+Morris,1800,,52,50,0.00%,Very Rare,5,45,55
+Morris,8500,,13,10,0.00%,Nearly Unique,5,5,15
+Morris,6/8 CWT ,,7,5,0.00%,Nearly Unique,5,0,10
+Morris,Axford,,24,20,0.00%,Extremely Rare,5,15,25
+Morris,Cooper,,56,55,0.00%,Very Rare,5,50,60
+Morris,CWT,,8,5,0.00%,Nearly Unique,5,0,10
+Morris,FX4R ,,7,5,0.00%,Nearly Unique,5,0,10
+Morris,G4 ,,32,30,0.00%,Extremely Rare,5,25,35
+Morris,Isis ,,2,0,0.00%,Nearly Unique,5,0,5
+Morris,J type ,,148,145,0.01%,Very Rare,25,120,170
+Morris,J type ,,1,0,0.00%,Unique,5,0,5
+Morris,Kilmarnock 1100 ,,3,0,0.00%,Nearly Unique,5,0,5
+Morris,Marina,,222,220,0.01%,Very Rare,25,195,245
+Morris,Mini,,608,605,0.04%,Very Scarce,25,580,630
+Morris,Minor,,12,10,0.00%,Nearly Unique,5,5,15
+Morris,Minor 1000,,122,120,0.01%,Very Rare,25,95,145
+Morris,Moke,,1,0,0.00%,Unique,5,0,5
+Morris,Oxford,,62,60,0.00%,Very Rare,5,55,65
+Morris,,,94,90,0.01%,Very Rare,5,85,95
+Moto Guzzi,650,,7,5,0.00%,Nearly Unique,5,0,10
+Moto Guzzi,850,,4,0,0.00%,Nearly Unique,5,0,5
+Moto Guzzi,1000,,6,5,0.00%,Nearly Unique,5,0,10
+Moto Guzzi,750 NTX,,2,0,0.00%,Nearly Unique,5,0,5
+Moto Guzzi,California,,5,5,0.00%,Nearly Unique,5,0,10
+Moto Guzzi,Florida,,3,0,0.00%,Nearly Unique,5,0,5
+Moto Guzzi,Moto,,1,0,0.00%,Unique,5,0,5
+Moto Guzzi,Safari,,1,0,0.00%,Unique,5,0,5
+Moto Guzzi,V9,,1,0,0.00%,Unique,5,0,5
+Nash,Rambler,,1,0,0.00%,Unique,5,0,5
+Nissan,1.2,,1,0,0.00%,Unique,5,0,5
+Nissan,1.3,,4,0,0.00%,Nearly Unique,5,0,5
+Nissan,1.4,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,1.5,,6,5,0.00%,Nearly Unique,5,0,10
+Nissan,1.6,,21,20,0.00%,Extremely Rare,5,15,25
+Nissan,1.8,,9,5,0.00%,Nearly Unique,5,0,10
+Nissan,2,,1,0,0.00%,Unique,5,0,5
+Nissan,2.4,,9,5,0.00%,Nearly Unique,5,0,10
+Nissan,22,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,30,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,79,,1,0,0.00%,Unique,5,0,5
+Nissan,100,,11,10,0.00%,Nearly Unique,5,5,15
+Nissan,108,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,110,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,120,,11,10,0.00%,Nearly Unique,5,5,15
+Nissan,127,,1,0,0.00%,Unique,5,0,5
+Nissan,130,,1,0,0.00%,Unique,5,0,5
+Nissan,132,,6,5,0.00%,Nearly Unique,5,0,10
+Nissan,180,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,200,,121,120,0.01%,Very Rare,25,95,145
+Nissan,210,,42,40,0.00%,Very Rare,5,35,45
+Nissan,214,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,220,,33,30,0.00%,Extremely Rare,5,25,35
+Nissan,225,,1,0,0.00%,Unique,5,0,5
+Nissan,240,,6,5,0.00%,Nearly Unique,5,0,10
+Nissan,260,,1,0,0.00%,Unique,5,0,5
+Nissan,265,,1,0,0.00%,Unique,5,0,5
+Nissan,275,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,340,,114,110,0.01%,Very Rare,25,85,135
+Nissan,440,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,444,,6,5,0.00%,Nearly Unique,5,0,10
+Nissan,641,,5,5,0.00%,Nearly Unique,5,0,10
+Nissan,652,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,655,,10,10,0.00%,Nearly Unique,5,5,15
+Nissan,720,,77,75,0.00%,Very Rare,5,70,80
+Nissan,1000,,7,5,0.00%,Nearly Unique,5,0,10
+Nissan,1200,,95,95,0.01%,Very Rare,5,90,100
+Nissan,1300,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,1320,,1,0,0.00%,Unique,5,0,5
+Nissan,1500,,7,5,0.00%,Nearly Unique,5,0,10
+Nissan,1600,,21,20,0.00%,Extremely Rare,5,15,25
+Nissan,2140,,5,5,0.00%,Nearly Unique,5,0,10
+Nissan,2175,,1,0,0.00%,Unique,5,0,5
+Nissan,2240,,5,5,0.00%,Nearly Unique,5,0,10
+Nissan,2340,,7,5,0.00%,Nearly Unique,5,0,10
+Nissan,4140,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,6160,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,6578,,1,0,0.00%,Unique,5,0,5
+Nissan,100 NX,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,140J,,103,100,0.01%,Very Rare,25,75,125
+Nissan,140Y,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,160J,,43,40,0.00%,Very Rare,5,35,45
+Nissan,180 A,,4,0,0.00%,Nearly Unique,5,0,5
+Nissan,180 B,,15,15,0.00%,Nearly Unique,5,10,20
+Nissan,180B,,169,165,0.01%,Very Rare,25,140,190
+Nissan,200SX,,406,405,0.03%,Rare,25,380,430
+Nissan,240K,,83,80,0.01%,Very Rare,5,75,85
+Nissan,240SX,,168,165,0.01%,Very Rare,25,140,190
+Nissan,240Z,,133,130,0.01%,Very Rare,25,105,155
+Nissan,24U,,1,0,0.00%,Unique,5,0,5
+Nissan,280C,,7,5,0.00%,Nearly Unique,5,0,10
+Nissan,280ZX,,15,15,0.00%,Nearly Unique,5,10,20
+Nissan,300ZX,,44,40,0.00%,Very Rare,5,35,45
+Nissan,300ZX ,,8,5,0.00%,Nearly Unique,5,0,10
+Nissan,350Z ,,1,0,0.00%,Unique,5,0,5
+Nissan,4T100 4F,,1,0,0.00%,Unique,5,0,5
+Nissan,6ND,,8,5,0.00%,Nearly Unique,5,0,10
+Nissan,AD,,61,60,0.00%,Very Rare,5,55,65
+Nissan,ALC,,1,0,0.00%,Unique,5,0,5
+Nissan,Almera,,623,620,0.04%,Very Scarce,25,595,645
+Nissan,Almera ,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,Altima,,169,165,0.01%,Very Rare,25,140,190
+Nissan,Atlas,,114,110,0.01%,Very Rare,25,85,135
+Nissan,Atleon,,1,0,0.00%,Unique,5,0,5
+Nissan,Axxess,,6,5,0.00%,Nearly Unique,5,0,10
+Nissan,Base,,4,0,0.00%,Nearly Unique,5,0,5
+Nissan,Blazer,,9,5,0.00%,Nearly Unique,5,0,10
+Nissan,Bluebird,,13698,136095,0.83%,Common,100,135995,136195
+Nissan,Cabstar,,1015,1010,0.06%,Scarce,25,985,1035
+Nissan,Caliper,,6,5,0.00%,Nearly Unique,5,0,10
+Nissan,Capel ,,10,10,0.00%,Nearly Unique,5,5,15
+Nissan,Caravan ,,14,10,0.00%,Nearly Unique,5,5,15
+Nissan,Castar,,46,45,0.00%,Very Rare,5,40,50
+Nissan,Cedric,,788,785,0.05%,Very Scarce,25,760,810
+Nissan,Cedric,,67,65,0.00%,Very Rare,5,60,70
+Nissan,Cefiro,,399,395,0.03%,Rare,25,370,420
+Nissan,CG,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,CH,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,Cherry,,151,150,0.01%,Very Rare,25,125,175
+Nissan,CHG,,6,5,0.00%,Nearly Unique,5,0,10
+Nissan,Civilian,,1856,1850,0.12%,Scarce,25,1825,1875
+Nissan,Classic,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,CLG,,1,0,0.00%,Unique,5,0,5
+Nissan,Clipper,,127,125,0.01%,Very Rare,25,100,150
+Nissan,CMA,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,CMC,,1,0,0.00%,Unique,5,0,5
+Nissan,CMF,,226,225,0.01%,Very Rare,25,200,250
+Nissan,Coaster,,34,30,0.00%,Extremely Rare,5,25,35
+Nissan,Cobal,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,Condor,,62,60,0.00%,Very Rare,5,55,65
+Nissan,Corando,,1,0,0.00%,Unique,5,0,5
+Nissan,Damper,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,Datsun,,1064,1060,0.07%,Scarce,25,1035,1085
+Nissan,Datsun,,15,15,0.00%,Nearly Unique,5,10,20
+Nissan,DHH,,1,0,0.00%,Unique,5,0,5
+Nissan,Diesel ,,20,20,0.00%,Extremely Rare,5,15,25
+Nissan,DL,,1,0,0.00%,Unique,5,0,5
+Nissan,DLC,,16,15,0.00%,Nearly Unique,5,10,20
+Nissan,DLE,,1,0,0.00%,Unique,5,0,5
+Nissan,DN,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,DNLH,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,Double Cabine,,50,50,0.00%,Very Rare,5,45,55
+Nissan,DUH 40,,15,15,0.00%,Nearly Unique,5,10,20
+Nissan,DUHL 40,,4,0,0.00%,Nearly Unique,5,0,5
+Nissan,E,,65,65,0.00%,Very Rare,5,60,70
+Nissan,EX,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,F,,23,20,0.00%,Extremely Rare,5,15,25
+Nissan,FAW,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,FBD 21,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,FD 21,,34,30,0.00%,Extremely Rare,5,25,35
+Nissan,FDCI,,1,0,0.00%,Unique,5,0,5
+Nissan,FE,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,Figaro,,17,15,0.00%,Nearly Unique,5,10,20
+Nissan,Frontier,,932,930,0.06%,Very Scarce,25,905,955
+Nissan,G,,19,15,0.00%,Nearly Unique,5,10,20
+Nissan,Gazelle,,63,60,0.00%,Very Rare,5,55,65
+Nissan,GD,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,GE,,8,5,0.00%,Nearly Unique,5,0,10
+Nissan,GF,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,GH,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,GHLCE,,4,0,0.00%,Nearly Unique,5,0,5
+Nissan,GKPLE,,5,5,0.00%,Nearly Unique,5,0,10
+Nissan,GL,,6,5,0.00%,Nearly Unique,5,0,10
+Nissan,GL 60,,1,0,0.00%,Unique,5,0,5
+Nissan,Gloria,,82,80,0.01%,Very Rare,5,75,85
+Nissan,GM,,1,0,0.00%,Unique,5,0,5
+Nissan,GMF,,1,0,0.00%,Unique,5,0,5
+Nissan,GNL,,22,20,0.00%,Extremely Rare,5,15,25
+Nissan,HI,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,HL,,18,15,0.00%,Nearly Unique,5,10,20
+Nissan,HLE,,1,0,0.00%,Unique,5,0,5
+Nissan,HLG,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,Homer,,75,75,0.00%,Very Rare,5,70,80
+Nissan,Homy,,398,395,0.03%,Rare,25,370,420
+Nissan,HPLE,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,HYH,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,Infiniti,,478,475,0.03%,Rare,25,450,500
+Nissan,Jeep,,16,15,0.00%,Nearly Unique,5,10,20
+Nissan,JN,,102,100,0.01%,Very Rare,25,75,125
+Nissan,JN GN,,1,0,0.00%,Unique,5,0,5
+Nissan,Junior,,805,805,0.05%,Very Scarce,25,780,830
+Nissan,KGD,,1,0,0.00%,Unique,5,0,5
+Nissan,KHC,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,KHGC,,1,0,0.00%,Unique,5,0,5
+Nissan,King Cab,,1150,1150,0.08%,Scarce,25,1125,1175
+Nissan,KL 16 E,,1,0,0.00%,Unique,5,0,5
+Nissan,Kombi,,1,0,0.00%,Unique,5,0,5
+Nissan,KPLE 20,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,Kubistar,,1,0,0.00%,Unique,5,0,5
+Nissan,KUH 40,,1,0,0.00%,Unique,5,0,5
+Nissan,Largo,,3761,3760,0.24%,Uncommon,25,3735,3785
+Nissan,Laurel,,2824,2820,0.18%,Scarce,25,2795,2845
+Nissan,Laurel C35,,894,890,0.06%,Very Scarce,25,865,915
+Nissan,LB,,5,5,0.00%,Nearly Unique,5,0,10
+Nissan,LCB,,1,0,0.00%,Unique,5,0,5
+Nissan,LCH,,1,0,0.00%,Unique,5,0,5
+Nissan,LE,,23,20,0.00%,Extremely Rare,5,15,25
+Nissan,LF,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,LG,,13,10,0.00%,Nearly Unique,5,5,15
+Nissan,LGE,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,LH,,21,20,0.00%,Extremely Rare,5,15,25
+Nissan,LHF,,1,0,0.00%,Unique,5,0,5
+Nissan,LHT,,7,5,0.00%,Nearly Unique,5,0,10
+Nissan,LI,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,Liberta Villa,,42,40,0.00%,Very Rare,5,35,45
+Nissan,Liberty,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,LNT,,7,5,0.00%,Nearly Unique,5,0,10
+Nissan,LT,,1,0,0.00%,Unique,5,0,5
+Nissan,March,,96,95,0.01%,Very Rare,5,90,100
+Nissan,Maxima,,1101,1100,0.07%,Scarce,25,1075,1125
+Nissan,MG,,5,5,0.00%,Nearly Unique,5,0,10
+Nissan,MGY,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,Micra,,617,615,0.04%,Very Scarce,25,590,640
+Nissan,Micra,,13,10,0.00%,Nearly Unique,5,5,15
+Nissan,Micra,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,Microbus,,1,0,0.00%,Unique,5,0,5
+Nissan,Miler,,25,25,0.00%,Extremely Rare,5,20,30
+Nissan,Mini,,16,15,0.00%,Nearly Unique,5,10,20
+Nissan,MKB,,39,35,0.00%,Extremely Rare,5,30,40
+Nissan,MLG,,1,0,0.00%,Unique,5,0,5
+Nissan,Murano,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,Navara,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,NCN 40,,1,0,0.00%,Unique,5,0,5
+Nissan,ND,,10,10,0.00%,Nearly Unique,5,5,15
+Nissan,NGH,,4,0,0.00%,Nearly Unique,5,0,5
+Nissan,NGW,,4,0,0.00%,Nearly Unique,5,0,5
+Nissan,NK,,1,0,0.00%,Unique,5,0,5
+Nissan,NLG,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,NLGW,,6,5,0.00%,Nearly Unique,5,0,10
+Nissan,NLW,,1,0,0.00%,Unique,5,0,5
+Nissan,NMD,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,NP,,1,0,0.00%,Unique,5,0,5
+Nissan,NV Van,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,NW,,4,0,0.00%,Nearly Unique,5,0,5
+Nissan,Pao,,45,45,0.00%,Very Rare,5,40,50
+Nissan,Pathfinder,,10783,10780,0.70%,Common,100,10680,10880
+Nissan,Patrol,,1275,1270,0.08%,Scarce,25,1245,1295
+Nissan,PGE,,1,0,0.00%,Unique,5,0,5
+Nissan,PGF,,8,5,0.00%,Nearly Unique,5,0,10
+Nissan,PGF,,5,5,0.00%,Nearly Unique,5,0,10
+Nissan,PLE,,17,15,0.00%,Nearly Unique,5,10,20
+Nissan,PLF,,89,85,0.01%,Very Rare,5,80,90
+Nissan,PLG,,29,25,0.00%,Extremely Rare,5,20,30
+Nissan,PLG,,1,0,0.00%,Unique,5,0,5
+Nissan,PLGE,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,PLGE 23,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,PLGF,,13,10,0.00%,Nearly Unique,5,5,15
+Nissan,PLT,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,Prairie,,116,115,0.01%,Very Rare,25,90,140
+Nissan,Presage ,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,Primera,,1342,1340,0.08%,Scarce,25,1315,1365
+Nissan,Pulsar,,421,420,0.03%,Rare,25,395,445
+Nissan,Pulsar,,20,20,0.00%,Extremely Rare,5,15,25
+Nissan,Pulsar NX,,61,60,0.00%,Very Rare,5,55,65
+Nissan,PV,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,Quest,,48,45,0.00%,Very Rare,5,40,50
+Nissan,Sentra,,275,275,0.02%,Rare,25,250,300
+Nissan,Serena,,678,675,0.04%,Very Scarce,25,650,700
+Nissan,Silver,,5,5,0.00%,Nearly Unique,5,0,10
+Nissan,Silvia,,79,75,0.01%,Very Rare,5,70,80
+Nissan,Skyline,,211,210,0.01%,Very Rare,25,185,235
+Nissan,SLX,,16,15,0.00%,Nearly Unique,5,10,20
+Nissan,Standard,,37,35,0.00%,Extremely Rare,5,30,40
+Nissan,Stanza,,3112,3110,0.20%,Scarce,25,3085,3135
+Nissan,Stout,,4,0,0.00%,Nearly Unique,5,0,5
+Nissan,Sunny,,15344,15340,0.96%,Common,100,15240,15440
+Nissan,SX,,5,5,0.00%,Nearly Unique,5,0,10
+Nissan,T,,9,5,0.00%,Nearly Unique,5,0,10
+Nissan,Terrano,,696,695,0.04%,Very Scarce,25,670,720
+Nissan,Tiida,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,Trade,,108,105,0.01%,Very Rare,25,80,130
+Nissan,Trader,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,U,,8,5,0.00%,Nearly Unique,5,0,10
+Nissan,Urban ,,15,15,0.00%,Nearly Unique,5,10,20
+Nissan,Urvan,,1023,1020,0.06%,Scarce,25,995,1045
+Nissan,UW 40,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,UYH 40,,2,0,0.00%,Nearly Unique,5,0,5
+Nissan,Vanette,,634,630,0.04%,Very Scarce,25,605,655
+Nissan,Violet,,66,65,0.00%,Very Rare,5,60,70
+Nissan,Wagon,,22,20,0.00%,Extremely Rare,5,15,25
+Nissan,Xterra,,57,55,0.00%,Very Rare,5,50,60
+Nissan,Xterra ,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,X-Trail,,3,0,0.00%,Nearly Unique,5,0,5
+Nissan,Y,,7,5,0.00%,Nearly Unique,5,0,10
+Nissan,YH,,8,5,0.00%,Nearly Unique,5,0,10
+Nissan,,,684,680,0.04%,Very Scarce,25,655,705
+Oldsmobile,85,,64,60,0.00%,Very Rare,5,55,65
+Oldsmobile,88,,182,180,0.01%,Very Rare,25,155,205
+Oldsmobile,98,,452,450,0.03%,Rare,25,425,475
+Oldsmobile,442,,63,60,0.00%,Very Rare,5,55,65
+Oldsmobile,88 Delta,,722,720,0.05%,Very Scarce,25,695,745
+Oldsmobile,88 Delta Brougham,,3,0,0.00%,Nearly Unique,5,0,5
+Oldsmobile,88 Delta Royale,,75,75,0.00%,Very Rare,5,70,80
+Oldsmobile,88 Dynamic,,2,0,0.00%,Nearly Unique,5,0,5
+Oldsmobile,88 Regency,,4,0,0.00%,Nearly Unique,5,0,5
+Oldsmobile,88 Royale,,134,130,0.01%,Very Rare,25,105,155
+Oldsmobile,88 Royale Brougham,,25,25,0.00%,Extremely Rare,5,20,30
+Oldsmobile,98 Delta Regency,,3,0,0.00%,Nearly Unique,5,0,5
+Oldsmobile,98 Regency,,264,260,0.02%,Rare,25,235,285
+Oldsmobile,98 Regency Brougham,,8,5,0.00%,Nearly Unique,5,0,10
+Oldsmobile,98 Royale,,5,5,0.00%,Nearly Unique,5,0,10
+Oldsmobile,98 Royale Brougham,,11,10,0.00%,Nearly Unique,5,5,15
+Oldsmobile,98 Starfire,,1,0,0.00%,Unique,5,0,5
+Oldsmobile,98 Touring,,37,35,0.00%,Extremely Rare,5,30,40
+Oldsmobile,Achieva,,13,10,0.00%,Nearly Unique,5,5,15
+Oldsmobile,AK,,4,0,0.00%,Nearly Unique,5,0,5
+Oldsmobile,Aurora,,15,15,0.00%,Nearly Unique,5,10,20
+Oldsmobile,Bravada,,70,70,0.00%,Very Rare,5,65,75
+Oldsmobile,Calais,,107,105,0.01%,Very Rare,25,80,130
+Oldsmobile,Custom Cruiser,,12,10,0.00%,Nearly Unique,5,5,15
+Oldsmobile,Cutlass,,2684,2680,0.17%,Scarce,25,2655,2705
+Oldsmobile,Cutlass 442,,13,10,0.00%,Nearly Unique,5,5,15
+Oldsmobile,Cutlass Brougham,,10,10,0.00%,Nearly Unique,5,5,15
+Oldsmobile,Cutlass Calais,,8,5,0.00%,Nearly Unique,5,0,10
+Oldsmobile,Cutlass Ciera,,643,640,0.04%,Very Scarce,25,615,665
+Oldsmobile,Cutlass Ciera Brougham,,4,0,0.00%,Nearly Unique,5,0,5
+Oldsmobile,Cutlass Cruiser,,3,0,0.00%,Nearly Unique,5,0,5
+Oldsmobile,Cutlass Supreme,,360,360,0.02%,Rare,25,335,385
+Oldsmobile,Delmont,,8,5,0.00%,Nearly Unique,5,0,10
+Oldsmobile,Firenza,,17,15,0.00%,Nearly Unique,5,10,20
+Oldsmobile,Hurst,,2,0,0.00%,Nearly Unique,5,0,5
+Oldsmobile,Intrigue,,4,0,0.00%,Nearly Unique,5,0,5
+Oldsmobile,LSS,,1,0,0.00%,Unique,5,0,5
+Oldsmobile,Omega,,759,755,0.05%,Very Scarce,25,730,780
+Oldsmobile,Omega Brougham,,2,0,0.00%,Nearly Unique,5,0,5
+Oldsmobile,Regal,,63,60,0.00%,Very Rare,5,55,65
+Oldsmobile,Regency,,522,520,0.03%,Very Scarce,25,495,545
+Oldsmobile,Royale,,76,75,0.00%,Very Rare,5,70,80
+Oldsmobile,Silhouette,,172,170,0.01%,Very Rare,25,145,195
+Oldsmobile,Silhouette,,5,5,0.00%,Nearly Unique,5,0,10
+Oldsmobile,Starfire,,18,15,0.00%,Nearly Unique,5,10,20
+Oldsmobile,Toronado,,72,70,0.00%,Very Rare,5,65,75
+Oldsmobile,Touring,,21,20,0.00%,Extremely Rare,5,15,25
+Oldsmobile,Trofeo,,1,0,0.00%,Unique,5,0,5
+Oldsmobile,,,89,85,0.01%,Very Rare,5,80,90
+Opel,1.3,,2,0,0.00%,Nearly Unique,5,0,5
+Opel,1.8,,2,0,0.00%,Nearly Unique,5,0,5
+Opel,2,,2,0,0.00%,Nearly Unique,5,0,5
+Opel,2.5,,1,0,0.00%,Unique,5,0,5
+Opel,3,,1,0,0.00%,Unique,5,0,5
+Opel,17,,2,0,0.00%,Nearly Unique,5,0,5
+Opel,20,,21,20,0.00%,Extremely Rare,5,15,25
+Opel,103,,3,0,0.00%,Nearly Unique,5,0,5
+Opel,105,,1,0,0.00%,Unique,5,0,5
+Opel,330,,5,5,0.00%,Nearly Unique,5,0,10
+Opel,375,,6,5,0.00%,Nearly Unique,5,0,10
+Opel,750,,1,0,0.00%,Unique,5,0,5
+Opel,1000,,19,15,0.00%,Nearly Unique,5,10,20
+Opel,1100,,64,60,0.00%,Very Rare,5,55,65
+Opel,1200,,18,15,0.00%,Nearly Unique,5,10,20
+Opel,1300,,3,0,0.00%,Nearly Unique,5,0,5
+Opel,1500,,16,15,0.00%,Nearly Unique,5,10,20
+Opel,1700,,473,470,0.03%,Rare,25,445,495
+Opel,1709,,1,0,0.00%,Unique,5,0,5
+Opel,1900,,323,320,0.02%,Rare,25,295,345
+Opel,2000,,20,20,0.00%,Extremely Rare,5,15,25
+Opel,3000,,1,0,0.00%,Unique,5,0,5
+Opel,4060,,1,0,0.00%,Unique,5,0,5
+Opel,18S,,1,0,0.00%,Unique,5,0,5
+Opel,A,,2,0,0.00%,Nearly Unique,5,0,5
+Opel,Adam,,20,20,0.00%,Extremely Rare,5,15,25
+Opel,Admiral,,34,30,0.00%,Extremely Rare,5,25,35
+Opel,Ag-Ld,,1,0,0.00%,Unique,5,0,5
+Opel,Ascona,,4794,4790,0.31%,Uncommon,25,4765,4815
+Opel,Astra,,864,860,0.05%,Very Scarce,25,835,885
+Opel,Auto,,1,0,0.00%,Unique,5,0,5
+Opel,Baravan,,1,0,0.00%,Unique,5,0,5
+Opel,Berlina,,30,30,0.00%,Extremely Rare,5,25,35
+Opel,Blitz,,58,55,0.00%,Very Rare,5,50,60
+Opel,C 3,,1,0,0.00%,Unique,5,0,5
+Opel,Calibra,,60,60,0.00%,Very Rare,5,55,65
+Opel,Camion,,3,0,0.00%,Nearly Unique,5,0,5
+Opel,Campo,,61,60,0.00%,Very Rare,5,55,65
+Opel,Capitain,,247,245,0.02%,Rare,25,220,270
+Opel,Caravan,,133,130,0.01%,Very Rare,25,105,155
+Opel,Combo,,7142,7140,0.45%,Uncommon,100,7040,7240
+Opel,Combo Van,,191,190,0.01%,Very Rare,25,165,215
+Opel,Comfort,,1,0,0.00%,Unique,5,0,5
+Opel,Commodore,,793,790,0.05%,Very Scarce,25,765,815
+Opel,Corsa,,640,640,0.04%,Very Scarce,25,615,665
+Opel,Corsica,,3,0,0.00%,Nearly Unique,5,0,5
+Opel,Diplomat,,17,15,0.00%,Nearly Unique,5,10,20
+Opel,Frontera,,144,140,0.01%,Very Rare,25,115,165
+Opel,GLS,,3,0,0.00%,Nearly Unique,5,0,5
+Opel,Gls 80,,1,0,0.00%,Unique,5,0,5
+Opel,GSI,,7,5,0.00%,Nearly Unique,5,0,10
+Opel,K 700,,1,0,0.00%,Unique,5,0,5
+Opel,K 81 Tam,,1,0,0.00%,Unique,5,0,5
+Opel,Kadett,,4761,4760,0.31%,Uncommon,25,4735,4785
+Opel,Kadette,,53,50,0.00%,Very Rare,5,45,55
+Opel,Lutz 3,,1,0,0.00%,Unique,5,0,5
+Opel,Manta,,214,210,0.01%,Very Rare,25,185,235
+Opel,Monterey,,135,135,0.01%,Very Rare,25,110,160
+Opel,Monza,,114,110,0.01%,Very Rare,25,85,135
+Opel,Olympia,,31,30,0.00%,Extremely Rare,5,25,35
+Opel,Omega,,2943,2940,0.19%,Scarce,25,2915,2965
+Opel,Pick,,12,10,0.00%,Nearly Unique,5,5,15
+Opel,Reckord 1900,,1,0,0.00%,Unique,5,0,5
+Opel,Record,,12,10,0.00%,Nearly Unique,5,5,15
+Opel,Rekord,,15662,15660,1.02%,Common,100,15560,15760
+Opel,Senator,,1308,1300,0.08%,Scarce,25,1275,1325
+Opel,Sintra,,19,15,0.00%,Nearly Unique,5,10,20
+Opel,Skoda 1700,,1,0,0.00%,Unique,5,0,5
+Opel,TFR,,1,0,0.00%,Unique,5,0,5
+Opel,Tigra,,29,25,0.00%,Extremely Rare,5,20,30
+Opel,VAN,,2,0,0.00%,Nearly Unique,5,0,5
+Opel,Vectra,,1866,1860,0.12%,Scarce,25,1835,1885
+Opel,Wiblomate,,1,0,0.00%,Unique,5,0,5
+Opel,Zafira,,20,20,0.00%,Extremely Rare,5,15,25
+Opel,,,395,395,0.03%,Rare,25,370,420
+Peugeot,3.6,,1,0,0.00%,Unique,5,0,5
+Peugeot,20,,1,0,0.00%,Unique,5,0,5
+Peugeot,50,,4,0,0.00%,Nearly Unique,5,0,5
+Peugeot,80,,2,0,0.00%,Nearly Unique,5,0,5
+Peugeot,104,,366,365,0.02%,Rare,25,340,390
+Peugeot,106,,128,125,0.01%,Very Rare,25,100,150
+Peugeot,125,,10,10,0.00%,Nearly Unique,5,5,15
+Peugeot,150,,1,0,0.00%,Unique,5,0,5
+Peugeot,201,,1,0,0.00%,Unique,5,0,5
+Peugeot,202,,5,5,0.00%,Nearly Unique,5,0,10
+Peugeot,203,,67,65,0.00%,Very Rare,5,60,70
+Peugeot,204,,811,810,0.05%,Very Scarce,25,785,835
+Peugeot,205,,869,865,0.06%,Very Scarce,25,840,890
+Peugeot,206,,1003,1000,0.06%,Scarce,25,975,1025
+Peugeot,207,,1,0,0.00%,Unique,5,0,5
+Peugeot,230,,1,0,0.00%,Unique,5,0,5
+Peugeot,280,,8,5,0.00%,Nearly Unique,5,0,10
+Peugeot,290,,1,0,0.00%,Unique,5,0,5
+Peugeot,304,,1247,1240,0.08%,Scarce,25,1215,1265
+Peugeot,305,,1274,1270,0.08%,Scarce,25,1245,1295
+Peugeot,306,,1292,1290,0.08%,Scarce,25,1265,1315
+Peugeot,307,,3,0,0.00%,Nearly Unique,5,0,5
+Peugeot,309,,411,410,0.03%,Rare,25,385,435
+Peugeot,402,,3,0,0.00%,Nearly Unique,5,0,5
+Peugeot,403,,909,905,0.06%,Very Scarce,25,880,930
+Peugeot,404,,10343,10340,0.64%,Uncommon,100,10240,10440
+Peugeot,405,,4458,4450,0.29%,Uncommon,25,4425,4475
+Peugeot,406,,739,735,0.05%,Very Scarce,25,710,760
+Peugeot,407,,1,0,0.00%,Unique,5,0,5
+Peugeot,409,,1,0,0.00%,Unique,5,0,5
+Peugeot,500,,4,0,0.00%,Nearly Unique,5,0,5
+Peugeot,502,,2,0,0.00%,Nearly Unique,5,0,5
+Peugeot,504,,19877,19870,1.28%,Common,100,19770,19970
+Peugeot,505,,9198,9190,0.59%,Uncommon,100,9090,9290
+Peugeot,506,,5,5,0.00%,Nearly Unique,5,0,10
+Peugeot,508,,3,0,0.00%,Nearly Unique,5,0,5
+Peugeot,604,,397,395,0.03%,Rare,25,370,420
+Peugeot,605,,263,260,0.02%,Rare,25,235,285
+Peugeot,607,,2,0,0.00%,Nearly Unique,5,0,5
+Peugeot,806,,11,10,0.00%,Nearly Unique,5,5,15
+Peugeot,888,,3,0,0.00%,Nearly Unique,5,0,5
+Peugeot,1007,,1,0,0.00%,Unique,5,0,5
+Peugeot,1400,,1,0,0.00%,Unique,5,0,5
+Peugeot,A11,,3,0,0.00%,Nearly Unique,5,0,5
+Peugeot,B 8,,1,0,0.00%,Unique,5,0,5
+Peugeot,Boxer,,216,215,0.01%,Very Rare,25,190,240
+Peugeot,Combi,,1,0,0.00%,Unique,5,0,5
+Peugeot,Commerciale,,4,0,0.00%,Nearly Unique,5,0,5
+Peugeot,Expert,,185,185,0.01%,Very Rare,25,160,210
+Peugeot,F 328,,1,0,0.00%,Unique,5,0,5
+Peugeot,Familiale,,6,5,0.00%,Nearly Unique,5,0,10
+Peugeot,Fourgon,,4,0,0.00%,Nearly Unique,5,0,5
+Peugeot,J5,,81,80,0.01%,Very Rare,5,75,85
+Peugeot,J7,,11,10,0.00%,Nearly Unique,5,5,15
+Peugeot,J9,,18,15,0.00%,Nearly Unique,5,10,20
+Peugeot,JS,,7,5,0.00%,Nearly Unique,5,0,10
+Peugeot,Karsan,,8,5,0.00%,Nearly Unique,5,0,10
+Peugeot,Liberty,,1,0,0.00%,Unique,5,0,5
+Peugeot,Pars,,2,0,0.00%,Nearly Unique,5,0,5
+Peugeot,Partner,,636,635,0.04%,Very Scarce,25,610,660
+Peugeot,Pooxer,,3,0,0.00%,Nearly Unique,5,0,5
+Peugeot,Prestige,,78,75,0.00%,Very Rare,5,70,80
+Peugeot,SRA,,1,0,0.00%,Unique,5,0,5
+Peugeot,SRI,,5,5,0.00%,Nearly Unique,5,0,10
+Peugeot,Talbot,,1,0,0.00%,Unique,5,0,5
+Peugeot,Turbo,,2,0,0.00%,Nearly Unique,5,0,5
+Peugeot,Zenith,,1,0,0.00%,Unique,5,0,5
+Peugeot,,,4741,4740,0.30%,Uncommon,25,4715,4765
+PGO,G-Max 125,,1,0,0.00%,Unique,5,0,5
+Piaggio,50,,12,10,0.00%,Nearly Unique,5,5,15
+Piaggio,80,,3,0,0.00%,Nearly Unique,5,0,5
+Piaggio,100,,4,0,0.00%,Nearly Unique,5,0,5
+Piaggio,125,,129,125,0.01%,Very Rare,25,100,150
+Piaggio,150,,19,15,0.00%,Nearly Unique,5,10,20
+Piaggio,200,,1,0,0.00%,Unique,5,0,5
+Piaggio,250,,7,5,0.00%,Nearly Unique,5,0,10
+Piaggio,300,,1,0,0.00%,Unique,5,0,5
+Piaggio,400,,1,0,0.00%,Unique,5,0,5
+Piaggio,APE,,8,5,0.00%,Nearly Unique,5,0,10
+Piaggio,Dumper,,16,15,0.00%,Nearly Unique,5,10,20
+Piaggio,Ex 150,,2,0,0.00%,Nearly Unique,5,0,5
+Piaggio,Hijet,,2,0,0.00%,Nearly Unique,5,0,5
+Piaggio,Liberty,,3,0,0.00%,Nearly Unique,5,0,5
+Piaggio,Pick Porter,,1,0,0.00%,Unique,5,0,5
+Piaggio,Porter,,33,30,0.00%,Extremely Rare,5,25,35
+Piaggio,PX,,14,10,0.00%,Nearly Unique,5,5,15
+Piaggio,Quartz 90,,1,0,0.00%,Unique,5,0,5
+Piaggio,Skipper,,4,0,0.00%,Nearly Unique,5,0,5
+Piaggio,Typhoon,,2,0,0.00%,Nearly Unique,5,0,5
+Piaggio,V0,,4,0,0.00%,Nearly Unique,5,0,5
+Piaggio,X9,,1,0,0.00%,Unique,5,0,5
+Plymouth,225,,16,15,0.00%,Nearly Unique,5,10,20
+Plymouth,280,,1,0,0.00%,Unique,5,0,5
+Plymouth,300,,4,0,0.00%,Nearly Unique,5,0,5
+Plymouth,1600 GL,,14,10,0.00%,Nearly Unique,5,5,15
+Plymouth,3L,,1,0,0.00%,Unique,5,0,5
+Plymouth,Acclaim,,26,25,0.00%,Extremely Rare,5,20,30
+Plymouth,Aspen,,2,0,0.00%,Nearly Unique,5,0,5
+Plymouth,Avenger,,193,190,0.01%,Very Rare,25,165,215
+Plymouth,Barracuda,,53,50,0.00%,Very Rare,5,45,55
+Plymouth,Belvedere,,31,30,0.00%,Extremely Rare,5,25,35
+Plymouth,Betour,,1,0,0.00%,Unique,5,0,5
+Plymouth,Caravan,,5,5,0.00%,Nearly Unique,5,0,10
+Plymouth,Caravelle,,10,10,0.00%,Nearly Unique,5,5,15
+Plymouth,Champ,,2,0,0.00%,Nearly Unique,5,0,5
+Plymouth,Colt,,11,10,0.00%,Nearly Unique,5,5,15
+Plymouth,Cuda,,6,5,0.00%,Nearly Unique,5,0,10
+Plymouth,Deluxe,,4,0,0.00%,Nearly Unique,5,0,5
+Plymouth,Duster,,29,25,0.00%,Extremely Rare,5,20,30
+Plymouth,Foular,,120,120,0.01%,Very Rare,25,95,145
+Plymouth,Fury,,251,250,0.02%,Rare,25,225,275
+Plymouth,H,,2,0,0.00%,Nearly Unique,5,0,5
+Plymouth,Horizon,,8,5,0.00%,Nearly Unique,5,0,10
+Plymouth,Hunter,,38,35,0.00%,Extremely Rare,5,30,40
+Plymouth,Kingsway,,2,0,0.00%,Nearly Unique,5,0,5
+Plymouth,Laser,,8,5,0.00%,Nearly Unique,5,0,10
+Plymouth,Master,,3,0,0.00%,Nearly Unique,5,0,5
+Plymouth,Molary,,8,5,0.00%,Nearly Unique,5,0,10
+Plymouth,Neckar,,2,0,0.00%,Nearly Unique,5,0,5
+Plymouth,Neon,,7,5,0.00%,Nearly Unique,5,0,10
+Plymouth,Polar,,3,0,0.00%,Nearly Unique,5,0,5
+Plymouth,Reliant,,32,30,0.00%,Extremely Rare,5,25,35
+Plymouth,Sapporo,,3,0,0.00%,Nearly Unique,5,0,5
+Plymouth,Satellite,,165,165,0.01%,Very Rare,25,140,190
+Plymouth,Scamp,,9,5,0.00%,Nearly Unique,5,0,10
+Plymouth,Special,,4,0,0.00%,Nearly Unique,5,0,5
+Plymouth,Spitfire,,6,5,0.00%,Nearly Unique,5,0,10
+Plymouth,Spring,,6,5,0.00%,Nearly Unique,5,0,10
+Plymouth,Sundance,,23,20,0.00%,Extremely Rare,5,15,25
+Plymouth,Trail Duster,,13,10,0.00%,Nearly Unique,5,5,15
+Plymouth,Turbo,,2,0,0.00%,Nearly Unique,5,0,5
+Plymouth,Valiant,,510,510,0.03%,Very Scarce,25,485,535
+Plymouth,Volare,,65,65,0.00%,Very Rare,5,60,70
+Plymouth,Voyager,,292,290,0.02%,Rare,25,265,315
+Plymouth,Wagon,,5,5,0.00%,Nearly Unique,5,0,10
+Plymouth,,,9,5,0.00%,Nearly Unique,5,0,10
+Polaris,250,,2,0,0.00%,Nearly Unique,5,0,5
+Polaris,325,,1,0,0.00%,Unique,5,0,5
+Polaris,400,,2,0,0.00%,Nearly Unique,5,0,5
+Polaris,Ranger,,1,0,0.00%,Unique,5,0,5
+Polaris,Sportsman,,32,30,0.00%,Extremely Rare,5,25,35
+Pontiac,6000,,411,410,0.03%,Rare,25,385,435
+Pontiac,Acadian,,1,0,0.00%,Unique,5,0,5
+Pontiac,Aster,,47,45,0.00%,Very Rare,5,40,50
+Pontiac,Beaumont,,26,25,0.00%,Extremely Rare,5,20,30
+Pontiac,Bonneville,,2235,2230,0.14%,Scarce,25,2205,2255
+Pontiac,Bonneville Brougham,,6,5,0.00%,Nearly Unique,5,0,10
+Pontiac,Bonneville Limited,,1,0,0.00%,Unique,5,0,5
+Pontiac,Catalina,,37,35,0.00%,Extremely Rare,5,30,40
+Pontiac,Custom S,,9,5,0.00%,Nearly Unique,5,0,10
+Pontiac,Deluxe,,1,0,0.00%,Unique,5,0,5
+Pontiac,Fiero,,34,30,0.00%,Extremely Rare,5,25,35
+Pontiac,Firebird,,435,435,0.03%,Rare,25,410,460
+Pontiac,Firebird Formula,,8,5,0.00%,Nearly Unique,5,0,10
+Pontiac,Firefly,,20,20,0.00%,Extremely Rare,5,15,25
+Pontiac,Formula,,62,60,0.00%,Very Rare,5,55,65
+Pontiac,Grand AM,,672,670,0.04%,Very Scarce,25,645,695
+Pontiac,Grand Prix,,1462,1460,0.10%,Scarce,25,1435,1485
+Pontiac,Grand Ville,,15,15,0.00%,Nearly Unique,5,10,20
+Pontiac,GT,,9,5,0.00%,Nearly Unique,5,0,10
+Pontiac,GT5,,1,0,0.00%,Unique,5,0,5
+Pontiac,Lemans,,470,470,0.03%,Rare,25,445,495
+Pontiac,LeMans,,76,75,0.00%,Very Rare,5,70,80
+Pontiac,Montana,,97,95,0.01%,Very Rare,5,90,100
+Pontiac,Parisienne,,244,240,0.02%,Very Rare,25,215,265
+Pontiac,Phoenix,,309,305,0.02%,Rare,25,280,330
+Pontiac,Safari,,12,10,0.00%,Nearly Unique,5,5,15
+Pontiac,SE,,4,0,0.00%,Nearly Unique,5,0,5
+Pontiac,Sun Runner,,2,0,0.00%,Nearly Unique,5,0,5
+Pontiac,Sunbird,,185,185,0.01%,Very Rare,25,160,210
+Pontiac,Sunfire,,19,15,0.00%,Nearly Unique,5,10,20
+Pontiac,Tempest,,185,185,0.01%,Very Rare,25,160,210
+Pontiac,Trans AM,,324,320,0.02%,Rare,25,295,345
+Pontiac,Trans Am Firebird,,15,15,0.00%,Nearly Unique,5,10,20
+Pontiac,Trans Sport,,366,365,0.02%,Rare,25,340,390
+Pontiac,Ventura,,205,205,0.01%,Very Rare,25,180,230
+Pontiac,Wave,,1,0,0.00%,Unique,5,0,5
+Pontiac,,,136,135,0.01%,Very Rare,25,110,160
+Porsche,911,,109,105,0.01%,Very Rare,25,80,130
+Porsche,924,,92,90,0.01%,Very Rare,5,85,95
+Porsche,928,,35,35,0.00%,Extremely Rare,5,30,40
+Porsche,930,,2,0,0.00%,Nearly Unique,5,0,5
+Porsche,944,,55,55,0.00%,Very Rare,5,50,60
+Porsche,968,,2,0,0.00%,Nearly Unique,5,0,5
+Porsche,356 1500,,1,0,0.00%,Unique,5,0,5
+Porsche,356 1600,,3,0,0.00%,Nearly Unique,5,0,5
+Porsche,356 B,,7,5,0.00%,Nearly Unique,5,0,10
+Porsche,356 C,,5,5,0.00%,Nearly Unique,5,0,10
+Porsche,911 Carrera,,184,180,0.01%,Very Rare,25,155,205
+Porsche,911 Carrera 2,,9,5,0.00%,Nearly Unique,5,0,10
+Porsche,911 Carrera 4,,18,15,0.00%,Nearly Unique,5,10,20
+Porsche,911 Carrera 4 S,,4,0,0.00%,Nearly Unique,5,0,5
+Porsche,911 Carrera 4 Targa,,2,0,0.00%,Nearly Unique,5,0,5
+Porsche,911 Carrera T,,1,0,0.00%,Unique,5,0,5
+Porsche,911 RS,,1,0,0.00%,Unique,5,0,5
+Porsche,911 S,,41,40,0.00%,Very Rare,5,35,45
+Porsche,911 SC,,34,30,0.00%,Extremely Rare,5,25,35
+Porsche,911 T,,16,15,0.00%,Nearly Unique,5,10,20
+Porsche,911 Targa,,17,15,0.00%,Nearly Unique,5,10,20
+Porsche,924 Carrera,,1,0,0.00%,Unique,5,0,5
+Porsche,928 S,,25,25,0.00%,Extremely Rare,5,20,30
+Porsche,928 S4,,4,0,0.00%,Nearly Unique,5,0,5
+Porsche,Boxster,,224,220,0.01%,Very Rare,25,195,245
+Porsche,Boxster S,,8,5,0.00%,Nearly Unique,5,0,10
+Porsche,Cayenne S,,1,0,0.00%,Unique,5,0,5
+Porsche,Oxford,,1,0,0.00%,Unique,5,0,5
+Porsche,Speedster,,4,0,0.00%,Nearly Unique,5,0,5
+Porsche,Targa,,8,5,0.00%,Nearly Unique,5,0,10
+Porsche,,,23,20,0.00%,Extremely Rare,5,15,25
+Range Rover,Classic,,1418,1415,0.00%,Scarce,25,1390,1440
+Range Rover,Discovery,,4,0,0.00%,Nearly Unique,5,0,5
+Range Rover,Estate,,2,0,0.00%,Nearly Unique,5,0,5
+Range Rover,Freelander,,1,0,0.00%,Unique,5,0,5
+Range Rover,Sport,,2,0,0.00%,Nearly Unique,5,0,5
+Range Rover,Velar,,1,0,0.00%,Unique,5,0,5
+Range Rover,Vogue,,1313,1310,0.08%,Scarce,25,1285,1335
+Range Rover,,,144,140,0.01%,Very Rare,25,115,165
+Renault,1.4,,9,5,0.00%,Nearly Unique,5,0,10
+Renault,4,,20,20,0.00%,Extremely Rare,5,15,25
+Renault,5,,89,85,0.01%,Very Rare,5,80,90
+Renault,18,,298,295,0.02%,Rare,25,270,320
+Renault,19,,72,70,0.00%,Very Rare,5,65,75
+Renault,20,,13,10,0.00%,Nearly Unique,5,5,15
+Renault,21,,25,25,0.00%,Extremely Rare,5,20,30
+Renault,22,,1,0,0.00%,Unique,5,0,5
+Renault,24,,1,0,0.00%,Unique,5,0,5
+Renault,25,,54,50,0.00%,Very Rare,5,45,55
+Renault,230,,2,0,0.00%,Nearly Unique,5,0,5
+Renault,250,,5,5,0.00%,Nearly Unique,5,0,10
+Renault,300,,2,0,0.00%,Nearly Unique,5,0,5
+Renault,385,,6,5,0.00%,Nearly Unique,5,0,10
+Renault,1000,,4,0,0.00%,Nearly Unique,5,0,5
+Renault,1131,,13,10,0.00%,Nearly Unique,5,5,15
+Renault,1132,,29,25,0.00%,Extremely Rare,5,20,30
+Renault,1300,,18,15,0.00%,Nearly Unique,5,10,20
+Renault,1400,,7,5,0.00%,Nearly Unique,5,0,10
+Renault,10142,,3,0,0.00%,Nearly Unique,5,0,5
+Renault,132065,,1,0,0.00%,Unique,5,0,5
+Renault,132240,,1,0,0.00%,Unique,5,0,5
+Renault,110 B,,4,0,0.00%,Nearly Unique,5,0,5
+Renault,Alliance,,35,35,0.00%,Extremely Rare,5,30,40
+Renault,Alpine,,31,30,0.00%,Extremely Rare,5,25,35
+Renault,B120 65,,10,10,0.00%,Nearly Unique,5,5,15
+Renault,Berliet,,134,130,0.01%,Very Rare,25,105,155
+Renault,Break,,3,0,0.00%,Nearly Unique,5,0,5
+Renault,Broadway,,3,0,0.00%,Nearly Unique,5,0,5
+Renault,Caravelle,,6,5,0.00%,Nearly Unique,5,0,10
+Renault,CBH,,12,10,0.00%,Nearly Unique,5,5,15
+Renault,Chamade,,37,35,0.00%,Extremely Rare,5,30,40
+Renault,Cheverny Aut,,1,0,0.00%,Unique,5,0,5
+Renault,Cj7 Jeep,,1,0,0.00%,Unique,5,0,5
+Renault,Clio,,1327,1320,0.08%,Scarce,25,1295,1345
+Renault,Dacia,,6,5,0.00%,Nearly Unique,5,0,10
+Renault,Devine,,111,110,0.01%,Very Rare,25,85,135
+Renault,Eagle,,6,5,0.00%,Nearly Unique,5,0,10
+Renault,Encore,,10,10,0.00%,Nearly Unique,5,5,15
+Renault,Espace,,60,60,0.00%,Very Rare,5,55,65
+Renault,Estafette,,15,15,0.00%,Nearly Unique,5,10,20
+Renault,Estate,,1,0,0.00%,Unique,5,0,5
+Renault,Express,,3811,3810,0.24%,Uncommon,25,3785,3835
+Renault,F,,8,5,0.00%,Nearly Unique,5,0,10
+Renault,Florgo,,7,5,0.00%,Nearly Unique,5,0,10
+Renault,Fluence,,1,0,0.00%,Unique,5,0,5
+Renault,Fourgon,,15,15,0.00%,Nearly Unique,5,10,20
+Renault,Fuego,,847,845,0.05%,Very Scarce,25,820,870
+Renault,G,,8,5,0.00%,Nearly Unique,5,0,10
+Renault,Ghourdine,,96,95,0.01%,Very Rare,5,90,100
+Renault,Goete,,1,0,0.00%,Unique,5,0,5
+Renault,GRU,,1,0,0.00%,Unique,5,0,5
+Renault,Jetting,,2,0,0.00%,Nearly Unique,5,0,5
+Renault,Kangoo,,9328,9320,0.59%,Uncommon,100,9220,9420
+Renault,Karosa,,229,225,0.01%,Very Rare,25,200,250
+Renault,Kerax,,4,0,0.00%,Nearly Unique,5,0,5
+Renault,Kirosa,,2,0,0.00%,Nearly Unique,5,0,5
+Renault,L 35,,1,0,0.00%,Unique,5,0,5
+Renault,L4,,2,0,0.00%,Nearly Unique,5,0,5
+Renault,Laguna,,1689,1680,0.11%,Scarce,25,1655,1705
+Renault,Le Car,,6,5,0.00%,Nearly Unique,5,0,10
+Renault,Lecar 4,,1,0,0.00%,Unique,5,0,5
+Renault,M 180,,19,15,0.00%,Nearly Unique,5,10,20
+Renault,M 21,,1,0,0.00%,Unique,5,0,5
+Renault,Major,,389,385,0.02%,Rare,25,360,410
+Renault,Master,,108,105,0.01%,Very Rare,25,80,130
+Renault,ME,,13,10,0.00%,Nearly Unique,5,5,15
+Renault,Medaillon,,28,25,0.00%,Extremely Rare,5,20,30
+Renault,Megane,,2344,2340,0.15%,Scarce,25,2315,2365
+Renault,Messinger,,3,0,0.00%,Nearly Unique,5,0,5
+Renault,Midline,,8,5,0.00%,Nearly Unique,5,0,10
+Renault,Midliner,,5,5,0.00%,Nearly Unique,5,0,10
+Renault,Midlum,,1,0,0.00%,Unique,5,0,5
+Renault,Nevada,,22,20,0.00%,Extremely Rare,5,15,25
+Renault,Nova,,1,0,0.00%,Unique,5,0,5
+Renault,P 1400,,7,5,0.00%,Nearly Unique,5,0,10
+Renault,P 35,,1,0,0.00%,Unique,5,0,5
+Renault,Pl 400,,1,0,0.00%,Unique,5,0,5
+Renault,Privilege,,5,5,0.00%,Nearly Unique,5,0,10
+Renault,R10,,651,650,0.04%,Very Scarce,25,625,675
+Renault,R1062,,2,0,0.00%,Nearly Unique,5,0,5
+Renault,R1095,,27,25,0.00%,Extremely Rare,5,20,30
+Renault,R11,,1808,1800,0.12%,Scarce,25,1775,1825
+Renault,R1123,,4,0,0.00%,Nearly Unique,5,0,5
+Renault,R1124,,4,0,0.00%,Nearly Unique,5,0,5
+Renault,R12,,29836,29830,1.92%,Common,250,29580,30080
+Renault,R14,,196,195,0.01%,Very Rare,25,170,220
+Renault,R15,,472,470,0.03%,Rare,25,445,495
+Renault,R16,,2185,2180,0.14%,Scarce,25,2155,2205
+Renault,R17,,476,475,0.03%,Rare,25,450,500
+Renault,R18,,7096,7090,0.45%,Uncommon,100,6990,7190
+Renault,R19,,2421,2420,0.15%,Scarce,25,2395,2445
+Renault,R2,,5,5,0.00%,Nearly Unique,5,0,10
+Renault,R20,,490,490,0.03%,Rare,25,465,515
+Renault,R2086,,4,0,0.00%,Nearly Unique,5,0,5
+Renault,R21,,435,435,0.03%,Rare,25,410,460
+Renault,R2104,,3,0,0.00%,Nearly Unique,5,0,5
+Renault,R2132,,3,0,0.00%,Nearly Unique,5,0,5
+Renault,R2168,,3,0,0.00%,Nearly Unique,5,0,5
+Renault,R25,,312,310,0.02%,Rare,25,285,335
+Renault,R30,,486,485,0.03%,Rare,25,460,510
+Renault,R310,,2,0,0.00%,Nearly Unique,5,0,5
+Renault,R4,,387,385,0.02%,Rare,25,360,410
+Renault,R42,,2,0,0.00%,Nearly Unique,5,0,5
+Renault,R5,,7067,7060,0.45%,Uncommon,100,6960,7160
+Renault,R6,,312,310,0.02%,Rare,25,285,335
+Renault,R8,,92,90,0.01%,Very Rare,5,85,95
+Renault,R86,,7,5,0.00%,Nearly Unique,5,0,10
+Renault,R9,,2590,2590,0.17%,Scarce,25,2565,2615
+Renault,Rapid,,20457,20450,1.28%,Common,100,20350,20550
+Renault,Rovine,,2,0,0.00%,Nearly Unique,5,0,5
+Renault,RS,,9,5,0.00%,Nearly Unique,5,0,10
+Renault,RT,,2,0,0.00%,Nearly Unique,5,0,5
+Renault,RTL,,2,0,0.00%,Nearly Unique,5,0,5
+Renault,RU,,19,15,0.00%,Nearly Unique,5,10,20
+Renault,RX,,3,0,0.00%,Nearly Unique,5,0,5
+Renault,RXE,,1,0,0.00%,Unique,5,0,5
+Renault,S170,,1,0,0.00%,Unique,5,0,5
+Renault,S180,,2,0,0.00%,Nearly Unique,5,0,5
+Renault,Sabrina,,1,0,0.00%,Unique,5,0,5
+Renault,Safarane,,2,0,0.00%,Nearly Unique,5,0,5
+Renault,Safrane,,160,160,0.01%,Very Rare,25,135,185
+Renault,Saviem,,7,5,0.00%,Nearly Unique,5,0,10
+Renault,Scenic,,5,5,0.00%,Nearly Unique,5,0,10
+Renault,Spider,,2,0,0.00%,Nearly Unique,5,0,5
+Renault,Spring,,8,5,0.00%,Nearly Unique,5,0,10
+Renault,T,,25,25,0.00%,Extremely Rare,5,20,30
+Renault,TR,,5,5,0.00%,Nearly Unique,5,0,10
+Renault,Trafic,,2318,2310,0.15%,Scarce,25,2285,2335
+Renault,Truck,,1,0,0.00%,Unique,5,0,5
+Renault,TS,,13,10,0.00%,Nearly Unique,5,5,15
+Renault,TSW,,18,15,0.00%,Nearly Unique,5,10,20
+Renault,Turbo,,16,15,0.00%,Nearly Unique,5,10,20
+Renault,Twingo,,72,70,0.00%,Very Rare,5,65,75
+Renault,TX,,12,10,0.00%,Nearly Unique,5,5,15
+Renault,TXE,,6,5,0.00%,Nearly Unique,5,0,10
+Renault,Txer,,1,0,0.00%,Unique,5,0,5
+Renault,VAN,,37,35,0.00%,Extremely Rare,5,30,40
+Rolls Royce,20/25,,1,0,0.00%,Unique,5,0,5
+Rolls Royce,Camargue,,3,0,0.00%,Nearly Unique,5,0,5
+Rolls Royce,Corniche,,17,15,0.00%,Nearly Unique,5,10,20
+Rolls Royce,Phantom,,2,0,0.00%,Nearly Unique,5,0,5
+Rolls Royce,Silver Cloud,,7,5,0.00%,Nearly Unique,5,0,10
+Rolls Royce,Silver Shadow,,138,135,0.01%,Very Rare,25,110,160
+Rolls Royce,Silver Spirit,,14,10,0.00%,Nearly Unique,5,5,15
+Rolls Royce,Silver Spur,,5,5,0.00%,Nearly Unique,5,0,10
+Rolls Royce,Silver Wraith,,14,10,0.00%,Nearly Unique,5,5,15
+Rover,3.5,,9,5,0.00%,Nearly Unique,5,0,10
+Rover,23,,1,0,0.00%,Unique,5,0,5
+Rover,25,,4,0,0.00%,Nearly Unique,5,0,5
+Rover,45,,1,0,0.00%,Unique,5,0,5
+Rover,75,,48,45,0.00%,Very Rare,5,40,50
+Rover,90,,1,0,0.00%,Unique,5,0,5
+Rover,200,,13,10,0.00%,Nearly Unique,5,5,15
+Rover,213,,15,15,0.00%,Nearly Unique,5,10,20
+Rover,214,,6,5,0.00%,Nearly Unique,5,0,10
+Rover,216,,126,125,0.01%,Very Rare,25,100,150
+Rover,400,,1,0,0.00%,Unique,5,0,5
+Rover,414,,1,0,0.00%,Unique,5,0,5
+Rover,416,,8,5,0.00%,Nearly Unique,5,0,10
+Rover,600,,1,0,0.00%,Unique,5,0,5
+Rover,620,,27,25,0.00%,Extremely Rare,5,20,30
+Rover,623,,29,25,0.00%,Extremely Rare,5,20,30
+Rover,820,,8,5,0.00%,Nearly Unique,5,0,10
+Rover,825,,14,10,0.00%,Nearly Unique,5,5,15
+Rover,827,,20,20,0.00%,Extremely Rare,5,15,25
+Rover,900,,1,0,0.00%,Unique,5,0,5
+Rover,2000,,84,80,0.01%,Very Rare,5,75,85
+Rover,2200,,3,0,0.00%,Nearly Unique,5,0,5
+Rover,2600,,12,10,0.00%,Nearly Unique,5,5,15
+Rover,3500,,70,70,0.00%,Very Rare,5,65,75
+Rover,117 SLi,,1,0,0.00%,Unique,5,0,5
+Rover,2.3 se,,1,0,0.00%,Unique,5,0,5
+Rover,Sterling,,24,20,0.00%,Extremely Rare,5,15,25
+Rover,,,3,0,0.00%,Nearly Unique,5,0,5
+Saab,9,,3,0,0.00%,Nearly Unique,5,0,5
+Saab,99,,4,0,0.00%,Nearly Unique,5,0,5
+Saab,900,,624,620,0.04%,Very Scarce,25,595,645
+Saab,9000,,292,290,0.02%,Rare,25,265,315
+Saab,3-Sep,,69,65,0.00%,Very Rare,5,60,70
+Saab,5-Sep,,108,105,0.01%,Very Rare,25,80,130
+Saab,GLE,,5,5,0.00%,Nearly Unique,5,0,10
+Saab,Griffin,,8,5,0.00%,Nearly Unique,5,0,10
+Saab,Scania,,6,5,0.00%,Nearly Unique,5,0,10
+Saab,Turbo,,35,35,0.00%,Extremely Rare,5,30,40
+Saab,,,13,10,0.00%,Nearly Unique,5,5,15
+Saturn,SG,,9,5,0.00%,Nearly Unique,5,0,10
+Scania,41,,2,0,0.00%,Nearly Unique,5,0,5
+Scania,75,,1,0,0.00%,Unique,5,0,5
+Scania,76,,6,5,0.00%,Nearly Unique,5,0,10
+Scania,78,,1,0,0.00%,Unique,5,0,5
+Scania,110,,43,40,0.00%,Very Rare,5,35,45
+Scania,111,,131,130,0.01%,Very Rare,25,105,155
+Scania,112,,46,45,0.00%,Very Rare,5,40,50
+Scania,113,,13,10,0.00%,Nearly Unique,5,5,15
+Scania,114,,4,0,0.00%,Nearly Unique,5,0,5
+Scania,124,,25,25,0.00%,Extremely Rare,5,20,30
+Scania,140,,115,115,0.01%,Very Rare,25,90,140
+Scania,141,,52,50,0.00%,Very Rare,5,45,55
+Scania,142,,65,65,0.00%,Very Rare,5,60,70
+Scania,143,,7,5,0.00%,Nearly Unique,5,0,10
+Scania,145,,11,10,0.00%,Nearly Unique,5,5,15
+Scania,146,,16,15,0.00%,Nearly Unique,5,10,20
+Scania,310,,2,0,0.00%,Nearly Unique,5,0,5
+Scania,360,,3,0,0.00%,Nearly Unique,5,0,5
+Scania,376,,2,0,0.00%,Nearly Unique,5,0,5
+Scania,420,,1,0,0.00%,Unique,5,0,5
+Scania,460,,1,0,0.00%,Unique,5,0,5
+Scania,524,,1,0,0.00%,Unique,5,0,5
+Scania,704,,2,0,0.00%,Nearly Unique,5,0,5
+Scania,1142,,2,0,0.00%,Nearly Unique,5,0,5
+Scania,L,,40,40,0.00%,Very Rare,5,35,45
+Scania,LB,,31,30,0.00%,Extremely Rare,5,25,35
+Scania,LBS,,5,5,0.00%,Nearly Unique,5,0,10
+Scania,LT,,16,15,0.00%,Nearly Unique,5,10,20
+Scania,LTH,,1,0,0.00%,Unique,5,0,5
+Scania,P,,55,55,0.00%,Very Rare,5,50,60
+Scania,R,,30,30,0.00%,Extremely Rare,5,25,35
+Scania,T,,125,125,0.01%,Very Rare,25,100,150
+Scania,Winch,,1,0,0.00%,Unique,5,0,5
+Scania,Ys2Te,,1,0,0.00%,Unique,5,0,5
+Seat,1.4,,8,5,0.00%,Nearly Unique,5,0,10
+Seat,1.5,,3,0,0.00%,Nearly Unique,5,0,5
+Seat,1.6,,12,10,0.00%,Nearly Unique,5,5,15
+Seat,1.7,,2,0,0.00%,Nearly Unique,5,0,5
+Seat,1.8,,1,0,0.00%,Unique,5,0,5
+Seat,124,,58,55,0.00%,Very Rare,5,50,60
+Seat,127,,112,110,0.01%,Very Rare,25,85,135
+Seat,132,,24,20,0.00%,Extremely Rare,5,15,25
+Seat,850,,24,20,0.00%,Extremely Rare,5,15,25
+Seat,1430,,114,110,0.01%,Very Rare,25,85,135
+Seat,AL,,8,5,0.00%,Nearly Unique,5,0,10
+Seat,Anka,,16,15,0.00%,Nearly Unique,5,10,20
+Seat,Arosa,,1,0,0.00%,Unique,5,0,5
+Seat,Corando 1.8 Glx,,2,0,0.00%,Nearly Unique,5,0,5
+Seat,Cordoba,,539,535,0.03%,Very Scarce,25,510,560
+Seat,F6,,1,0,0.00%,Unique,5,0,5
+Seat,Glx 1.8,,5,5,0.00%,Nearly Unique,5,0,10
+Seat,Glx 10,,1,0,0.00%,Unique,5,0,5
+Seat,Ibiza,,493,490,0.03%,Rare,25,465,515
+Seat,Inca,,539,535,0.03%,Very Scarce,25,510,560
+Seat,Malegua,,5,5,0.00%,Nearly Unique,5,0,10
+Seat,Marbella,,2,0,0.00%,Nearly Unique,5,0,5
+Seat,Morbella,,2,0,0.00%,Nearly Unique,5,0,5
+Seat,Panda,,2,0,0.00%,Nearly Unique,5,0,5
+Seat,Ronda,,19,15,0.00%,Nearly Unique,5,10,20
+Seat,Sxe 2.0,,2,0,0.00%,Nearly Unique,5,0,5
+Seat,Terra,,236,235,0.02%,Very Rare,25,210,260
+Seat,Toledo,,182,180,0.01%,Very Rare,25,155,205
+Seat,,,114,110,0.01%,Very Rare,25,85,135
+Simca,150,,12,10,0.00%,Nearly Unique,5,5,15
+Simca,1000,,166,165,0.01%,Very Rare,25,140,190
+Simca,1100,,394,390,0.02%,Rare,25,365,415
+Simca,1300,,116,115,0.01%,Very Rare,25,90,140
+Simca,1301,,70,70,0.00%,Very Rare,5,65,75
+Simca,1307,,47,45,0.00%,Very Rare,5,40,50
+Simca,1308,,16,15,0.00%,Nearly Unique,5,10,20
+Simca,1500,,415,415,0.03%,Rare,25,390,440
+Simca,1501,,702,700,0.04%,Very Scarce,25,675,725
+Simca,1510,,7,5,0.00%,Nearly Unique,5,0,10
+Simca,Around,,241,240,0.02%,Very Rare,25,215,265
+Simca,BM,,1,0,0.00%,Unique,5,0,5
+Simca,Castel,,10,10,0.00%,Nearly Unique,5,5,15
+Simca,Elze,,120,120,0.01%,Very Rare,25,95,145
+Simca,Horizon,,46,45,0.00%,Very Rare,5,40,50
+Simca,Matra,,45,45,0.00%,Very Rare,5,40,50
+Simca,Messager,,2,0,0.00%,Nearly Unique,5,0,5
+Simca,Monecry,,25,25,0.00%,Extremely Rare,5,20,30
+Simca,Rancho,,14,10,0.00%,Nearly Unique,5,5,15
+Simca,Solara,,6,5,0.00%,Nearly Unique,5,0,10
+Simca,Special,,40,40,0.00%,Very Rare,5,35,45
+Simca,Talbot,,137,135,0.01%,Very Rare,25,110,160
+Simca,Versail,,1,0,0.00%,Unique,5,0,5
+Simca,,,59,55,0.00%,Very Rare,5,50,60
+Skoda,10,,1,0,0.00%,Unique,5,0,5
+Skoda,12,,1,0,0.00%,Unique,5,0,5
+Skoda,120,,92,90,0.01%,Very Rare,5,85,95
+Skoda,130,,3,0,0.00%,Nearly Unique,5,0,5
+Skoda,785,,1,0,0.00%,Unique,5,0,5
+Skoda,1202,,6,5,0.00%,Nearly Unique,5,0,10
+Skoda,1300,,2,0,0.00%,Nearly Unique,5,0,5
+Skoda,A200R,,3,0,0.00%,Nearly Unique,5,0,5
+Skoda,Cambri Lx,,3,0,0.00%,Nearly Unique,5,0,5
+Skoda,Fabia,,3,0,0.00%,Nearly Unique,5,0,5
+Skoda,Favorit,,73,70,0.00%,Very Rare,5,65,75
+Skoda,Felicia,,204,200,0.01%,Very Rare,25,175,225
+Skoda,Forman,,29,25,0.00%,Extremely Rare,5,20,30
+Skoda,General,,1,0,0.00%,Unique,5,0,5
+Skoda,GLS,,3,0,0.00%,Nearly Unique,5,0,5
+Skoda,Octavia,,37,35,0.00%,Extremely Rare,5,30,40
+Skoda,Pick Up,,10,10,0.00%,Nearly Unique,5,5,15
+Skoda,Praktik,,3,0,0.00%,Nearly Unique,5,0,5
+Skoda,R 130,,1,0,0.00%,Unique,5,0,5
+Skoda,TMB,,10,10,0.00%,Nearly Unique,5,5,15
+Smart,City,,1,0,0.00%,Unique,5,0,5
+Smart,Fortwo,,8,5,0.00%,Nearly Unique,5,0,10
+Smart,Hardtop,,2,0,0.00%,Nearly Unique,5,0,5
+Smart,Mannes,,7,5,0.00%,Nearly Unique,5,0,10
+Smart,MCC,,2,0,0.00%,Nearly Unique,5,0,5
+Smart,Passion,,3,0,0.00%,Nearly Unique,5,0,5
+Smart,Pulse,,1,0,0.00%,Unique,5,0,5
+Ssangyong,110,,2,0,0.00%,Nearly Unique,5,0,5
+Ssangyong,125,,2,0,0.00%,Nearly Unique,5,0,5
+Ssangyong,CBI,,2,0,0.00%,Nearly Unique,5,0,5
+Ssangyong,Istana,,981,980,0.06%,Very Scarce,25,955,1005
+Ssangyong,Jeep,,5,5,0.00%,Nearly Unique,5,0,10
+Ssangyong,Korando,,176,175,0.01%,Very Rare,25,150,200
+Ssangyong,Musso,,397,395,0.03%,Rare,25,370,420
+Ssangyong,Scooter,,3,0,0.00%,Nearly Unique,5,0,5
+Ssangyong,Syeo,,3,0,0.00%,Nearly Unique,5,0,5
+Standard,8,,1,0,0.00%,Unique,5,0,5
+Studebaker,Champion,,2,0,0.00%,Nearly Unique,5,0,5
+Stutz,Black Hawk,,1,0,0.00%,Unique,5,0,5
+Subaru,1.6,,22,20,0.00%,Extremely Rare,5,15,25
+Subaru,1.8,,351,350,0.02%,Rare,25,325,375
+Subaru,2.2,,3,0,0.00%,Nearly Unique,5,0,5
+Subaru,10,,8,5,0.00%,Nearly Unique,5,0,10
+Subaru,84,,1,0,0.00%,Unique,5,0,5
+Subaru,106,,2,0,0.00%,Nearly Unique,5,0,5
+Subaru,108,,17,15,0.00%,Nearly Unique,5,10,20
+Subaru,118,,1,0,0.00%,Unique,5,0,5
+Subaru,180,,22,20,0.00%,Extremely Rare,5,15,25
+Subaru,202,,1,0,0.00%,Unique,5,0,5
+Subaru,210,,1,0,0.00%,Unique,5,0,5
+Subaru,510,,2,0,0.00%,Nearly Unique,5,0,5
+Subaru,600,,129,125,0.01%,Very Rare,25,100,150
+Subaru,700,,2,0,0.00%,Nearly Unique,5,0,5
+Subaru,1100,,1,0,0.00%,Unique,5,0,5
+Subaru,1300,,1,0,0.00%,Unique,5,0,5
+Subaru,1600,,694,690,0.04%,Very Scarce,25,665,715
+Subaru,1800,,1207,1200,0.08%,Scarce,25,1175,1225
+Subaru,2800,,1,0,0.00%,Unique,5,0,5
+Subaru,AFS,,1,0,0.00%,Unique,5,0,5
+Subaru,B10,,1,0,0.00%,Unique,5,0,5
+Subaru,Break,,2,0,0.00%,Nearly Unique,5,0,5
+Subaru,Combi,,5,5,0.00%,Nearly Unique,5,0,10
+Subaru,DL,,345,345,0.02%,Rare,25,320,370
+Subaru,E,,38,35,0.00%,Extremely Rare,5,30,40
+Subaru,Forester,,153,150,0.01%,Very Rare,25,125,175
+Subaru,Fuji Heavy,,2,0,0.00%,Nearly Unique,5,0,5
+Subaru,GL,,54,50,0.00%,Very Rare,5,45,55
+Subaru,GLE,,4,0,0.00%,Nearly Unique,5,0,5
+Subaru,GLF,,62,60,0.00%,Very Rare,5,55,65
+Subaru,GLS,,1,0,0.00%,Unique,5,0,5
+Subaru,GLX,,2,0,0.00%,Nearly Unique,5,0,5
+Subaru,Impreza,,1326,1320,0.08%,Scarce,25,1295,1345
+Subaru,J,,177,175,0.01%,Very Rare,25,150,200
+Subaru,Justy,,22,20,0.00%,Extremely Rare,5,15,25
+Subaru,L,,7,5,0.00%,Nearly Unique,5,0,10
+Subaru,LAC,,3,0,0.00%,Nearly Unique,5,0,5
+Subaru,Leballe,,3,0,0.00%,Nearly Unique,5,0,5
+Subaru,Legacy,,877,875,0.06%,Very Scarce,25,850,900
+Subaru,Libero,,19,15,0.00%,Nearly Unique,5,10,20
+Subaru,Loyale,,2,0,0.00%,Nearly Unique,5,0,5
+Subaru,Micro,,1,0,0.00%,Unique,5,0,5
+Subaru,Mini,,1,0,0.00%,Unique,5,0,5
+Subaru,Outback,,42,40,0.00%,Very Rare,5,35,45
+Subaru,Royale,,2,0,0.00%,Nearly Unique,5,0,5
+Subaru,RXY,,1,0,0.00%,Unique,5,0,5
+Subaru,SRM,,1,0,0.00%,Unique,5,0,5
+Subaru,SRX,,10,10,0.00%,Nearly Unique,5,5,15
+Subaru,State,,3,0,0.00%,Nearly Unique,5,0,5
+Subaru,Super,,5,5,0.00%,Nearly Unique,5,0,10
+Subaru,SVX,,13,10,0.00%,Nearly Unique,5,5,15
+Subaru,SW,,1,0,0.00%,Unique,5,0,5
+Subaru,Turismo,,1,0,0.00%,Unique,5,0,5
+Subaru,VAN,,5,5,0.00%,Nearly Unique,5,0,10
+Subaru,Wagon,,12,10,0.00%,Nearly Unique,5,5,15
+Subaru,XT,,2,0,0.00%,Nearly Unique,5,0,5
+Subaru,,,159,155,0.01%,Very Rare,25,130,180
+Sunbeam,1500,,25,25,0.00%,Extremely Rare,5,20,30
+Sunbeam,Alpine,,87,85,0.01%,Very Rare,5,80,90
+Sunbeam,Hunter,,5,5,0.00%,Nearly Unique,5,0,10
+Sunbeam,Rapier,,10,10,0.00%,Nearly Unique,5,5,15
+Sunbeam,Vogue,,1,0,0.00%,Unique,5,0,5
+Suzuki,1.3,,13,10,0.00%,Nearly Unique,5,5,15
+Suzuki,1.6,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,8,,1,0,0.00%,Unique,5,0,5
+Suzuki,30,,1,0,0.00%,Unique,5,0,5
+Suzuki,51,,589,585,0.04%,Very Scarce,25,560,610
+Suzuki,51,,9,5,0.00%,Nearly Unique,5,0,10
+Suzuki,71,,2,0,0.00%,Nearly Unique,5,0,5
+Suzuki,75,,4,0,0.00%,Nearly Unique,5,0,5
+Suzuki,80,,197,195,0.01%,Very Rare,25,170,220
+Suzuki,90,,47,45,0.00%,Very Rare,5,40,50
+Suzuki,101,,945,945,0.06%,Very Scarce,25,920,970
+Suzuki,103,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,110,,9,5,0.00%,Nearly Unique,5,0,10
+Suzuki,126,,2582,2580,0.17%,Scarce,25,2555,2605
+Suzuki,150,,73,70,0.00%,Very Rare,5,65,75
+Suzuki,185,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,200,,41,40,0.00%,Very Rare,5,35,45
+Suzuki,251,,753,750,0.05%,Very Scarce,25,725,775
+Suzuki,308,,14,10,0.00%,Nearly Unique,5,5,15
+Suzuki,400,,165,165,0.01%,Very Rare,25,140,190
+Suzuki,410,,104,100,0.01%,Very Rare,25,75,125
+Suzuki,413,,84,80,0.01%,Very Rare,5,75,85
+Suzuki,450,,5,5,0.00%,Nearly Unique,5,0,10
+Suzuki,500,,9,5,0.00%,Nearly Unique,5,0,10
+Suzuki,550,,20,20,0.00%,Extremely Rare,5,15,25
+Suzuki,600,,28,25,0.00%,Extremely Rare,5,20,30
+Suzuki,650,,183,180,0.01%,Very Rare,25,155,205
+Suzuki,700,,5,5,0.00%,Nearly Unique,5,0,10
+Suzuki,750,,234,230,0.01%,Very Rare,25,205,255
+Suzuki,800,,71,70,0.00%,Very Rare,5,65,75
+Suzuki,1000,,18,15,0.00%,Nearly Unique,5,10,20
+Suzuki,1100,,129,125,0.01%,Very Rare,25,100,150
+Suzuki,1200,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,1300,,48,45,0.00%,Very Rare,5,40,50
+Suzuki,1400,,17,15,0.00%,Nearly Unique,5,10,20
+Suzuki,1500,,17,15,0.00%,Nearly Unique,5,10,20
+Suzuki,1800,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,3410,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,5580,,5,5,0.00%,Nearly Unique,5,0,10
+Suzuki,A,,41,40,0.00%,Very Rare,5,35,45
+Suzuki,Access,,4,0,0.00%,Nearly Unique,5,0,5
+Suzuki,Across,,14,10,0.00%,Nearly Unique,5,5,15
+Suzuki,AD,,220,220,0.01%,Very Rare,25,195,245
+Suzuki,Address,,509,505,0.03%,Very Scarce,25,480,530
+Suzuki,Adress,,17791,17790,1.15%,Common,100,17690,17890
+Suzuki,AG,,72,70,0.00%,Very Rare,5,65,75
+Suzuki,Alto,,142,140,0.01%,Very Rare,25,115,165
+Suzuki,AM,,1,0,0.00%,Unique,5,0,5
+Suzuki,APV,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,ASX,,2,0,0.00%,Nearly Unique,5,0,5
+Suzuki,B 120,,1,0,0.00%,Unique,5,0,5
+Suzuki,Baleno,,1427,1420,0.09%,Scarce,25,1395,1445
+Suzuki,Bandit,,180,180,0.01%,Very Rare,25,155,205
+Suzuki,Bara,,12,10,0.00%,Nearly Unique,5,5,15
+Suzuki,Bedford,,1,0,0.00%,Unique,5,0,5
+Suzuki,Birdie,,56,55,0.00%,Very Rare,5,50,60
+Suzuki,Burgman,,16,15,0.00%,Nearly Unique,5,10,20
+Suzuki,Ca 15A,,6,5,0.00%,Nearly Unique,5,0,10
+Suzuki,Carry,,491,490,0.03%,Rare,25,465,515
+Suzuki,Champs,,4,0,0.00%,Nearly Unique,5,0,5
+Suzuki,CJ,,2,0,0.00%,Nearly Unique,5,0,5
+Suzuki,CL,,2,0,0.00%,Nearly Unique,5,0,5
+Suzuki,CS,,8,5,0.00%,Nearly Unique,5,0,10
+Suzuki,CUB,,1,0,0.00%,Unique,5,0,5
+Suzuki,CX,,5,5,0.00%,Nearly Unique,5,0,10
+Suzuki,DF,,1,0,0.00%,Unique,5,0,5
+Suzuki,Djebel,,291,290,0.02%,Rare,25,265,315
+Suzuki,DR,,392,390,0.02%,Rare,25,365,415
+Suzuki,E12,,2,0,0.00%,Nearly Unique,5,0,5
+Suzuki,ED,,2,0,0.00%,Nearly Unique,5,0,5
+Suzuki,EDA,,9,5,0.00%,Nearly Unique,5,0,10
+Suzuki,EM,,4,0,0.00%,Nearly Unique,5,0,5
+Suzuki,ER,,1,0,0.00%,Unique,5,0,5
+Suzuki,ESD,,4,0,0.00%,Nearly Unique,5,0,5
+Suzuki,Esteem,,1,0,0.00%,Unique,5,0,5
+Suzuki,Estilete,,1,0,0.00%,Unique,5,0,5
+Suzuki,F,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,FA,,8,5,0.00%,Nearly Unique,5,0,10
+Suzuki,FM,,1246,1240,0.08%,Scarce,25,1215,1265
+Suzuki,FMO,,6,5,0.00%,Nearly Unique,5,0,10
+Suzuki,FR,,134,130,0.01%,Very Rare,25,105,155
+Suzuki,Fronte,,535,535,0.03%,Very Scarce,25,510,560
+Suzuki,FU,,1,0,0.00%,Unique,5,0,5
+Suzuki,FV,,2,0,0.00%,Nearly Unique,5,0,5
+Suzuki,FW,,1,0,0.00%,Unique,5,0,5
+Suzuki,FX,,1,0,0.00%,Unique,5,0,5
+Suzuki,G,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,Gamma,,7,5,0.00%,Nearly Unique,5,0,10
+Suzuki,GED,,1,0,0.00%,Unique,5,0,5
+Suzuki,Gemma,,2396,2390,0.15%,Scarce,25,2365,2415
+Suzuki,Geo Tracker,,5,5,0.00%,Nearly Unique,5,0,10
+Suzuki,GL,,1,0,0.00%,Unique,5,0,5
+Suzuki,Glalto,,1,0,0.00%,Unique,5,0,5
+Suzuki,GLX,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,GMF,,1,0,0.00%,Unique,5,0,5
+Suzuki,GN,,22,20,0.00%,Extremely Rare,5,15,25
+Suzuki,GR,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,GS,,69,65,0.00%,Very Rare,5,60,70
+Suzuki,GSF,,5,5,0.00%,Nearly Unique,5,0,10
+Suzuki,Gshed,,1,0,0.00%,Unique,5,0,5
+Suzuki,GSI,,1,0,0.00%,Unique,5,0,5
+Suzuki,GSX,,1023,1020,0.06%,Scarce,25,995,1045
+Suzuki,Gsxr,,862,860,0.05%,Very Scarce,25,835,885
+Suzuki,H,,11,10,0.00%,Nearly Unique,5,5,15
+Suzuki,H1,,1540,1540,0.10%,Scarce,25,1515,1565
+Suzuki,HIC,,5,5,0.00%,Nearly Unique,5,0,10
+Suzuki,HID,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,Iarna,,1,0,0.00%,Unique,5,0,5
+Suzuki,Intruder,,144,140,0.01%,Very Rare,25,115,165
+Suzuki,J 50 Jeep,,6,5,0.00%,Nearly Unique,5,0,10
+Suzuki,J 81,,1,0,0.00%,Unique,5,0,5
+Suzuki,J413 Yx,,1,0,0.00%,Unique,5,0,5
+Suzuki,Jimmy,,100,100,0.01%,Very Rare,25,75,125
+Suzuki,L 50,,11,10,0.00%,Nearly Unique,5,5,15
+Suzuki,L 54,,1,0,0.00%,Unique,5,0,5
+Suzuki,L 80,,4,0,0.00%,Nearly Unique,5,0,5
+Suzuki,L50 U,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,Lad Ib,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,Landie,,584,580,0.04%,Very Scarce,25,555,605
+Suzuki,Lats,,1,0,0.00%,Unique,5,0,5
+Suzuki,LD,,1,0,0.00%,Unique,5,0,5
+Suzuki,Lead,,1,0,0.00%,Unique,5,0,5
+Suzuki,Let's,,1746,1740,0.11%,Scarce,25,1715,1765
+Suzuki,LJ,,7,5,0.00%,Nearly Unique,5,0,10
+Suzuki,Love,,2271,2270,0.15%,Scarce,25,2245,2295
+Suzuki,LS,,33,30,0.00%,Extremely Rare,5,25,35
+Suzuki,LT,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,LTD,,1,0,0.00%,Unique,5,0,5
+Suzuki,LTF,,9,5,0.00%,Nearly Unique,5,0,10
+Suzuki,Ltfx,,7,5,0.00%,Nearly Unique,5,0,10
+Suzuki,Malic,,4,0,0.00%,Nearly Unique,5,0,5
+Suzuki,Maruti,,2,0,0.00%,Nearly Unique,5,0,5
+Suzuki,Micro,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,Midi,,1,0,0.00%,Unique,5,0,5
+Suzuki,Mini,,4,0,0.00%,Nearly Unique,5,0,5
+Suzuki,Mode,,5,5,0.00%,Nearly Unique,5,0,10
+Suzuki,Molotov,,549,545,0.04%,Very Scarce,25,520,570
+Suzuki,Quest,,75,75,0.00%,Very Rare,5,70,80
+Suzuki,R,,9,5,0.00%,Nearly Unique,5,0,10
+Suzuki,Ra 125,,153,150,0.01%,Very Rare,25,125,175
+Suzuki,Rako,,1,0,0.00%,Unique,5,0,5
+Suzuki,RAN,,17,15,0.00%,Nearly Unique,5,10,20
+Suzuki,Range,,1,0,0.00%,Unique,5,0,5
+Suzuki,RC,,32,30,0.00%,Extremely Rare,5,25,35
+Suzuki,RF,,11,10,0.00%,Nearly Unique,5,5,15
+Suzuki,RG,,51,50,0.00%,Very Rare,5,45,55
+Suzuki,RGV,,29,25,0.00%,Extremely Rare,5,20,30
+Suzuki,RH,,216,215,0.01%,Very Rare,25,190,240
+Suzuki,RM,,1,0,0.00%,Unique,5,0,5
+Suzuki,RMX,,6,5,0.00%,Nearly Unique,5,0,10
+Suzuki,RV,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,SA,,35,35,0.00%,Extremely Rare,5,30,40
+Suzuki,Samurai,,223,220,0.01%,Very Rare,25,195,245
+Suzuki,Santana,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,Sau 413 Gc,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,Savage,,106,105,0.01%,Very Rare,25,80,130
+Suzuki,SE,,4,0,0.00%,Nearly Unique,5,0,5
+Suzuki,Sepia,,1153,1150,0.08%,Scarce,25,1125,1175
+Suzuki,SF,,1,0,0.00%,Unique,5,0,5
+Suzuki,SHJ,,1,0,0.00%,Unique,5,0,5
+Suzuki,Shoot,,28,25,0.00%,Extremely Rare,5,20,30
+Suzuki,SI,,1,0,0.00%,Unique,5,0,5
+Suzuki,Side Kick,,615,615,0.04%,Very Scarce,25,590,640
+Suzuki,SJ,,389,385,0.02%,Rare,25,360,410
+Suzuki,SJY,,4,0,0.00%,Nearly Unique,5,0,5
+Suzuki,SK,,13,10,0.00%,Nearly Unique,5,5,15
+Suzuki,SKU,,1,0,0.00%,Unique,5,0,5
+Suzuki,Skywave,,6958,6950,0.45%,Uncommon,100,6850,7050
+Suzuki,SMR,,1,0,0.00%,Unique,5,0,5
+Suzuki,SR,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,SRX,,1,0,0.00%,Unique,5,0,5
+Suzuki,SS,,229,225,0.01%,Very Rare,25,200,250
+Suzuki,ST,,219,215,0.01%,Very Rare,25,190,240
+Suzuki,Street,,124,120,0.01%,Very Rare,25,95,145
+Suzuki,Super,,8,5,0.00%,Nearly Unique,5,0,10
+Suzuki,Super Carry,,247,245,0.02%,Rare,25,220,270
+Suzuki,Swift,,330,330,0.02%,Rare,25,305,355
+Suzuki,Sx125,,55,55,0.00%,Very Rare,5,50,60
+Suzuki,Sx200,,21,20,0.00%,Extremely Rare,5,15,25
+Suzuki,TER,,1,0,0.00%,Unique,5,0,5
+Suzuki,TL,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,TM,,1,0,0.00%,Unique,5,0,5
+Suzuki,TR,,4,0,0.00%,Nearly Unique,5,0,5
+Suzuki,Trsgz,,1,0,0.00%,Unique,5,0,5
+Suzuki,Truck,,5,5,0.00%,Nearly Unique,5,0,10
+Suzuki,TS,,168,165,0.01%,Very Rare,25,140,190
+Suzuki,TSR,,4,0,0.00%,Nearly Unique,5,0,5
+Suzuki,TST,,2,0,0.00%,Nearly Unique,5,0,5
+Suzuki,VAN,,48,45,0.00%,Very Rare,5,40,50
+Suzuki,Ve 125,,11,10,0.00%,Nearly Unique,5,5,15
+Suzuki,Vectra,,2004,2000,0.13%,Scarce,25,1975,2025
+Suzuki,Verde,,30,30,0.00%,Extremely Rare,5,25,35
+Suzuki,Vino,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,Vitara,,3833,3830,0.24%,Uncommon,25,3805,3855
+Suzuki,Volty,,145,145,0.01%,Very Rare,25,120,170
+Suzuki,Wolf,,3,0,0.00%,Nearly Unique,5,0,5
+Suzuki,X,,11,10,0.00%,Nearly Unique,5,5,15
+Suzuki,XF,,23,20,0.00%,Extremely Rare,5,15,25
+Suzuki,,,313,310,0.02%,Rare,25,285,335
+Talbot,GLS10,,6,5,0.00%,Nearly Unique,5,0,10
+Talbot,GLS10,,3,0,0.00%,Nearly Unique,5,0,5
+Talbot,Horizon,,154,150,0.01%,Very Rare,25,125,175
+Talbot,Matra,,1,0,0.00%,Unique,5,0,5
+Talbot,Samba,,21,20,0.00%,Extremely Rare,5,15,25
+Talbot,Solara,,29,25,0.00%,Extremely Rare,5,20,30
+Talbot,Tagora,,3,0,0.00%,Nearly Unique,5,0,5
+Talbot,VAN,,2,0,0.00%,Nearly Unique,5,0,5
+Talbot,,,3,0,0.00%,Nearly Unique,5,0,5
+Toyota,1.3,,6,5,0.00%,Nearly Unique,5,0,10
+Toyota,2,,9,5,0.00%,Nearly Unique,5,0,10
+Toyota,21,,6,5,0.00%,Nearly Unique,5,0,10
+Toyota,60,,9,5,0.00%,Nearly Unique,5,0,10
+Toyota,101,,66,65,0.00%,Very Rare,5,60,70
+Toyota,110,,8,5,0.00%,Nearly Unique,5,0,10
+Toyota,250,,15,15,0.00%,Nearly Unique,5,10,20
+Toyota,300,,8,5,0.00%,Nearly Unique,5,0,10
+Toyota,800,,6,5,0.00%,Nearly Unique,5,0,10
+Toyota,1000,,143,140,0.01%,Very Rare,25,115,165
+Toyota,1200,,19,15,0.00%,Nearly Unique,5,10,20
+Toyota,1300,,14,10,0.00%,Nearly Unique,5,5,15
+Toyota,1500,,11,10,0.00%,Nearly Unique,5,5,15
+Toyota,1600,,123,120,0.01%,Very Rare,25,95,145
+Toyota,1800,,33,30,0.00%,Extremely Rare,5,25,35
+Toyota,1900,,19,15,0.00%,Nearly Unique,5,10,20
+Toyota,2000,,160,160,0.01%,Very Rare,25,135,185
+Toyota,2300,,7,5,0.00%,Nearly Unique,5,0,10
+Toyota,2600,,14,10,0.00%,Nearly Unique,5,5,15
+Toyota,4 Runner,,2466,2460,0.16%,Scarce,25,2435,2485
+Toyota,Avalon,,26,25,0.00%,Extremely Rare,5,20,30
+Toyota,Avanza,,3,0,0.00%,Nearly Unique,5,0,5
+Toyota,Avensis,,240,240,0.02%,Very Rare,25,215,265
+Toyota,B,,6,5,0.00%,Nearly Unique,5,0,10
+Toyota,Brado,,23,20,0.00%,Extremely Rare,5,15,25
+Toyota,BU,,415,415,0.03%,Rare,25,390,440
+Toyota,Camionette,,30,30,0.00%,Extremely Rare,5,25,35
+Toyota,Camry,,3890,3890,0.25%,Uncommon,25,3865,3915
+Toyota,Carina,,20193,20190,1.28%,Common,100,20090,20290
+Toyota,Celica,,3194,3190,0.20%,Scarce,25,3165,3215
+Toyota,Chaser,,1,0,0.00%,Unique,5,0,5
+Toyota,Coaster,,1244,1240,0.08%,Scarce,25,1215,1265
+Toyota,Corolla,,17925,17920,1.15%,Common,100,17820,18020
+Toyota,Corona,,5196,5190,0.33%,Uncommon,100,5090,5290
+Toyota,Cressida,,4830,4830,0.31%,Uncommon,25,4805,4855
+Toyota,Crown,,1564,1560,0.10%,Scarce,25,1535,1585
+Toyota,Custom,,7,5,0.00%,Nearly Unique,5,0,10
+Toyota,Delta,,8,5,0.00%,Nearly Unique,5,0,10
+Toyota,Dyna,,9189,9180,0.59%,Uncommon,100,9080,9280
+Toyota,Echo,,234,230,0.01%,Very Rare,25,205,255
+Toyota,F,,32,30,0.00%,Extremely Rare,5,25,35
+Toyota,FJ,,52,50,0.00%,Very Rare,5,45,55
+Toyota,Fj40,,10,10,0.00%,Nearly Unique,5,5,15
+Toyota,Forenza,,9,5,0.00%,Nearly Unique,5,0,10
+Toyota,Four Runner,,74,70,0.00%,Very Rare,5,65,75
+Toyota,GL,,12,10,0.00%,Nearly Unique,5,5,15
+Toyota,GLI,,2,0,0.00%,Nearly Unique,5,0,5
+Toyota,Harrier,,3,0,0.00%,Nearly Unique,5,0,5
+Toyota,Hiace,,14343,14340,0.89%,Common,100,14240,14440
+Toyota,Hilokit,,19,15,0.00%,Nearly Unique,5,10,20
+Toyota,Hilux,,5247,5240,0.33%,Uncommon,100,5140,5340
+Toyota,Jeep,,40,40,0.00%,Very Rare,5,35,45
+Toyota,K,,22,20,0.00%,Extremely Rare,5,15,25
+Toyota,KE,,9,5,0.00%,Nearly Unique,5,0,10
+Toyota,KM,,570,570,0.04%,Very Scarce,25,545,595
+Toyota,Kombi,,11,10,0.00%,Nearly Unique,5,5,15
+Toyota,KP,,38,35,0.00%,Extremely Rare,5,30,40
+Toyota,KR,,18,15,0.00%,Nearly Unique,5,10,20
+Toyota,Land Cruiser,,2362,2360,0.15%,Scarce,25,2335,2385
+Toyota,LE,,3,0,0.00%,Nearly Unique,5,0,5
+Toyota,Lexus,,27,25,0.00%,Extremely Rare,5,20,30
+Toyota,LH,,106,105,0.01%,Very Rare,25,80,130
+Toyota,Lite ACE,,3298,3290,0.21%,Scarce,25,3265,3315
+Toyota,Lite Stout,,14,10,0.00%,Nearly Unique,5,5,15
+Toyota,LN,,19,15,0.00%,Nearly Unique,5,10,20
+Toyota,Mark,,96,95,0.01%,Very Rare,5,90,100
+Toyota,Micro,,20,20,0.00%,Extremely Rare,5,15,25
+Toyota,Mini,,51,50,0.00%,Very Rare,5,45,55
+Toyota,Model F,,110,110,0.01%,Very Rare,25,85,135
+Toyota,MR,,21,20,0.00%,Extremely Rare,5,15,25
+Toyota,Panel,,29,25,0.00%,Extremely Rare,5,20,30
+Toyota,Prado,,234,230,0.01%,Very Rare,25,205,255
+Toyota,Previa,,394,390,0.02%,Rare,25,365,415
+Toyota,R,,47,45,0.00%,Very Rare,5,40,50
+Toyota,Rav 4,,5665,5660,0.36%,Uncommon,100,5560,5760
+Toyota,RH,,1446,1440,0.09%,Scarce,25,1415,1465
+Toyota,RK,,2446,2440,0.15%,Scarce,25,2415,2465
+Toyota,RM,,43,40,0.00%,Very Rare,5,35,45
+Toyota,RN,,5068,5060,0.33%,Uncommon,100,4960,5160
+Toyota,RU,,3159,3150,0.20%,Scarce,25,3125,3175
+Toyota,Runner,,59,55,0.00%,Very Rare,5,50,60
+Toyota,RV,,20,20,0.00%,Extremely Rare,5,15,25
+Toyota,RX,,5,5,0.00%,Nearly Unique,5,0,10
+Toyota,RY,,194,190,0.01%,Very Rare,25,165,215
+Toyota,Sierra,,185,185,0.01%,Very Rare,25,160,210
+Toyota,Sivilian,,6,5,0.00%,Nearly Unique,5,0,10
+Toyota,Star,,1499,1490,0.10%,Scarce,25,1465,1515
+Toyota,Starlet,,1660,1660,0.11%,Scarce,25,1635,1685
+Toyota,Stout,,648,645,0.04%,Very Scarce,25,620,670
+Toyota,Supra,,152,150,0.01%,Very Rare,25,125,175
+Toyota,T,,591,590,0.04%,Very Scarce,25,565,615
+Toyota,TA,,11,10,0.00%,Nearly Unique,5,5,15
+Toyota,Tacoma,,2306,2300,0.15%,Scarce,25,2275,2325
+Toyota,Tercel,,3906,3900,0.25%,Uncommon,25,3875,3925
+Toyota,Trueno,,25,25,0.00%,Extremely Rare,5,20,30
+Toyota,Tundra,,89,85,0.01%,Very Rare,5,80,90
+Toyota,XL,,2,0,0.00%,Nearly Unique,5,0,5
+Toyota,XLI,,3,0,0.00%,Nearly Unique,5,0,5
+Toyota,Xtra,,100,100,0.01%,Very Rare,25,75,125
+Toyota,Y,,7,5,0.00%,Nearly Unique,5,0,10
+Toyota,Yaris,,12,10,0.00%,Nearly Unique,5,5,15
+Toyota,YH,,503,500,0.03%,Very Scarce,25,475,525
+Toyota,YK,,7,5,0.00%,Nearly Unique,5,0,10
+Toyota,YN,,223,220,0.01%,Very Rare,25,195,245
+Toyota,YR,,33,30,0.00%,Extremely Rare,5,25,35
+Toyota,YU,,693,690,0.04%,Very Scarce,25,665,715
+Toyota,YY,,100,100,0.01%,Very Rare,25,75,125
+Toyota,ZN,,10,10,0.00%,Nearly Unique,5,5,15
+Toyota,,,1341,1340,0.08%,Scarce,25,1315,1365
+Triumph,200 3Ta,,2,0,0.00%,Nearly Unique,5,0,5
+Triumph,Acclaim,,68,65,0.00%,Very Rare,5,60,70
+Triumph,Dolomite,,2,0,0.00%,Nearly Unique,5,0,5
+Triumph,Hirald,,3,0,0.00%,Nearly Unique,5,0,5
+Triumph,Ir 7,,1,0,0.00%,Unique,5,0,5
+Triumph,MG,,2,0,0.00%,Nearly Unique,5,0,5
+Triumph,Spitfire,,12,10,0.00%,Nearly Unique,5,5,15
+Triumph,Sprint,,2,0,0.00%,Nearly Unique,5,0,5
+Triumph,T 120,,1,0,0.00%,Unique,5,0,5
+Triumph,TR,,11,10,0.00%,Nearly Unique,5,5,15
+Triumph,TRU,,2,0,0.00%,Nearly Unique,5,0,5
+Vauxhall,101,,4,0,0.00%,Nearly Unique,5,0,5
+Vauxhall,270,,3,0,0.00%,Nearly Unique,5,0,5
+Vauxhall,490 Vx,,1,0,0.00%,Unique,5,0,5
+Vauxhall,Carlton,,3,0,0.00%,Nearly Unique,5,0,5
+Vauxhall,Cavalier,,3,0,0.00%,Nearly Unique,5,0,5
+Vauxhall,Victor,,385,385,0.02%,Rare,25,360,410
+Vauxhall,Vieler,,1,0,0.00%,Unique,5,0,5
+Vauxhall,,,8,5,0.00%,Nearly Unique,5,0,10
+Venturi,Atlantique 300,,1,0,0.00%,Unique,5,0,5
+Venturi,,,1,0,0.00%,Unique,5,0,5
+Vespa,50,,15,15,0.00%,Nearly Unique,5,10,20
+Vespa,125,,32,30,0.00%,Extremely Rare,5,25,35
+Vespa,150,,299,295,0.02%,Rare,25,270,320
+Vespa,180,,4,0,0.00%,Nearly Unique,5,0,5
+Vespa,180,,1,0,0.00%,Unique,5,0,5
+Vespa,200,,193,190,0.01%,Very Rare,25,165,215
+Vespa,Piaggio,,98,95,0.01%,Very Rare,5,90,100
+Vespa,PX,,139,135,0.01%,Very Rare,25,110,160
+Vespa,PX 125,,5,5,0.00%,Nearly Unique,5,0,10
+Vespa,PX 150,,22,20,0.00%,Extremely Rare,5,15,25
+Vespa,PX 200,,28,25,0.00%,Extremely Rare,5,20,30
+Vespa,Scooter,,8,5,0.00%,Nearly Unique,5,0,10
+Vespa,TS 125,,5,5,0.00%,Nearly Unique,5,0,10
+Vespa,TS 150,,17,15,0.00%,Nearly Unique,5,10,20
+Vespa,TS 200,,3,0,0.00%,Nearly Unique,5,0,5
+Vespa,Ts 200,,1,0,0.00%,Unique,5,0,5
+Vespa,Typhoon,,6,5,0.00%,Nearly Unique,5,0,10
+Vespa,Vpx 125,,3,0,0.00%,Nearly Unique,5,0,5
+Volkswagen,18,,2,0,0.00%,Nearly Unique,5,0,5
+Volkswagen,21,,148,145,0.01%,Very Rare,25,120,170
+Volkswagen,22,,25,25,0.00%,Extremely Rare,5,20,30
+Volkswagen,181,,8,5,0.00%,Nearly Unique,5,0,10
+Volkswagen,211,,1327,1320,0.08%,Scarce,25,1295,1345
+Volkswagen,231,,11,10,0.00%,Nearly Unique,5,5,15
+Volkswagen,251,,210,210,0.01%,Very Rare,25,185,235
+Volkswagen,251,,150,150,0.01%,Very Rare,25,125,175
+Volkswagen,253,,1,0,0.00%,Unique,5,0,5
+Volkswagen,260,,6,5,0.00%,Nearly Unique,5,0,10
+Volkswagen,411,,97,95,0.01%,Very Rare,5,90,100
+Volkswagen,412,,7,5,0.00%,Nearly Unique,5,0,10
+Volkswagen,1100,,32,30,0.00%,Extremely Rare,5,25,35
+Volkswagen,1200,,547,545,0.04%,Very Scarce,25,520,570
+Volkswagen,1300,,5725,5720,0.36%,Uncommon,100,5620,5820
+Volkswagen,1500,,274,270,0.02%,Rare,25,245,295
+Volkswagen,1600,,393,390,0.02%,Rare,25,365,415
+Volkswagen,113 Buggy,,22,20,0.00%,Extremely Rare,5,15,25
+Volkswagen,113 Buggy,,1,0,0.00%,Unique,5,0,5
+Volkswagen,1300 S,,207,205,0.01%,Very Rare,25,180,230
+Volkswagen,1302 S,,76,75,0.00%,Very Rare,5,70,80
+Volkswagen,1303 S,,488,485,0.03%,Rare,25,460,510
+Volkswagen,1303 S,,419,415,0.03%,Rare,25,390,440
+Volkswagen,1303 S,,398,395,0.03%,Rare,25,370,420
+Volkswagen,Base,,74,70,0.00%,Very Rare,5,65,75
+Volkswagen,Beetle,,1138,1130,0.07%,Scarce,25,1105,1155
+Volkswagen,Bora,,61,60,0.00%,Very Rare,5,55,65
+Volkswagen,Brasilia,,6,5,0.00%,Nearly Unique,5,0,10
+Volkswagen,Buggy,,63,60,0.00%,Very Rare,5,55,65
+Volkswagen,Caddy,,2743,2740,0.17%,Scarce,25,2715,2765
+Volkswagen,Corrado,,143,140,0.01%,Very Rare,25,115,165
+Volkswagen,Derby,,9,5,0.00%,Nearly Unique,5,0,10
+Volkswagen,Golf,,14823,14820,0.96%,Common,100,14720,14920
+Volkswagen,Golf Variant,,31,30,0.00%,Extremely Rare,5,25,35
+Volkswagen,Jetta,,2347,2340,0.15%,Scarce,25,2315,2365
+Volkswagen,Karmann Ghia,,10,10,0.00%,Nearly Unique,5,5,15
+Volkswagen,Kasten,,26,25,0.00%,Extremely Rare,5,20,30
+Volkswagen,Lupo,,2,0,0.00%,Nearly Unique,5,0,5
+Volkswagen,New Beetle,,192,190,0.01%,Very Rare,25,165,215
+Volkswagen,Passat,,1404,1400,0.09%,Scarce,25,1375,1425
+Volkswagen,Polo,,1641,1640,0.10%,Scarce,25,1615,1665
+Volkswagen,Rabbit,,22,20,0.00%,Extremely Rare,5,15,25
+Volkswagen,Ruska,,2,0,0.00%,Nearly Unique,5,0,5
+Volkswagen,Santana,,25,25,0.00%,Extremely Rare,5,20,30
+Volkswagen,Scirocco,,141,140,0.01%,Very Rare,25,115,165
+Volkswagen,Sharan,,51,50,0.00%,Very Rare,5,45,55
+Volkswagen,Syncro,,16,15,0.00%,Nearly Unique,5,10,20
+Volkswagen,T1,,2,0,0.00%,Nearly Unique,5,0,5
+Volkswagen,T2,,70,70,0.00%,Very Rare,5,65,75
+Volkswagen,T3,,3742,3740,0.24%,Uncommon,25,3715,3765
+Volkswagen,T3,,1695,1690,0.11%,Scarce,25,1665,1715
+Volkswagen,T4,,1046,1040,0.06%,Scarce,25,1015,1065
+Volkswagen,T5,,3,0,0.00%,Nearly Unique,5,0,5
+Volkswagen,Taro,,184,180,0.01%,Very Rare,25,155,205
+Volkswagen,Tiguan,,1,0,0.00%,Unique,5,0,5
+Volkswagen,Touareg,,2,0,0.00%,Nearly Unique,5,0,5
+Volkswagen,Transporter,,4363,4360,0.28%,Uncommon,25,4335,4385
+Volkswagen,Type 3,,1,0,0.00%,Unique,5,0,5
+Volkswagen,Vento,,31,30,0.00%,Extremely Rare,5,25,35
+Volkswagen,,,4823,4820,0.31%,Uncommon,25,4795,4845
+Volvo,12,,15,15,0.00%,Nearly Unique,5,10,20
+Volvo,21,,2,0,0.00%,Nearly Unique,5,0,5
+Volvo,50,,1,0,0.00%,Unique,5,0,5
+Volvo,60,,2,0,0.00%,Nearly Unique,5,0,5
+Volvo,88,,11,10,0.00%,Nearly Unique,5,5,15
+Volvo,90,,22,20,0.00%,Extremely Rare,5,15,25
+Volvo,120,,12,10,0.00%,Nearly Unique,5,5,15
+Volvo,121,,224,220,0.01%,Very Rare,25,195,245
+Volvo,122,,231,230,0.01%,Very Rare,25,205,255
+Volvo,122.5,,4,0,0.00%,Nearly Unique,5,0,5
+Volvo,126,,2,0,0.00%,Nearly Unique,5,0,5
+Volvo,140,,11,10,0.00%,Nearly Unique,5,5,15
+Volvo,142,,456,455,0.03%,Rare,25,430,480
+Volvo,143,,2,0,0.00%,Nearly Unique,5,0,5
+Volvo,144,,3882,3880,0.25%,Uncommon,25,3855,3905
+Volvo,145,,459,455,0.03%,Rare,25,430,480
+Volvo,150,,6,5,0.00%,Nearly Unique,5,0,10
+Volvo,164,,127,125,0.01%,Very Rare,25,100,150
+Volvo,180,,6,5,0.00%,Nearly Unique,5,0,10
+Volvo,240,,2643,2640,0.17%,Scarce,25,2615,2665
+Volvo,242,,332,330,0.02%,Rare,25,305,355
+Volvo,244,,16904,16900,1.09%,Common,100,16800,17000
+Volvo,245,,3555,3550,0.23%,Uncommon,25,3525,3575
+Volvo,246,,3,0,0.00%,Nearly Unique,5,0,5
+Volvo,260,,4,0,0.00%,Nearly Unique,5,0,5
+Volvo,262,,17,15,0.00%,Nearly Unique,5,10,20
+Volvo,264,,1598,1590,0.10%,Scarce,25,1565,1615
+Volvo,265,,210,210,0.01%,Very Rare,25,185,235
+Volvo,340,,46,45,0.00%,Very Rare,5,40,50
+Volvo,343,,148,145,0.01%,Very Rare,25,120,170
+Volvo,345,,68,65,0.00%,Very Rare,5,60,70
+Volvo,360,,82,80,0.01%,Very Rare,5,75,85
+Volvo,370,,2,0,0.00%,Nearly Unique,5,0,5
+Volvo,380,,2,0,0.00%,Nearly Unique,5,0,5
+Volvo,385,,1,0,0.00%,Unique,5,0,5
+Volvo,389,,2,0,0.00%,Nearly Unique,5,0,5
+Volvo,402,,5,5,0.00%,Nearly Unique,5,0,10
+Volvo,440,,80,80,0.01%,Very Rare,5,75,85
+Volvo,445,,2,0,0.00%,Nearly Unique,5,0,5
+Volvo,460,,219,215,0.01%,Very Rare,25,190,240
+Volvo,480,,9,5,0.00%,Nearly Unique,5,0,10
+Volvo,540,,3,0,0.00%,Nearly Unique,5,0,5
+Volvo,570,,1,0,0.00%,Unique,5,0,5
+Volvo,600,,15,15,0.00%,Nearly Unique,5,10,20
+Volvo,604,,1,0,0.00%,Unique,5,0,5
+Volvo,609,,1,0,0.00%,Unique,5,0,5
+Volvo,618,,8,5,0.00%,Nearly Unique,5,0,10
+Volvo,646,,1,0,0.00%,Unique,5,0,5
+Volvo,650,,2,0,0.00%,Nearly Unique,5,0,5
+Volvo,720,,8,5,0.00%,Nearly Unique,5,0,10
+Volvo,740,,2900,2900,0.19%,Scarce,25,2875,2925
+Volvo,744,,5,5,0.00%,Nearly Unique,5,0,10
+Volvo,745,,18,15,0.00%,Nearly Unique,5,10,20
+Volvo,760,,1253,1250,0.08%,Scarce,25,1225,1275
+Volvo,780,,7,5,0.00%,Nearly Unique,5,0,10
+Volvo,850,,624,620,0.04%,Very Scarce,25,595,645
+Volvo,940,,873,870,0.06%,Very Scarce,25,845,895
+Volvo,944,,5,5,0.00%,Nearly Unique,5,0,10
+Volvo,945,,7,5,0.00%,Nearly Unique,5,0,10
+Volvo,953,,1,0,0.00%,Unique,5,0,5
+Volvo,960,,613,610,0.04%,Very Scarce,25,585,635
+Volvo,965,,6,5,0.00%,Nearly Unique,5,0,10
+Volvo,1020,,18,15,0.00%,Nearly Unique,5,10,20
+Volvo,1023,,2,0,0.00%,Nearly Unique,5,0,5
+Volvo,1025,,1,0,0.00%,Unique,5,0,5
+Volvo,1033,,9,5,0.00%,Nearly Unique,5,0,10
+Volvo,1220,,20,20,0.00%,Extremely Rare,5,15,25
+Volvo,1233,,3,0,0.00%,Nearly Unique,5,0,5
+Volvo,1245,,3,0,0.00%,Nearly Unique,5,0,5
+Volvo,1600,,3,0,0.00%,Nearly Unique,5,0,5
+Volvo,1800,,13,10,0.00%,Nearly Unique,5,5,15
+Volvo,4500,,10,10,0.00%,Nearly Unique,5,5,15
+Volvo,6104,,1,0,0.00%,Unique,5,0,5
+Volvo,240Gl,,18,15,0.00%,Nearly Unique,5,10,20
+Volvo,A,,25,25,0.00%,Extremely Rare,5,20,30
+Volvo,B,,5,5,0.00%,Nearly Unique,5,0,10
+Volvo,BM,,13,10,0.00%,Nearly Unique,5,5,15
+Volvo,Bmel,,1,0,0.00%,Unique,5,0,5
+Volvo,C,,33,30,0.00%,Extremely Rare,5,25,35
+Volvo,D,,1,0,0.00%,Unique,5,0,5
+Volvo,DH,,1,0,0.00%,Unique,5,0,5
+Volvo,DL,,9,5,0.00%,Nearly Unique,5,0,10
+Volvo,E,,3,0,0.00%,Nearly Unique,5,0,5
+Volvo,E6,,1,0,0.00%,Unique,5,0,5
+Volvo,EC,,4,0,0.00%,Nearly Unique,5,0,5
+Volvo,EGS,,1,0,0.00%,Unique,5,0,5
+Volvo,Excavators,,1,0,0.00%,Unique,5,0,5
+Volvo,F,,230,230,0.01%,Very Rare,25,205,255
+Volvo,GL,,7,5,0.00%,Nearly Unique,5,0,10
+Volvo,GLE,,10,10,0.00%,Nearly Unique,5,5,15
+Volvo,GLT,,1,0,0.00%,Unique,5,0,5
+Volvo,GM,,1,0,0.00%,Unique,5,0,5
+Volvo,Kombi,,2,0,0.00%,Nearly Unique,5,0,5
+Volvo,L,,71,70,0.00%,Very Rare,5,65,75
+Volvo,M,,1,0,0.00%,Unique,5,0,5
+Volvo,ML,,2,0,0.00%,Nearly Unique,5,0,5
+Volvo,N,,171,170,0.01%,Very Rare,25,145,195
+Volvo,NL,,25,25,0.00%,Extremely Rare,5,20,30
+Volvo,Nl12,,22,20,0.00%,Extremely Rare,5,15,25
+Volvo,P,,9,5,0.00%,Nearly Unique,5,0,10
+Volvo,PL,,2,0,0.00%,Nearly Unique,5,0,5
+Volvo,S,,1094,1090,0.07%,Scarce,25,1065,1115
+Volvo,T,,11,10,0.00%,Nearly Unique,5,5,15
+Volvo,T1,,1,0,0.00%,Unique,5,0,5
+Volvo,Turbo,,5,5,0.00%,Nearly Unique,5,0,10
+Volvo,V,,171,170,0.01%,Very Rare,25,145,195
+Volvo,VAN,,3,0,0.00%,Nearly Unique,5,0,5
+Volvo,XC,,2,0,0.00%,Nearly Unique,5,0,5
+Volvo,,,351,350,0.02%,Rare,25,325,375
+Willys,Aero,,1,0,0.00%,Unique,5,0,5
+Yamaha,2,,6,5,0.00%,Nearly Unique,5,0,10
+Yamaha,3,,12,10,0.00%,Nearly Unique,5,5,15
+Yamaha,27,,38,35,0.00%,Extremely Rare,5,30,40
+Yamaha,49,,66,65,0.00%,Very Rare,5,60,70
+Yamaha,50,,1139,1130,0.07%,Scarce,25,1105,1155
+Yamaha,70,,2,0,0.00%,Nearly Unique,5,0,5
+Yamaha,75,,3,0,0.00%,Nearly Unique,5,0,5
+Yamaha,80,,106,105,0.01%,Very Rare,25,80,130
+Yamaha,90,,107,105,0.01%,Very Rare,25,80,130
+Yamaha,100,,196,195,0.01%,Very Rare,25,170,220
+Yamaha,115,,33,30,0.00%,Extremely Rare,5,25,35
+Yamaha,120,,1,0,0.00%,Unique,5,0,5
+Yamaha,124,,1,0,0.00%,Unique,5,0,5
+Yamaha,125,,592,590,0.04%,Very Scarce,25,565,615
+Yamaha,135,,25,25,0.00%,Extremely Rare,5,20,30
+Yamaha,150,,10,10,0.00%,Nearly Unique,5,5,15
+Yamaha,175,,9,5,0.00%,Nearly Unique,5,0,10
+Yamaha,200,,72,70,0.00%,Very Rare,5,65,75
+Yamaha,225,,15,15,0.00%,Nearly Unique,5,10,20
+Yamaha,250,,162,160,0.01%,Very Rare,25,135,185
+Yamaha,350,,4,0,0.00%,Nearly Unique,5,0,5
+Yamaha,400,,70,70,0.00%,Very Rare,5,65,75
+Yamaha,500,,73,70,0.00%,Very Rare,5,65,75
+Yamaha,550,,6,5,0.00%,Nearly Unique,5,0,10
+Yamaha,600,,62,60,0.00%,Very Rare,5,55,65
+Yamaha,650,,15,15,0.00%,Nearly Unique,5,10,20
+Yamaha,660,,11,10,0.00%,Nearly Unique,5,5,15
+Yamaha,750,,98,95,0.01%,Very Rare,5,90,100
+Yamaha,850,,19,15,0.00%,Nearly Unique,5,10,20
+Yamaha,900,,1,0,0.00%,Unique,5,0,5
+Yamaha,1000,,91,90,0.01%,Very Rare,5,85,95
+Yamaha,1100,,17,15,0.00%,Nearly Unique,5,10,20
+Yamaha,1200,,18,15,0.00%,Nearly Unique,5,10,20
+Yamaha,1300,,3,0,0.00%,Nearly Unique,5,0,5
+Yamaha,8022,,3,0,0.00%,Nearly Unique,5,0,5
+Yamaha,1YU,,4,0,0.00%,Nearly Unique,5,0,5
+Yamaha,2JA,,38,35,0.00%,Extremely Rare,5,30,40
+Yamaha,4A,,3,0,0.00%,Nearly Unique,5,0,5
+Yamaha,Active,,122,120,0.01%,Very Rare,25,95,145
+Yamaha,Aprio,,15309,15300,0.96%,Common,100,15200,15400
+Yamaha,Artistic,,28,25,0.00%,Extremely Rare,5,20,30
+Yamaha,Axis,,600,600,0.04%,Very Scarce,25,575,625
+Yamaha,Beluga,,918,915,0.06%,Very Scarce,25,890,940
+Yamaha,Bety,,4,0,0.00%,Nearly Unique,5,0,5
+Yamaha,Boxin,,16,15,0.00%,Nearly Unique,5,10,20
+Yamaha,BW,,49,45,0.00%,Very Rare,5,40,50
+Yamaha,BWS,,227,225,0.01%,Very Rare,25,200,250
+Yamaha,Champ,,4310,4310,0.27%,Uncommon,25,4285,4335
+Yamaha,Cute,,6,5,0.00%,Nearly Unique,5,0,10
+Yamaha,CX,,11,10,0.00%,Nearly Unique,5,5,15
+Yamaha,Cygnus,,3894,3890,0.25%,Uncommon,25,3865,3915
+Yamaha,DAX,,3,0,0.00%,Nearly Unique,5,0,5
+Yamaha,Doche Jog,,2,0,0.00%,Nearly Unique,5,0,5
+Yamaha,Dragstar,,39,35,0.00%,Extremely Rare,5,30,40
+Yamaha,DT,,125,125,0.01%,Very Rare,25,100,150
+Yamaha,Fj 1200,,6,5,0.00%,Nearly Unique,5,0,10
+Yamaha,FZ,,29,25,0.00%,Extremely Rare,5,20,30
+Yamaha,FZR,,368,365,0.02%,Rare,25,340,390
+Yamaha,FZX,,17,15,0.00%,Nearly Unique,5,10,20
+Yamaha,Gear,,4581,4580,0.29%,Uncommon,25,4555,4605
+Yamaha,Gogz,,3,0,0.00%,Nearly Unique,5,0,5
+Yamaha,Grand,,39,35,0.00%,Extremely Rare,5,30,40
+Yamaha,JOG,,53943,53940,3.45%,Common,250,53690,54190
+Yamaha,KB,,1,0,0.00%,Unique,5,0,5
+Yamaha,Majesty,,1346,1340,0.08%,Scarce,25,1315,1365
+Yamaha,Mate,,2,0,0.00%,Nearly Unique,5,0,5
+Yamaha,MBK,,19,15,0.00%,Nearly Unique,5,10,20
+Yamaha,Mint,,661,660,0.04%,Very Scarce,25,635,685
+Yamaha,Motobegane,,1,0,0.00%,Unique,5,0,5
+Yamaha,MR,,3,0,0.00%,Nearly Unique,5,0,5
+Yamaha,NEO,,16,15,0.00%,Nearly Unique,5,10,20
+Yamaha,NEW,,121,120,0.01%,Very Rare,25,95,145
+Yamaha,Passol,,12,10,0.00%,Nearly Unique,5,5,15
+Yamaha,Ploga,,30,30,0.00%,Extremely Rare,5,25,35
+Yamaha,Poet,,5,5,0.00%,Nearly Unique,5,0,10
+Yamaha,R1,,17,15,0.00%,Nearly Unique,5,10,20
+Yamaha,R6,,5,5,0.00%,Nearly Unique,5,0,10
+Yamaha,RD,,4,0,0.00%,Nearly Unique,5,0,5
+Yamaha,RS,,29,25,0.00%,Extremely Rare,5,20,30
+Yamaha,RX,,61,60,0.00%,Very Rare,5,55,65
+Yamaha,RZ,,7,5,0.00%,Nearly Unique,5,0,10
+Yamaha,Saliant,,19,15,0.00%,Nearly Unique,5,10,20
+Yamaha,Shoot,,2,0,0.00%,Nearly Unique,5,0,5
+Yamaha,Sigess,,4,0,0.00%,Nearly Unique,5,0,5
+Yamaha,SR,,21,20,0.00%,Extremely Rare,5,15,25
+Yamaha,SRX,,17,15,0.00%,Nearly Unique,5,10,20
+Yamaha,Super Jog,,6,5,0.00%,Nearly Unique,5,0,10
+Yamaha,T 50,,66,65,0.00%,Very Rare,5,60,70
+Yamaha,T 80,,34,30,0.00%,Extremely Rare,5,25,35
+Yamaha,T 90,,81,80,0.01%,Very Rare,5,75,85
+Yamaha,Town Mate,,3,0,0.00%,Nearly Unique,5,0,5
+Yamaha,Tracy,,20,20,0.00%,Extremely Rare,5,15,25
+Yamaha,TRY,,10,10,0.00%,Nearly Unique,5,5,15
+Yamaha,TTR,,40,40,0.00%,Very Rare,5,35,45
+Yamaha,TVY,,1,0,0.00%,Unique,5,0,5
+Yamaha,TZR,,42,40,0.00%,Very Rare,5,35,45
+Yamaha,V,,106,105,0.01%,Very Rare,25,80,130
+Yamaha,Vecstar,,1,0,0.00%,Unique,5,0,5
+Yamaha,Versity,,1,0,0.00%,Unique,5,0,5
+Yamaha,Vino,,3301,3300,0.21%,Scarce,25,3275,3325
+Yamaha,Virago,,98,95,0.01%,Very Rare,5,90,100
+Yamaha,VOG,,1,0,0.00%,Unique,5,0,5
+Yamaha,WR,,2,0,0.00%,Nearly Unique,5,0,5
+Yamaha,XB,,6,5,0.00%,Nearly Unique,5,0,10
+Yamaha,XC,,259,255,0.02%,Rare,25,230,280
+Yamaha,XJ,,7,5,0.00%,Nearly Unique,5,0,10
+Yamaha,XLR,,2,0,0.00%,Nearly Unique,5,0,5
+Yamaha,XP,,2,0,0.00%,Nearly Unique,5,0,5
+Yamaha,XS,,6,5,0.00%,Nearly Unique,5,0,10
+Yamaha,XT,,69,65,0.00%,Very Rare,5,60,70
+Yamaha,XTZ,,17,15,0.00%,Nearly Unique,5,10,20
+Yamaha,XV,,50,50,0.00%,Very Rare,5,45,55
+Yamaha,XVS,,1,0,0.00%,Unique,5,0,5
+Yamaha,XVZ,,4,0,0.00%,Nearly Unique,5,0,5
+Yamaha,YB,,205,205,0.01%,Very Rare,25,180,230
+Yamaha,YFM,,1,0,0.00%,Unique,5,0,5
+Yamaha,YP,,53,50,0.00%,Very Rare,5,45,55
+Yamaha,YSR,,8,5,0.00%,Nearly Unique,5,0,10
+Yamaha,YZ,,2,0,0.00%,Nearly Unique,5,0,5
+Yamaha,ZR,,2,0,0.00%,Nearly Unique,5,0,5
