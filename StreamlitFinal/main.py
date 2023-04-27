@@ -30,7 +30,7 @@ hide_st_style = """
             header {visibility: hidden;}
             </style>
             """
-st.markdown(hide_st_style, unsafe_allow_html=True)
+# st.markdown(hide_st_style, unsafe_allow_html=True)
 
 # Set dataframes
 df_brand_model_year=pd.read_csv("/app/autopia-art-tool/StreamlitFinal/brand_model_year.csv",encoding='windows-1252')
