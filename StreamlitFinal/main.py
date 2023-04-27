@@ -19,7 +19,7 @@ def local_css(main):
     with open(main) as f:
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
-local_css("main.css")
+local_css("/main.css")
 
 # Add CSS styles to the page
 hide_st_style = """
