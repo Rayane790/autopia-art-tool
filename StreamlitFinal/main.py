@@ -34,10 +34,10 @@ st.markdown(hide_st_style, unsafe_allow_html=True)
 
 # Set dataframes
 df_brand_model_year=pd.read_csv("/app/autopia-art-tool/StreamlitFinal/brand_model_year.csv",encoding='windows-1252')
-df_brand_model=pd.read_csv("brand_model.csv", encoding='windows-1252')
-df_brand=pd.read_csv("brand.csv", encoding='windows-1252')
-df_brand_year=pd.read_csv("brand_year.csv", encoding='windows-1252')    
-df_year=pd.read_csv("brand_year.csv", encoding='windows-1252')
+df_brand_model=pd.read_csv("/app/autopia-art-tool/StreamlitFinal/brand_model.csv", encoding='windows-1252')
+df_brand=pd.read_csv("/app/autopia-art-tool/StreamlitFinal/brand.csv", encoding='windows-1252')
+df_brand_year=pd.read_csv("/app/autopia-art-tool/StreamlitFinal/brand_year.csv", encoding='windows-1252')    
+df_year=pd.read_csv("/app/autopia-art-tool/StreamlitFinal/brand_year.csv", encoding='windows-1252')
 # We will start filtering in the sheet brand_model_year
 st.header("Here, you can see the distribution of a particular brand, based on its year of production, and  model. Choose a brand and get started!")
 
